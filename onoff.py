@@ -4,7 +4,7 @@ import json
 import os
 import pandas as pd
 
-TEAMS_FILE = 'onoff/teams.csv'
+TEAMS_FILE = 'teams.csv'
 
 VALUE_KEYS = [u'GP', u'MIN', u'PLUS_MINUS',
               u'OFF_RATING', u'DEF_RATING', u'NET_RATING']
