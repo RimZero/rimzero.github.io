@@ -27,10 +27,10 @@ if __name__ == '__main__':
         overall = passes_made.merge(
             passes_recieved, left_on=PRIMARY_KEYS,
             right_on=PRIMARY_KEYS, how='outer',
-            suffixes=['_ON_MADE', '_ON_RECEIVED']).dropna().drop(['TEAM_ID', 'PASS_TEAMMATE_PLAYER_ID'])
+            suffixes=['_ON_MADE', '_ON_RECEIVED']).dropna().drop(['TEAM_ID', 'PASS_TEAMMATE_PLAYER_ID'], 1)
         if all is not None:
-            all = pd.concat([all, ordered_overall])
+            all = pd.concat([all, overall])
         else:
-            all = ordered_overall
+            all = overall
         print overall
     all.to_csv('passdash/data/passdash.csv', index=False)
