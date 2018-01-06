@@ -1,3 +1,4 @@
+`python onoff_types.py`
 `python onoff.py`
 `python passdash.py`
 `git add *`

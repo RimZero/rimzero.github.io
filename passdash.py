@@ -33,4 +33,4 @@ if __name__ == '__main__':
         else:
             all = overall
         print overall
-    all.to_csv('passdash/data/passdash.csv', index=False)
+    all.to_csv('data/passdash.csv', index=False)

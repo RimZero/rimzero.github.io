@@ -1,38 +1,87 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <style type="text/css">
-        
-            .wrapper{
-                font-size: 0;
-                height: 100%;
-                max-width: 100%;
-                display:flex;
-                display: -webkit-flex; 
-                align-items: center;
-            }
-              .wrapper::before{
-                display:inline-block;
-                width: 0;
-                height:100%;
-                vertical-align:middle;
-            }
+<!doctype html>
+<html lang="en">
 
-            .name{
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                margin: auto;
-                height: 100%;
-                vertical-align:middle;
-                font-size: 100px;
-                font-family: Arial, Helvetica, sans-serif
-            }
-        </style>
-    </head>
-    <body>
-        <div class="wrapper">
-            <span class="name">RimZero 篮圈的里世界</span>
-          </div>
-    </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="RimZero">
+  <meta name="author" content="Hang">
+  <link rel="icon" href="favicon.ico">
+
+  <title>Rimzero Dashboard</title>
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/jquery.csv.min.js"></script>
+  <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
+  <script type="text/javascript" src="js/csv_to_html_table.js"></script>
+  <link href="css/dashboard.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="#">Rimzero Dashboard</a>
+      <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              Passing
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item data-select" href="#" id='passdash'>Base</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+              aria-expanded="false">
+              On/Off
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item data-select" href="#" id='onoff'>Base</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+    </nav>
+  </header>
+  <div id='table-container'></div>
+
+  <script type="text/javascript">
+    function select_data(file_name) {
+      function format_link(link) {
+        if (link)
+          return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+        else
+          return "";
+      }
+
+      CsvToHtmlTable.init({
+        csv_path: 'data/' + file_name + '.csv',
+        element: 'table-container',
+        allow_download: true,
+        csv_options: {
+          separator: ',',
+          delimiter: '"'
+        },
+        datatables_options: {
+          "paging": false
+        },
+      });
+    }
+    $('.data-select').on('click', function (element) {
+      select_data(element.target.id)
+    })
+  </script>
+</body>
+
 </html>
