@@ -50,7 +50,7 @@ CsvToHtmlTable = {
         $('#' + el + '-table').DataTable(datatables_options);
 
         if (allow_download)
-          $("#" + el).prepend("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
+          $("#" + el).prepend("<row><div class='col-sm-12 col-md-6'><a class='btn btn-inverse' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></div></row>");
       });
   }
 }
