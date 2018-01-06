@@ -13,6 +13,7 @@ PRIMARY_KEYS = [u'GROUP_SET', u'TEAM_ID', u'TEAM_ABBREVIATION',
                 u'TEAM_NAME', u'VS_PLAYER_ID', u'VS_PLAYER_NAME']
 MEASURE_TYPES = ['Base', 'Advanced', 'Misc',
                  'Four Factors', 'Scoring', 'Opponent', ]
+
 if __name__ == '__main__':
     if os.path.exists(TEAMS_FILE):
         teams = pd.DataFrame.from_csv(TEAMS_FILE)
