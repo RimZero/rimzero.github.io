@@ -35,7 +35,7 @@ if __name__ == '__main__':
                 suffixes=['_ON', '_OFF']).dropna()
 
             value_keys = [item for item in list(
-                on_court.columns) if item not in PRIMARY_KEYS]
+                on_court.columns) if item not in PRIMARY_KEYS and "RANK" not in item]
             ordered_overall = overall[['TEAM_NAME', 'VS_PLAYER_NAME']]
 
             for name in value_keys:
