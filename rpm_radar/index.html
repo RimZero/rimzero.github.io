@@ -116,8 +116,9 @@
             </li>
         </ul>
     </div>
+    <table class="teamTable" style="float:right;cursor:pointer"></table>
 
-    <div class="container" style="width:100%">
+    <div class="container" style="width:90%">
         <div id="viz_container" class="z-depth-3"></div>
     </div>
 
@@ -126,9 +127,7 @@
         //Once the document is ready we set javascript and page settings
         var screenWidth;
         var screenHeight;
-
         $(document).ready(function () {
-
             var rect;
             if (self == top) {
                 rect = document.body.getBoundingClientRect();
@@ -159,8 +158,7 @@
                 .style("height", screenHeight + "px");
 
             loadData();
-
-
+            drawTable();
         });
     </script>
 
