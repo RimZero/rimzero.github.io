@@ -12,6 +12,7 @@ import imageio
 import time
 import numpy
 from PIL import Image
+import pandas as pd
 
 
 def take_screenshot(driver, element=None):
@@ -43,6 +44,43 @@ def take_screenshot(driver, element=None):
     return numpy.asarray(screenshot)
 
 
+def gifs_by_team(teams, keys, driver):
+    for team in teams:
+        team_frames = []
+        for key in keys:
+            print(team, key)
+            element = driver.find_element_by_id(
+                'viz_container').find_element_by_css_selector('rect')
+            print(element)
+            # hover = ActionChains(driver).move_to_element(element)
+            # hover.perform()
+            driver.execute_script("document.getElementById('" + team +
+                                  "-" + key + "').dispatchEvent(new MouseEvent('mouseover'))")
+            frame = take_screenshot(driver, element=element)
+            team_frames.append(frame)
+            imageio.mimwrite('gifs/teams/' + team + '.gif',
+                             team_frames, duration=1)
+
+
+def gifs_by_position(keys, driver, df):
+    for key in keys:
+        key_frames = []
+        teams = list(df.sort_values(key, ascending=False)['RPM'])
+        for team in teams:
+            print(team, key)
+            element = driver.find_element_by_id(
+                'viz_container').find_element_by_css_selector('rect')
+            print(element)
+            # hover = ActionChains(driver).move_to_element(element)
+            # hover.perform()
+            driver.execute_script("document.getElementById('" + team +
+                                  "-" + key + "').dispatchEvent(new MouseEvent('mouseover'))")
+            frame = take_screenshot(driver, element=element)
+            key_frames.append(frame)
+        imageio.mimwrite('gifs/positions/' + key + '.gif',
+                         key_frames, duration=0.3)
+
+
 options = webdriver.ChromeOptions()
 # use headless
 # options.add_argument('headless')
@@ -57,24 +95,17 @@ url = 'file:///Users/hang/rimzero.github.io/rpm_radar/index.html'
 keys = ['PG', 'SG', 'SF', 'PF', 'C']
 teams = ['GSW', 'HOU', 'TOR', 'MIN', 'BOS', 'OKC', 'PHI', 'WAS', 'NOP', 'CLE', 'SAS', 'DEN', 'DET', 'IND', 'MIA',
          'UTA', 'MIL', 'POR', 'DAL', 'CHA', 'LAC', 'NYK', 'BKN', 'MEM', 'ATL', 'LAL', 'CHI', 'ORL', 'PHX', 'SAC']
+
 driver.get(url)
 
+
+def numlize(x): return int(x.replace('%', '')) if '%' in x else x
+
+
+df = pd.read_csv('data/rpm.csv')
+df = df.applymap(numlize)
 driver.find_element_by_xpath('/html/body/table/tr[1]/th').click()
 time.sleep(3)
-frames = []
-for team in teams:
-    team_frames = []
-    for key in keys:
-        print(team, key)
-        element = driver.find_element_by_id(
-            'viz_container').find_element_by_css_selector('rect')
-        print(element)
-        # hover = ActionChains(driver).move_to_element(element)
-        # hover.perform()
-        driver.execute_script("document.getElementById('" + team +
-                              "-" + key + "').dispatchEvent(new MouseEvent('mouseover'))")
-        frame = take_screenshot(driver, element=element)
-        team_frames.append(frame)
-        imageio.mimwrite('gifs/teams/' + team + '.gif',
-                         team_frames, duration=1)
+gifs_by_position(keys, driver, df)
+
 driver.quit()
