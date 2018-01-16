@@ -76,5 +76,5 @@ for team in teams:
         frame = take_screenshot(driver, element=element)
         team_frames.append(frame)
         imageio.mimwrite('gifs/teams/' + team + '.gif',
-                         team_frames, duration=0.6)
+                         team_frames, duration=1)
 driver.quit()
