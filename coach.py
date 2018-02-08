@@ -1,5 +1,4 @@
 from py2neo import Graph, Node, Relationship, authenticate
-import neo4j
 import pandas as pd
 # import chardet
 
