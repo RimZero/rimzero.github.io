@@ -177,6 +177,41 @@ class TeamStats:
         return _api_scrape(self.json, 0)
 
 
+class TeamMatchups:
+    _endpoint = 'leagueseasonmatchups'
+
+    def __init__(self,
+                 date_from=constants.DateFrom.Default,
+                 date_to=constants.DateTo.Default,
+                 league_id=constants.League.Default,
+                 outcome=constants.Outcome.Default,
+                 playoff_round=constants.PlayoffRound.Default,
+                 per_mode=constants.PerMode.Default,
+                 season=constants.CURRENT_SEASON,
+                 season_type=constants.SeasonType.Default,
+                 def_team_id=constants.DefTeamID.Default,
+                 off_team_id=constants.OffTeamID.Default,
+                 def_player_id=constants.DefPlayerID.Default,
+                 off_player_id=constants.OffPlayerID.Default,
+                 ):
+        self.json = _get_json(endpoint=self._endpoint,
+                              params={"LeagueID": league_id,
+                                      "Season": season,
+                                      "SeasonType": season_type,
+                                      "PORound": playoff_round,
+                                      "PerMode": per_mode,
+                                      "Outcome": outcome,
+                                      "DateFrom": date_from,
+                                      "DateTo": date_to,
+                                      "DefTeamID": def_team_id,
+                                      "OffTeamID": off_team_id,
+                                      "OffPlayerID": off_player_id,
+                                      "DefPlayerID": def_player_id})
+
+    def overall(self):
+        return _api_scrape(self.json, 0)
+
+
 class PlayerStats:
     _endpoint = 'leaguedashplayerstats'
 

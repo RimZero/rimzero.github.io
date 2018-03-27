@@ -528,6 +528,18 @@ class Rank(_DefaultN):
 class OpponentTeamID(_DefaultZero):
     pass
 
+class DefTeamID(_DefaultBlank):
+    pass
+
+class OffTeamID(_DefaultBlank):
+    pass
+
+class OffPlayerID(_DefaultBlank):
+    pass
+    
+class DefPlayerID(_DefaultBlank):
+    pass
+
 
 class Period(_DefaultZero):
     AllQuarters = '0'

@@ -86,7 +86,6 @@ def _get_json(endpoint, params, referer='scores'):
     """
     h = dict(HEADERS)
     h['referer'] = 'http://stats.nba.com/{ref}/'.format(ref=referer)
-    print BASE_URL.format(endpoint=endpoint)
     _get = get(
         BASE_URL.format(endpoint=endpoint),
         params=params,
