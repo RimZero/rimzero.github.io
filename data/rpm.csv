@@ -57,7 +57,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 56,"J.J. Barea, PG",DAL,69,23.2,1.53,-2.67,-1.14,2.01
 57,"Arron Afflalo, SG",ORL,53,12.9,-3.00,-1.36,-4.36,-0.53
 58,"Marco Belinelli, SG",ATL/PHI,80,24.3,0.92,-2.35,-1.43,2.14
-59,"Corey Brewer, F",LAL/OKC,72,16.8,-2.77,-0.61,-3.38,-0.12
+59,"Corey Brewer, SF",LAL/OKC,72,16.8,-2.77,-0.61,-3.38,-0.12
 60,"Aaron Brooks, PG",MIN,32,5.9,-1.87,-1.65,-3.52,-0.04
 61,"Wilson Chandler, SF",DEN,74,31.6,-0.80,-0.29,-1.09,3.03
 62,"Mike Conley, PG",MEM,12,31.1,-0.68,-0.01,-0.69,0.56
@@ -212,7 +212,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 211,"Tyler Zeller, C",MIL/BKN,66,16.8,-1.55,0.72,-0.83,1.65
 212,"Kent Bazemore, SG",ATL,65,27.5,0.26,0.99,1.25,5.02
 213,"Andre Ingram, G",LAL,2,32.0,-1.12,0.29,-0.83,0.10
-214,"Aaron Jackson, F",HOU,1,35.0,-1.81,-0.26,-2.07,0.02
+214,"Aaron Jackson, G",HOU,1,35.0,-1.81,-0.26,-2.07,0.02
 215,"John Holland, G",CLE,24,7.3,-2.35,-0.86,-3.21,-0.01
 216,"Malcolm Delaney, PG",ATL,54,18.8,-1.62,-0.91,-2.53,0.38
 217,"Jacob Pullen, PG",PHI,3,2.0,-1.32,-0.02,-1.34,0.01
