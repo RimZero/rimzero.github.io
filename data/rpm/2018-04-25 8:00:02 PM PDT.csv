@@ -144,7 +144,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 143,"Patrick Patterson, PF",OKC,82,15.5,-0.77,0.40,-0.37,2.12
 144,"Cole Aldrich, C",MIN,21,2.3,-2.01,1.12,-0.89,0.07
 145,"Nemanja Bjelica, PF",MIN,67,20.5,-0.27,1.28,1.01,3.66
-146,"Trevor Booker, F",IND/BKN/PHI,68,17.0,-1.15,-0.27,-1.42,0.98
+146,"Trevor Booker, PF",IND/BKN/PHI,68,17.0,-1.15,-0.27,-1.42,0.98
 147,"Jeremy Evans, F",ATL,1,5.0,-1.73,0.03,-1.70,0.01
 148,"Timofey Mozgov, C",BKN,31,11.6,-3.04,2.03,-1.01,0.50
 149,"Jeremy Lin, PG",BKN,1,25.0,-1.58,-0.12,-1.70,0.03
@@ -212,7 +212,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 211,"Tyler Zeller, C",MIL/BKN,66,16.8,-1.60,0.65,-0.95,1.56
 212,"Kent Bazemore, SG",ATL,65,27.5,0.22,0.96,1.18,4.94
 213,"Andre Ingram, G",LAL,2,32.0,-1.15,0.27,-0.88,0.10
-214,"Aaron Jackson, F",HOU,1,35.0,-1.85,-0.25,-2.10,0.02
+214,"Aaron Jackson, G",HOU,1,35.0,-1.85,-0.25,-2.10,0.02
 215,"John Holland, G",CLE,24,7.3,-2.35,-0.86,-3.21,-0.01
 216,"Malcolm Delaney, PG",ATL,54,18.8,-1.61,-0.99,-2.60,0.34
 217,"Jacob Pullen, PG",PHI,3,2.0,-1.32,-0.02,-1.34,0.01
@@ -447,7 +447,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 446,"Gian Clavell, SG",DAL,7,9.1,-0.59,-0.56,-1.15,0.08
 447,"Patrick McCaw, SG",GS,57,16.9,-3.00,-2.30,-5.30,-1.36
 448,"Rashad Vaughn, G",MIL/BKN/ORL,28,7.6,-1.19,-0.65,-1.84,0.14
-449,"Devin Robinson, F",WSH,1,13.0,-1.56,-0.17,-1.73,0.01
+449,"Devin Robinson, SF",WSH,1,13.0,-1.56,-0.17,-1.73,0.01
 450,"Justin Jackson, SF",SAC,68,22.1,-2.19,-0.88,-3.07,0.05
 451,"Daniel Hamilton, SG",OKC,6,4.7,-1.74,-0.01,-1.75,0.02
 452,"Chinanu Onuaku, C",HOU,1,22.0,-2.10,0.92,-1.18,0.02
