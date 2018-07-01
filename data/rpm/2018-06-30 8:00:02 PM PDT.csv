@@ -27,7 +27,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 26,"Al Jefferson, C",IND,36,13.4,-1.78,0.96,-0.82,0.70
 27,"Shaun Livingston, PG",GS,71,15.9,-1.63,-0.21,-1.84,0.95
 28,"Emeka Okafor, C",NO,26,13.6,-1.84,1.11,-0.73,0.01
-29,"Trevor Ariza, F",HOU,67,33.9,0.51,1.15,1.66,7.02
+29,"Trevor Ariza, SF",HOU,67,33.9,0.51,1.15,1.66,7.02
 30,"Luol Deng, SF",LAL,1,13.0,-1.99,0.62,-1.37,0.02
 31,"Jameer Nelson, PG",NO/DET,50,20.3,-2.67,-2.60,-5.27,-1.37
 32,"JR Smith, SG",CLE,80,28.1,-0.06,-2.23,-2.29,1.20
@@ -37,7 +37,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 36,"Channing Frye, PF",CLE/LAL,53,13.1,-0.04,0.67,0.63,1.70
 37,"Marcin Gortat, C",WSH,82,25.3,-2.12,2.05,-0.07,4.02
 38,"Gerald Green, SG",HOU,41,22.7,0.01,-0.78,-0.77,1.40
-39,"Ersan Ilyasova, F",ATL/PHI,69,25.1,0.62,0.30,0.92,3.03
+39,"Ersan Ilyasova, PF",ATL/PHI,69,25.1,0.62,0.30,0.92,3.03
 40,"Jarrett Jack, PG",NY,62,25.0,-0.44,-0.40,-0.84,2.25
 41,"Amir Johnson, C",PHI,74,15.8,-1.27,3.05,1.78,3.85
 42,"Ian Mahinmi, C",WSH,77,14.9,-1.99,1.45,-0.54,1.89
@@ -99,7 +99,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 98,"Marreese Speights, PF",ORL,52,13.0,-0.01,1.07,1.06,1.80
 99,"Russell Westbrook, PG",OKC,80,36.4,3.96,1.20,5.16,15.73
 100,"Bobby Brown, PG",HOU,20,5.8,-1.65,-1.29,-2.94,0.01
-101,"Omri Casspi, F",GS,53,14.0,-0.85,1.11,0.26,1.66
+101,"Omri Casspi, SF",GS,53,14.0,-0.85,1.11,0.26,1.66
 102,"Bojan Bogdanovic, SF",IND,80,30.8,-0.26,-0.72,-0.98,3.37
 103,"Patrick Beverley, PG",LAC,11,30.4,-1.17,0.05,-1.12,0.42
 104,"DeMarre Carroll, SF",BKN,73,29.9,0.24,1.41,1.65,6.64
@@ -137,7 +137,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 136,"Quincy Pondexter, SG",CHI,23,8.5,-3.23,-0.47,-3.70,-0.07
 137,"Derrick Favors, PF",UTAH,77,28.0,-0.46,0.99,0.53,4.96
 138,"DeMarcus Cousins, C",NO,48,36.2,2.06,1.60,3.66,7.50
-139,"Ed Davis, F",POR,78,18.9,-1.39,2.42,1.03,3.79
+139,"Ed Davis, PF",POR,78,18.9,-1.39,2.42,1.03,3.79
 140,"Greg Monroe, C",BOS/MIL/PHX,51,20.4,-1.13,-0.63,-1.76,0.91
 141,"Ekpe Udoh, C",UTAH,63,12.9,-1.35,3.66,2.31,2.78
 142,"Hassan Whiteside, C",MIA,54,25.3,-3.04,3.53,0.49,3.18
@@ -253,7 +253,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 252,"Jordan Clarkson, PG",CLE/LAL,81,23.3,-0.05,-1.75,-1.80,1.63
 253,"Okaro White, PF",MIA,6,13.3,-1.56,0.15,-1.41,0.09
 254,"Walt Lemon Jr., PG",NO,5,7.0,-1.77,-0.55,-2.32,0.01
-255,"Doug McDermott, F",DAL/NY,81,21.8,-0.43,-1.76,-2.19,1.05
+255,"Doug McDermott, SF",DAL/NY,81,21.8,-0.43,-1.76,-2.19,1.05
 256,"Torrey Craig, SG",DEN,39,16.1,-2.17,-0.84,-3.01,0.05
 257,"Reggie Bullock, SG",DET,62,27.9,0.38,-0.51,-0.13,3.28
 258,"Joe Harris, SF",BKN,78,25.3,0.93,-1.62,-0.69,3.08
