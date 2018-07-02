@@ -11,7 +11,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 10,"Tony Parker, PG",SA,55,19.5,-2.16,-1.49,-3.65,-0.35
 11,"Zach Randolph, PF",SAC,59,25.6,-0.83,-1.94,-2.77,0.33
 12,"Nene Hilario, C",HOU,52,14.6,-0.54,3.37,2.83,2.96
-13,"LeBron James, F",CLE,82,36.9,5.64,-0.68,4.96,15.86
+13,"LeBron James, SF",CLE,82,36.9,5.64,-0.68,4.96,15.86
 14,"Carmelo Anthony, PF",OKC,78,32.1,0.49,-1.25,-0.76,3.81
 15,"Nick Collison, F",OKC,15,5.0,-1.94,1.59,-0.35,0.14
 16,"Dwyane Wade, SG",CLE/MIA,67,22.9,-1.83,0.23,-1.60,1.51
@@ -128,7 +128,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 127,"Eric Bledsoe, PG",MIL/PHX,74,31.4,2.49,0.06,2.55,8.45
 128,"Evan Turner, SF",POR,79,25.7,-2.37,-0.78,-3.15,-0.03
 129,"Avery Bradley, SG",DET/LAC,46,31.2,-2.18,-0.53,-2.71,0.38
-130,"Lance Stephenson, G",IND,82,22.6,-0.32,-3.01,-3.33,-0.24
+130,"Lance Stephenson, SG",IND,82,22.6,-0.32,-3.01,-3.33,-0.24
 131,"Wesley Johnson, SF",LAC,74,20.1,-2.30,1.53,-0.77,2.31
 132,"Al-Farouq Aminu, PF",POR,69,30.0,-0.37,2.37,2.00,6.75
 133,"Gordon Hayward, SF",BOS,1,5.0,-1.69,0.22,-1.47,0.01
@@ -297,7 +297,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 296,"Rodney Hood, SG",CLE/UTAH,60,26.9,-0.49,-3.74,-4.23,-1.14
 297,"Josh Richardson, SF",MIA,81,33.2,0.34,0.62,0.96,6.88
 298,"Royce O'Neale, SF",UTAH,69,16.7,-1.07,1.97,0.90,2.88
-299,"Elfrid Payton, G",ORL/PHX,63,28.7,-0.11,-1.95,-2.06,1.27
+299,"Elfrid Payton, PG",ORL/PHX,63,28.7,-0.11,-1.95,-2.06,1.27
 300,"James Michael McAdoo, SF",PHI,3,6.0,-1.68,0.75,-0.93,0.03
 301,"Otto Porter Jr., SF",WSH,77,31.6,2.91,2.05,4.96,12.51
 302,"Damion Lee, SG",ATL,15,26.9,-1.78,0.73,-1.05,0.56
@@ -333,8 +333,8 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 332,"Buddy Hield, SG",SAC,80,25.3,0.77,-0.98,-0.21,3.67
 333,"Marcus Smart, PG",BOS,54,29.9,-0.65,1.61,0.96,4.19
 334,"Yogi Ferrell, PG",DAL,82,27.8,-0.12,1.21,1.09,6.04
-335,"Glenn Robinson III, G",IND,23,14.7,-1.59,0.51,-1.08,0.44
-336,"Nik Stauskas, G",BKN/PHI,41,12.8,-2.03,-0.87,-2.90,0.07
+335,"Glenn Robinson III, SG",IND,23,14.7,-1.59,0.51,-1.08,0.44
+336,"Nik Stauskas, SG",BKN/PHI,41,12.8,-2.03,-0.87,-2.90,0.07
 337,"Caris LeVert, SG",BKN,71,26.3,-0.58,-1.49,-2.07,1.27
 338,"Ryan Arcidiacono, PG",CHI,24,12.7,-1.94,-0.03,-1.97,0.23
 339,"Mangok Mathiang, PF",CHA,4,5.0,-1.92,1.16,-0.76,0.03
@@ -358,7 +358,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 357,"Bryn Forbes, SG",SA,80,19.0,0.41,-2.13,-1.72,1.35
 358,"Jacob Wiley, SF",BKN,5,6.6,-1.72,0.71,-1.01,0.05
 359,"Alex Abrines, SG",OKC,75,15.1,-0.35,-1.03,-1.38,1.21
-360,"Mario Hezonja, F",ORL,75,22.1,-0.74,-1.30,-2.04,1.16
+360,"Mario Hezonja, SF",ORL,75,22.1,-0.74,-1.30,-2.04,1.16
 361,"Willy Hernangomez, C",NY/CHA,48,10.3,-1.09,1.51,0.42,1.15
 362,"Matt Costello, SF",SA,4,8.0,-1.72,1.28,-0.44,0.05
 363,"Gary Harris, SG",DEN,67,34.4,1.71,0.14,1.85,7.31
