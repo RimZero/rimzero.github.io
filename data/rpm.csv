@@ -143,7 +143,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 142,"Hassan Whiteside, C",MIA,54,25.3,-3.04,3.53,0.49,3.18
 143,"Patrick Patterson, PF",OKC,82,15.5,-0.90,0.44,-0.46,2.05
 144,"Cole Aldrich, C",MIN,21,2.3,-2.03,1.12,-0.91,0.07
-145,"Nemanja Bjelica, F",MIN,67,20.5,-0.36,1.32,0.96,3.61
+145,"Nemanja Bjelica, PF",MIN,67,20.5,-0.36,1.32,0.96,3.61
 146,"Trevor Booker, PF",IND/BKN/PHI,68,17.0,-1.15,-0.27,-1.42,0.98
 147,"Jeremy Evans, F",ATL,1,5.0,-1.73,0.03,-1.70,0.01
 148,"Timofey Mozgov, C",BKN,31,11.6,-3.03,1.86,-1.17,0.46
@@ -446,7 +446,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 445,"D'Angelo Russell, PG",BKN,48,25.7,0.23,-2.65,-2.42,0.57
 446,"Gian Clavell, SG",DAL,7,9.1,-0.59,-0.56,-1.15,0.08
 447,"Patrick McCaw, SG",GS,57,16.9,-2.96,-2.58,-5.54,-1.51
-448,"Rashad Vaughn, SG",MIL/BKN/ORL,28,7.6,-1.19,-0.65,-1.84,0.14
+448,"Rashad Vaughn, G",MIL/BKN/ORL,28,7.6,-1.19,-0.65,-1.84,0.14
 449,"Devin Robinson, SF",WSH,1,13.0,-1.53,-0.21,-1.74,0.01
 450,"Justin Jackson, SF",SAC,68,22.1,-2.18,-0.89,-3.07,0.05
 451,"Daniel Hamilton, SG",OKC,6,4.7,-1.70,-0.06,-1.76,0.02
