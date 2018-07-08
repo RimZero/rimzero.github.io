@@ -108,14 +108,14 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 107,"Stephen Curry, PG",GS,51,32.0,6.59,0.06,6.65,10.97
 108,"DeMar DeRozan, SG",TOR,80,33.9,3.42,-1.76,1.66,8.39
 109,"Wayne Ellington, SG",MIA,77,26.5,1.40,-1.78,-0.38,3.47
-110,"Tyreke Evans, G",MEM,52,30.9,2.91,0.55,3.46,6.46
+110,"Tyreke Evans, SG",MEM,52,30.9,2.91,0.55,3.46,6.46
 111,"Taj Gibson, PF",MIN,82,33.3,-0.36,0.57,0.21,5.76
 112,"Danny Green, SG",SA,70,25.6,-1.16,1.16,0.00,3.49
 113,"Blake Griffin, PF",DET/LAC,58,34.0,1.90,0.21,2.11,6.59
 114,"James Harden, PG",HOU,72,35.4,6.69,0.02,6.71,16.03
 115,"Jrue Holiday, PG",NO,81,36.1,1.63,2.10,3.73,13.12
 116,"Brandon Jennings, PG",MIL,14,14.6,-2.01,-1.06,-3.07,0.01
-117,"Jonas Jerebko, F",UTAH,74,15.3,0.40,0.13,0.53,2.62
+117,"Jonas Jerebko, PF",UTAH,74,15.3,0.40,0.13,0.53,2.62
 118,"James Johnson, PF",MIA,73,26.6,0.02,1.35,1.37,5.49
 119,"Jodie Meeks, SG",WSH,77,14.5,-0.57,-2.32,-2.89,0.17
 120,"Patty Mills, PG",SA,82,25.7,1.41,-2.15,-0.74,3.16
@@ -183,7 +183,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 182,"Lance Thomas, SF",NY,73,18.5,-2.87,0.03,-2.84,0.24
 183,"Xavier Silas, G",BOS,2,3.5,-1.77,0.18,-1.59,0.01
 184,"Dwight Buycks, G",DET,29,14.7,-1.98,-0.27,-2.25,0.23
-185,"Julyan Stone, G",CHA,23,7.6,-1.38,0.79,-0.59,0.29
+185,"Julyan Stone, PG",CHA,23,7.6,-1.38,0.79,-0.59,0.29
 186,"Quincy Acy, SF",BKN,70,19.4,-1.46,-0.38,-1.84,1.12
 187,"Harrison Barnes, SF",DAL,77,34.2,-0.49,-1.41,-1.90,2.04
 188,"Will Barton, SF",DEN,81,33.1,1.77,-1.03,0.74,6.55
@@ -264,7 +264,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 263,"Markel Brown, SG",HOU,4,7.8,-1.71,-0.52,-2.23,0.02
 264,"Shabazz Napier, PG",POR,74,20.7,0.30,0.12,0.42,3.39
 265,"Alfonzo McKinnie, SF",TOR,14,3.8,-1.70,-0.04,-1.74,0.05
-266,"Jerian Grant, G",CHI,74,22.8,0.59,-1.23,-0.64,2.65
+266,"Jerian Grant, PG",CHI,74,22.8,0.59,-1.23,-0.64,2.65
 267,"Adreian Payne, PF",ORL,5,8.6,-1.43,0.70,-0.73,0.06
 268,"Allen Crabbe, SG",BKN,75,29.3,0.65,-1.13,-0.48,3.75
 269,"Eric Moreland, PF",DET,67,12.0,-2.96,3.21,0.25,1.68
