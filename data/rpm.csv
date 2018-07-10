@@ -93,7 +93,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 92,"Robin Lopez, C",CHI,64,26.4,-2.84,0.71,-2.13,1.08
 93,"Brook Lopez, C",LAL,74,23.4,0.20,0.09,0.29,3.94
 94,"Kevin Love, C",CLE,59,28.0,1.81,1.59,3.40,6.92
-95,"Luc Mbah a Moute, F",HOU,61,25.6,-0.80,1.72,0.92,3.97
+95,"Luc Mbah a Moute, PF",HOU,61,25.6,-0.80,1.72,0.92,3.97
 96,"JaVale McGee, C",GS,65,9.5,-0.61,0.30,-0.31,1.15
 97,"Derrick Rose, PG",CLE/MIN,25,16.8,-1.82,-1.77,-3.59,-0.09
 98,"Marreese Speights, PF",ORL,52,13.0,-0.01,1.07,1.06,1.80
@@ -440,7 +440,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 439,"Karl-Anthony Towns, C",MIN,82,35.6,3.80,0.44,4.24,13.50
 440,"Trey Lyles, PF",DEN,73,19.1,0.73,-0.89,-0.16,2.58
 441,"Isaiah Whitehead, SG",BKN,16,11.3,-2.24,0.63,-1.61,0.18
-442,"Edmond Sumner, G",IND,1,2.0,-1.57,-0.45,-2.02,0.00
+442,"Edmond Sumner, PG",IND,1,2.0,-1.57,-0.45,-2.02,0.00
 443,"D.J. Wilson, PF",MIL,22,3.2,-2.08,0.31,-1.77,0.06
 444,"Wade Baldwin IV, PG",POR,7,11.4,-1.26,0.19,-1.07,0.11
 445,"D'Angelo Russell, PG",BKN,48,25.7,0.23,-2.65,-2.42,0.57
@@ -515,7 +515,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 514,"Lauri Markkanen, PF",CHI,68,29.7,-0.69,-0.89,-1.58,2.00
 515,"Lonzo Ball, PG",LAL,52,34.2,-1.19,2.31,1.12,4.98
 516,"Ike Anigbogu, C",IND,11,2.7,-1.72,0.10,-1.62,0.03
-517,"T.J. Leaf, F",IND,53,8.6,-1.90,-2.17,-4.07,-0.28
+517,"T.J. Leaf, PF",IND,53,8.6,-1.90,-2.17,-4.07,-0.28
 518,"Markelle Fultz, PG",PHI,14,18.1,-2.52,0.36,-2.16,0.17
 519,"Zach Collins, C",POR,66,15.8,-2.85,-0.83,-3.68,-0.36
 520,"Terrance Ferguson, SG",OKC,61,12.5,-1.83,-2.45,-4.28,-0.55
