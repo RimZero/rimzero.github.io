@@ -75,7 +75,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 74,"Thaddeus Young, PF",IND,81,32.2,-0.46,1.55,1.09,6.97
 75,"Anthony Tolliver, PF",DET,79,22.2,1.23,-0.53,0.70,4.24
 76,"Ryan Anderson, PF",HOU,66,26.1,0.64,-1.96,-1.32,2.00
-77,"Darrell Arthur, F",DEN,19,7.4,-1.98,0.35,-1.63,0.14
+77,"Darrell Arthur, PF",DEN,19,7.4,-1.98,0.35,-1.63,0.14
 78,"Omer Asik, C",NO/CHI,18,10.1,-2.61,0.81,-1.80,0.15
 79,"D.J. Augustin, PG",ORL,75,23.5,0.68,-0.67,0.01,3.55
 80,"Nicolas Batum, SG",CHA,64,31.0,0.57,-1.07,-0.50,3.38
@@ -147,7 +147,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 146,"Trevor Booker, PF",IND/BKN/PHI,68,17.0,-1.15,-0.27,-1.42,0.98
 147,"Jeremy Evans, F",ATL,1,5.0,-1.73,0.03,-1.70,0.01
 148,"Timofey Mozgov, C",BKN,31,11.6,-3.03,1.86,-1.17,0.46
-149,"Jeremy Lin, G",BKN,1,25.0,-1.54,-0.16,-1.70,0.03
+149,"Jeremy Lin, PG",BKN,1,25.0,-1.54,-0.16,-1.70,0.03
 150,"Ish Smith, PG",DET,82,24.9,0.18,-0.50,-0.32,3.64
 151,"Boban Marjanovic, C",DET/LAC,39,8.7,-0.47,1.45,0.98,0.91
 152,"Mirza Teletovic, PF",MIL,10,15.9,-1.35,0.41,-0.94,0.22
@@ -156,7 +156,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 155,"MarShon Brooks, SG",MEM,7,27.6,0.40,-1.06,-0.66,0.30
 156,"Alec Burks, SG",UTAH,64,16.5,-0.69,-1.64,-2.33,0.53
 157,"Jimmy Butler, SG",MIN,59,36.7,3.61,2.78,6.39,12.80
-158,"Kenneth Faried, F",DEN,32,14.4,-2.05,0.49,-1.56,0.45
+158,"Kenneth Faried, PF",DEN,32,14.4,-2.05,0.49,-1.56,0.45
 159,"Tobias Harris, SF",DET/LAC,80,33.4,2.27,-1.02,1.25,7.51
 160,"Kyrie Irving, PG",BOS,60,32.2,3.74,-1.35,2.39,6.74
 161,"Reggie Jackson, PG",DET,45,26.7,0.68,-0.99,-0.31,2.13
@@ -173,7 +173,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 172,"Chandler Parsons, SF",MEM,36,19.2,-0.08,-1.97,-2.05,0.47
 173,"Iman Shumpert, SG",CLE,14,19.7,-2.26,0.80,-1.46,0.30
 174,"Kyle Singler, SF",OKC,12,4.9,-2.21,1.01,-1.20,0.07
-175,"Isaiah Thomas, G",CLE/LAL,32,26.9,-0.59,-3.64,-4.23,-0.63
+175,"Isaiah Thomas, PG",CLE/LAL,32,26.9,-0.59,-3.64,-4.23,-0.63
 176,"Tristan Thompson, C",CLE,53,20.2,-2.45,-1.33,-3.78,-0.45
 177,"Klay Thompson, SG",GS,73,34.3,1.68,0.13,1.81,8.21
 178,"Jonas Valanciunas, C",TOR,77,22.4,-0.13,1.12,0.99,4.60
@@ -439,7 +439,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 438,"Tyler Ulis, G",PHX,71,23.4,-1.55,-1.45,-3.00,0.14
 439,"Karl-Anthony Towns, C",MIN,82,35.6,3.80,0.44,4.24,13.50
 440,"Trey Lyles, PF",DEN,73,19.1,0.73,-0.89,-0.16,2.58
-441,"Isaiah Whitehead, G",BKN,16,11.3,-2.24,0.63,-1.61,0.18
+441,"Isaiah Whitehead, SG",BKN,16,11.3,-2.24,0.63,-1.61,0.18
 442,"Edmond Sumner, PG",IND,1,2.0,-1.57,-0.45,-2.02,0.00
 443,"D.J. Wilson, PF",MIL,22,3.2,-2.08,0.31,-1.77,0.06
 444,"Wade Baldwin IV, PG",POR,7,11.4,-1.26,0.19,-1.07,0.11
