@@ -12,7 +12,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 11,"Zach Randolph, PF",SAC,59,25.6,-0.83,-1.94,-2.77,0.33
 12,"Nene Hilario, C",HOU,52,14.6,-0.54,3.37,2.83,2.96
 13,"LeBron James, SF",CLE,82,36.9,5.64,-0.68,4.96,15.86
-14,"Carmelo Anthony, F",OKC,78,32.1,0.49,-1.25,-0.76,3.81
+14,"Carmelo Anthony, PF",OKC,78,32.1,0.49,-1.25,-0.76,3.81
 15,"Nick Collison, F",OKC,15,5.0,-1.94,1.59,-0.35,0.14
 16,"Dwyane Wade, SG",CLE/MIA,67,22.9,-1.83,0.23,-1.60,1.51
 17,"Kyle Korver, SG",CLE,73,21.6,1.87,0.83,2.70,5.99
@@ -239,7 +239,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 238,"Kelly Olynyk, PF",MIA,76,23.4,2.44,0.90,3.34,7.11
 239,"Matthew Dellavedova, PG",MIL,38,18.7,-1.53,-1.25,-2.78,0.15
 240,"Ian Clark, SG",NO,74,19.6,-1.42,-2.26,-3.68,-0.52
-241,"Mike Muscala, C",ATL,53,20.0,0.09,0.35,0.44,2.49
+241,"Mike Muscala, PF",ATL,53,20.0,0.09,0.35,0.44,2.49
 242,"CJ McCollum, SG",POR,81,36.1,1.71,-2.04,-0.33,5.16
 243,"Isaiah Canaan, PG",HOU/PHX,20,21.1,-0.31,-0.35,-0.66,0.66
 244,"Robert Covington, SF",PHI,80,31.6,1.21,4.24,5.45,14.31
@@ -322,7 +322,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 321,"Brice Johnson, PF",LAC/MEM,18,5.4,-2.12,0.70,-1.42,0.11
 322,"Rodney Purvis, SG",ORL,16,18.1,-3.11,-1.28,-4.39,-0.24
 323,"TJ Warren, SF",PHX,65,33.0,-0.29,-2.10,-2.39,1.04
-324,"Justin Anderson, G",PHI,38,13.7,-1.60,-0.49,-2.09,0.35
+324,"Justin Anderson, SG",PHI,38,13.7,-1.60,-0.49,-2.09,0.35
 325,"Tyler Cavanaugh, F",ATL,39,13.3,-0.59,-0.44,-1.03,0.69
 326,"Xavier Munford, PG",MIL,6,3.5,-1.79,-0.54,-2.33,0.01
 327,"Joel Bolomboy, PF",MIL,6,6.3,-1.84,0.55,-1.29,0.04
@@ -368,7 +368,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 367,"Rudy Gobert, C",UTAH,56,32.4,-1.24,5.06,3.82,8.02
 368,"Giannis Antetokounmpo, PF",MIL,75,36.7,2.63,1.60,4.23,12.90
 369,"Dario Saric, PF",PHI,78,29.6,0.97,-0.64,0.33,5.25
-370,"Dennis Schroder, G",ATL,67,31.0,0.84,-2.63,-1.79,1.79
+370,"Dennis Schroder, PG",ATL,67,31.0,0.84,-2.63,-1.79,1.79
 371,"Lucas Nogueira, C",TOR,49,8.5,-1.23,2.92,1.69,1.29
 372,"Bogdan Bogdanovic, SG",SAC,78,27.9,0.32,-2.13,-1.81,1.80
 373,"Derrick Walton Jr., PG",MIA,16,9.2,-1.65,-0.62,-2.27,0.08
@@ -459,7 +459,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 458,"Emmanuel Mudiay, PG",DEN/NY,64,19.4,-2.41,-3.68,-6.09,-2.43
 459,"Zhou Qi, PF",HOU,18,6.9,-3.26,-0.36,-3.62,-0.04
 460,"Cedi Osman, SF",CLE,61,11.0,-0.37,-0.74,-1.11,0.87
-461,"Timothe Luwawu-Cabarrot, G",PHI,52,15.5,-2.02,-0.79,-2.81,0.17
+461,"Timothe Luwawu-Cabarrot, SG",PHI,52,15.5,-2.02,-0.79,-2.81,0.17
 462,"Paul Zipser, F",CHI,54,15.2,-4.43,-0.99,-5.42,-1.19
 463,"Henry Ellenson, PF",DET,38,8.7,-2.85,0.37,-2.48,0.14
 464,"Caleb Swanigan, PF",POR,27,7.0,-2.64,1.16,-1.48,0.20
