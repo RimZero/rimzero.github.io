@@ -165,7 +165,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 164,"Kawhi Leonard, SF",SA,9,23.3,-1.18,1.99,0.81,0.53
 165,"Jon Leuer, PF",DET,8,17.0,-2.46,1.72,-0.74,0.22
 166,"DeAndre Liggins, SG",NO/MIL,58,12.5,-2.59,-0.35,-2.94,0.05
-167,"Shelvin Mack, G",ORL,69,19.8,0.08,-0.93,-0.85,1.96
+167,"Shelvin Mack, PG",ORL,69,19.8,0.08,-0.93,-0.85,1.96
 168,"Nikola Mirotic, PF",NO/CHI,55,27.2,1.76,1.39,3.15,6.20
 169,"E'Twaun Moore, SF",NO,82,31.5,0.35,-1.50,-1.15,3.34
 170,"Markieff Morris, PF",WSH,73,27.0,-1.14,-0.12,-1.26,2.32
@@ -342,7 +342,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 341,"Jerami Grant, SF",OKC,81,20.3,-0.38,-0.38,-0.76,2.44
 342,"Kris Dunn, PG",CHI,52,29.3,-0.67,-0.55,-1.22,1.90
 343,"Damyean Dotson, SG",NY,44,10.8,-2.07,0.05,-2.02,0.34
-344,"Sam Dekker, F",LAC,73,12.1,-1.88,0.42,-1.46,0.96
+344,"Sam Dekker, SF",LAC,73,12.1,-1.88,0.42,-1.46,0.96
 345,"Fred VanVleet, PG",TOR,76,20.0,2.60,0.80,3.40,6.18
 346,"Steven Adams, C",OKC,76,32.7,0.57,0.82,1.39,7.16
 347,"Shaquille Harrison, PG",PHX,23,16.7,-0.57,0.75,0.18,0.86
