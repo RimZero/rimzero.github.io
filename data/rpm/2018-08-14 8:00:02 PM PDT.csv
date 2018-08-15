@@ -12,7 +12,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 11,"Zach Randolph, PF",SAC,59,25.6,-0.83,-1.94,-2.77,0.33
 12,"Nene Hilario, C",HOU,52,14.6,-0.54,3.37,2.83,2.96
 13,"LeBron James, SF",CLE,82,36.9,5.64,-0.68,4.96,15.86
-14,"Carmelo Anthony, F",OKC,78,32.1,0.49,-1.25,-0.76,3.81
+14,"Carmelo Anthony, PF",OKC,78,32.1,0.49,-1.25,-0.76,3.81
 15,"Nick Collison, F",OKC,15,5.0,-1.94,1.59,-0.35,0.14
 16,"Dwyane Wade, SG",CLE/MIA,67,22.9,-1.83,0.23,-1.60,1.51
 17,"Kyle Korver, SG",CLE,73,21.6,1.87,0.83,2.70,5.99
@@ -323,7 +323,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 322,"Rodney Purvis, G",ORL,16,18.1,-3.11,-1.28,-4.39,-0.24
 323,"TJ Warren, SF",PHX,65,33.0,-0.29,-2.10,-2.39,1.04
 324,"Justin Anderson, SG",PHI,38,13.7,-1.60,-0.49,-2.09,0.35
-325,"Tyler Cavanaugh, F",ATL,39,13.3,-0.59,-0.44,-1.03,0.69
+325,"Tyler Cavanaugh, PF",ATL,39,13.3,-0.59,-0.44,-1.03,0.69
 326,"Xavier Munford, PG",MIL,6,3.5,-1.79,-0.54,-2.33,0.01
 327,"Joel Bolomboy, PF",MIL,6,6.3,-1.84,0.55,-1.29,0.04
 328,"Charles Cooke, SG",NO,13,2.9,-2.21,-0.12,-2.33,0.02
@@ -371,7 +371,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 370,"Dennis Schroder, PG",ATL,67,31.0,0.84,-2.63,-1.79,1.79
 371,"Lucas Nogueira, C",TOR,49,8.5,-1.23,2.92,1.69,1.29
 372,"Bogdan Bogdanovic, SG",SAC,78,27.9,0.32,-2.13,-1.81,1.80
-373,"Derrick Walton Jr., G",MIA,16,9.2,-1.65,-0.62,-2.27,0.08
+373,"Derrick Walton Jr., PG",MIA,16,9.2,-1.65,-0.62,-2.27,0.08
 374,"Jabari Parker, PF",MIL,31,24.0,-1.18,-1.70,-2.88,0.12
 375,"Semi Ojeleye, PF",BOS,73,15.8,-4.67,-1.25,-5.92,-2.03
 376,"Sterling Brown, SG",MIL,54,14.4,-2.72,0.67,-2.05,0.53
@@ -417,7 +417,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 416,"Isaiah Hicks, PF",NY,18,13.3,-2.48,-0.23,-2.71,0.06
 417,"Wesley Iwundu, SF",ORL,62,16.5,-3.79,0.11,-3.68,-0.36
 418,"Noah Vonleh, PF",CHI/POR,54,16.2,-3.18,1.44,-1.74,0.78
-419,"Troy Williams, F",HOU/NY,21,14.6,-2.11,0.07,-2.04,0.01
+419,"Troy Williams, SF",HOU/NY,21,14.6,-2.11,0.07,-2.04,0.01
 420,"Derrick White, PG",SA,17,8.2,-0.98,0.46,-0.52,0.24
 421,"Dante Exum, PG",UTAH,14,16.8,-0.91,-0.66,-1.57,0.24
 422,"Clint Capela, C",HOU,74,27.5,-0.74,2.88,2.14,6.81
