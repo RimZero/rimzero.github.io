@@ -348,7 +348,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 347,"Shaquille Harrison, PG",PHX,23,16.7,-0.57,0.75,0.18,0.86
 348,"Nerlens Noel, C",DAL,30,15.7,-3.19,2.36,-0.83,0.69
 349,"Willie Cauley-Stein, C",SAC,73,28.0,-1.69,0.82,-0.87,2.91
-350,"Alex Poythress, F",IND,25,4.2,-1.81,0.07,-1.74,0.09
+350,"Alex Poythress, SF",IND,25,4.2,-1.81,0.07,-1.74,0.09
 351,"Alex Caruso, SG",LAL,37,15.2,-2.24,0.10,-2.14,0.36
 352,"Milton Doyle, SG",BKN,10,12.5,-2.28,-0.22,-2.50,0.05
 353,"Richaun Holmes, PF",PHI,48,15.5,-0.95,0.51,-0.44,1.33
@@ -449,7 +449,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 448,"Rashad Vaughn, G",MIL/BKN/ORL,28,7.6,-1.19,-0.65,-1.84,0.14
 449,"Devin Robinson, SF",WSH,1,13.0,-1.53,-0.21,-1.74,0.01
 450,"Justin Jackson, SF",SAC,68,22.1,-2.18,-0.89,-3.07,0.05
-451,"Daniel Hamilton, G",OKC,6,4.7,-1.70,-0.06,-1.76,0.02
+451,"Daniel Hamilton, SG",OKC,6,4.7,-1.70,-0.06,-1.76,0.02
 452,"Chinanu Onuaku, C",HOU,1,22.0,-2.08,0.89,-1.19,0.02
 453,"Pascal Siakam, PF",TOR,81,20.7,0.44,1.09,1.53,4.94
 454,"Chris McCullough, PF",WSH,19,4.7,-1.97,-0.41,-2.38,0.04
