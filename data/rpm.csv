@@ -301,7 +301,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 300,"James Michael McAdoo, SF",PHI,3,6.0,-1.68,0.75,-0.93,0.03
 301,"Otto Porter Jr., SF",WSH,77,31.6,2.91,2.05,4.96,12.51
 302,"Damion Lee, SG",ATL,15,26.9,-1.78,0.73,-1.05,0.56
-303,"Briante Weber, G",HOU/MEM,18,13.2,-1.58,-0.87,-2.45,0.05
+303,"Briante Weber, PG",HOU/MEM,18,13.2,-1.58,-0.87,-2.45,0.05
 304,"Treveon Graham, SG",CHA,63,16.7,-1.32,-0.74,-2.06,0.71
 305,"Abdel Nader, SF",BOS,48,10.9,-4.01,-1.37,-5.38,-0.77
 306,"Norman Powell, SF",TOR,70,15.2,-2.58,-1.12,-3.70,-0.39
@@ -348,7 +348,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 347,"Shaquille Harrison, PG",PHX,23,16.7,-0.57,0.75,0.18,0.86
 348,"Nerlens Noel, C",DAL,30,15.7,-3.19,2.36,-0.83,0.69
 349,"Willie Cauley-Stein, C",SAC,73,28.0,-1.69,0.82,-0.87,2.91
-350,"Alex Poythress, F",IND,25,4.2,-1.81,0.07,-1.74,0.09
+350,"Alex Poythress, SF",IND,25,4.2,-1.81,0.07,-1.74,0.09
 351,"Alex Caruso, SG",LAL,37,15.2,-2.24,0.10,-2.14,0.36
 352,"Milton Doyle, SG",BKN,10,12.5,-2.28,-0.22,-2.50,0.05
 353,"Richaun Holmes, PF",PHI,48,15.5,-0.95,0.51,-0.44,1.33
@@ -424,7 +424,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 423,"Jusuf Nurkic, C",POR,79,26.4,-2.28,4.08,1.80,6.53
 424,"Kristaps Porzingis, PF",NY,48,32.4,0.34,2.27,2.61,5.64
 425,"Nikola Jokic, C",DEN,75,32.5,4.02,1.95,5.97,14.03
-426,"Bruno Caboclo, F",SAC/TOR,12,8.9,-2.16,-0.05,-2.21,0.06
+426,"Bruno Caboclo, SF",SAC/TOR,12,8.9,-2.16,-0.05,-2.21,0.06
 427,"Cristiano Felicio, C",CHI,55,17.8,-3.62,-1.64,-5.26,-1.34
 428,"Kelly Oubre Jr., SF",WSH,81,27.5,-0.19,-1.29,-1.48,2.36
 429,"Myles Turner, C",IND,65,28.2,-1.21,1.64,0.43,4.17
@@ -480,7 +480,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 479,"Jaylen Brown, SG",BOS,70,30.7,0.48,0.91,1.39,6.11
 480,"Ivan Rabb, PF",MEM,36,14.3,-1.34,-1.39,-2.73,0.13
 481,"Cheick Diallo, PF",NO,52,11.2,-1.64,-0.88,-2.52,0.23
-482,"PJ Dozier, F",OKC,2,1.5,-1.76,-0.14,-1.90,0.00
+482,"PJ Dozier, PG",OKC,2,1.5,-1.76,-0.14,-1.90,0.00
 483,"Nicolas Brussino, SF",ATL,4,2.5,-1.37,-0.16,-1.53,0.01
 484,"Furkan Korkmaz, SG",PHI,14,5.7,-1.94,-1.16,-3.10,0.00
 485,"Tyler Lydon, PF",DEN,1,2.0,-1.90,0.24,-1.66,0.00
