@@ -108,7 +108,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 107,"Jose Calderon, PG",CLE,57,16.0,0.28,0.52,0.80,2.27
 108,"Langston Galloway, SG",DET,58,14.9,0.16,0.64,0.80,2.13
 109,"Tim Hardaway Jr., SF",NY,57,33.1,1.28,-0.49,0.79,4.81
-110,"Will Barton, SF",DEN,81,33.1,1.77,-1.03,0.74,6.55
+110,"Will Barton, SG",DEN,81,33.1,1.77,-1.03,0.74,6.55
 111,"Aaron Gordon, PF",ORL,58,32.9,0.22,0.50,0.72,4.81
 112,"Anthony Tolliver, PF",DET,79,22.2,1.23,-0.53,0.70,4.24
 113,"Montrezl Harrell, PF",LAC,76,17.0,1.01,-0.31,0.70,3.25
@@ -133,7 +133,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 132,"George Hill, PG",CLE/SAC,67,27.0,0.87,-0.42,0.45,4.08
 133,"Mike Muscala, PF",ATL,53,20.0,0.09,0.35,0.44,2.49
 134,"Jakob Poeltl, C",TOR,82,18.6,-0.50,0.94,0.44,3.46
-135,"Myles Turner, C",IND,65,28.2,-1.21,1.64,0.43,4.17
+135,"Myles Turner, PF",IND,65,28.2,-1.21,1.64,0.43,4.17
 136,"Shabazz Napier, PG",POR,74,20.7,0.30,0.12,0.42,3.39
 137,"Willy Hernangomez, C",NY/CHA,48,10.3,-1.09,1.51,0.42,1.15
 138,"Goran Dragic, PG",MIA,75,31.7,1.25,-0.85,0.40,5.30
@@ -160,7 +160,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 159,"Jared Dudley, SF",PHX,48,14.3,-0.89,0.81,-0.08,1.36
 160,"Mario Chalmers, PG",MEM,66,21.5,-1.11,1.01,-0.10,2.71
 161,"Cody Zeller, PF",CHA,33,19.0,-1.36,1.25,-0.11,1.20
-162,"Reggie Bullock, SG",DET,62,27.9,0.38,-0.51,-0.13,3.28
+162,"Reggie Bullock, F",DET,62,27.9,0.38,-0.51,-0.13,3.28
 163,"Enes Kanter, C",NY,71,25.8,-0.02,-0.12,-0.14,3.52
 164,"Raul Neto, PG",UTAH,41,12.1,-0.76,0.62,-0.14,0.94
 165,"Alan Williams, PF",PHX,5,14.0,-2.16,2.00,-0.16,0.13
@@ -168,7 +168,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 167,"Kendrick Perkins, C",CLE,1,15.0,-1.69,1.50,-0.19,0.03
 168,"Vince Carter, SG",SAC,58,17.7,-1.15,0.94,-0.21,1.86
 169,"Buddy Hield, SG",SAC,80,25.3,0.77,-0.98,-0.21,3.67
-170,"Domantas Sabonis, C",IND,74,24.5,-0.43,0.22,-0.21,3.36
+170,"Domantas Sabonis, PF",IND,74,24.5,-0.43,0.22,-0.21,3.36
 171,"JaKarr Sampson, SF",SAC,22,15.6,-2.13,1.91,-0.22,0.62
 172,"Milos Teodosic, PG",LAC,45,25.2,-0.02,-0.23,-0.25,2.18
 173,"Tyson Chandler, C",PHX,46,25.0,-2.28,2.02,-0.26,2.14
@@ -179,7 +179,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 178,"CJ McCollum, SG",POR,81,36.1,1.71,-2.04,-0.33,5.16
 179,"Nick Collison, F",OKC,15,5.0,-1.94,1.59,-0.35,0.14
 180,"CJ Miles, SF",TOR,70,19.1,0.89,-1.24,-0.35,2.36
-181,"Meyers Leonard, C",POR,33,7.7,-0.85,0.49,-0.36,0.46
+181,"Meyers Leonard, PF",POR,33,7.7,-0.85,0.49,-0.36,0.46
 182,"Wayne Ellington, SG",MIA,77,26.5,1.40,-1.78,-0.38,3.47
 183,"Ivica Zubac, C",LAL,43,9.5,-2.19,1.81,-0.38,0.72
 184,"Marshall Plumlee, C",MIL,8,6.5,-2.02,1.61,-0.41,0.09
@@ -195,7 +195,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 194,"Derrick White, PG",SA,17,8.2,-0.98,0.46,-0.52,0.24
 195,"Travis Wear, SF",LAL,17,13.4,-1.73,1.20,-0.53,0.02
 196,"Ian Mahinmi, C",WSH,77,14.9,-1.99,1.45,-0.54,1.89
-197,"Mason Plumlee, C",DEN,74,19.5,-1.52,0.97,-0.55,2.36
+197,"Mason Plumlee, PF",DEN,74,19.5,-1.52,0.97,-0.55,2.36
 198,"Jack Cooley, C",SAC,7,12.4,-1.70,1.12,-0.58,0.13
 199,"Bam Adebayo, C",MIA,69,19.8,-2.29,1.71,-0.58,2.16
 200,"Julyan Stone, G",CHA,23,7.6,-1.38,0.79,-0.59,0.29
@@ -259,7 +259,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 258,"Ante Zizic, C",CLE,32,6.7,-0.96,-0.16,-1.12,0.28
 259,"Wilson Chandler, SF",DEN,74,31.6,-0.79,-0.35,-1.14,2.95
 260,"Shane Larkin, PG",BOS,54,14.4,-1.85,0.71,-1.14,0.95
-261,"E'Twaun Moore, SF",NO,82,31.5,0.35,-1.50,-1.15,3.34
+261,"E'Twaun Moore, G",NO,82,31.5,0.35,-1.50,-1.15,3.34
 262,"Gian Clavell, SG",DAL,7,9.1,-0.59,-0.56,-1.15,0.08
 263,"Justin Patton, C",MIN,1,4.0,-1.89,0.74,-1.15,0.01
 264,"Timofey Mozgov, C",BKN,31,11.6,-3.03,1.86,-1.17,0.46
@@ -374,7 +374,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 373,"Damyean Dotson, SG",NY,44,10.8,-2.07,0.05,-2.02,0.34
 374,"Edmond Sumner, PG",IND,1,2.0,-1.57,-0.45,-2.02,0.00
 375,"Mario Hezonja, SF",ORL,75,22.1,-0.74,-1.30,-2.04,1.16
-376,"Troy Williams, SF",HOU/NY,21,14.6,-2.11,0.07,-2.04,0.01
+376,"Troy Williams, SG",HOU/NY,21,14.6,-2.11,0.07,-2.04,0.01
 377,"Chandler Parsons, SF",MEM,36,19.2,-0.08,-1.97,-2.05,0.47
 378,"Tony Snell, SG",MIL,75,27.4,-0.09,-1.96,-2.05,1.41
 379,"Sterling Brown, SG",MIL,54,14.4,-2.72,0.67,-2.05,0.53
@@ -454,7 +454,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 453,"Jarell Martin, PF",MEM,73,22.8,-2.52,-0.46,-2.98,0.15
 454,"Joffrey Lauvergne, C",SA,55,9.7,-2.58,-0.42,-3.00,0.04
 455,"Tyler Ulis, PG",PHX,71,23.4,-1.55,-1.45,-3.00,0.14
-456,"Torrey Craig, SG",DEN,39,16.1,-2.17,-0.84,-3.01,0.05
+456,"Torrey Craig, SF",DEN,39,16.1,-2.17,-0.84,-3.01,0.05
 457,"Brandon Jennings, G",MIL,14,14.6,-2.01,-1.06,-3.07,0.01
 458,"Dion Waiters, SG",MIA,30,30.6,-2.24,-0.83,-3.07,0.03
 459,"Justin Jackson, SF",SAC,68,22.1,-2.18,-0.89,-3.07,0.05
@@ -464,7 +464,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 463,"Gorgui Dieng, C",MIN,79,16.9,-2.36,-0.75,-3.11,0.01
 464,"Jawun Evans, PG",LAC,48,16.2,-2.88,-0.23,-3.11,0.01
 465,"DeAndre' Bembry, SF",ATL,26,17.5,-2.94,-0.18,-3.12,0.00
-466,"Evan Turner, SF",POR,79,25.7,-2.37,-0.78,-3.15,-0.03
+466,"Evan Turner, SG",POR,79,25.7,-2.37,-0.78,-3.15,-0.03
 467,"JaMychal Green, PF",MEM,55,28.0,-2.01,-1.16,-3.17,-0.04
 468,"Skal Labissiere, PF",SAC,60,20.7,-2.17,-1.03,-3.20,-0.06
 469,"John Holland, G",CLE,24,7.3,-2.35,-0.86,-3.21,-0.01
@@ -486,7 +486,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 485,"Ian Clark, SG",NO,74,19.6,-1.42,-2.26,-3.68,-0.52
 486,"Wesley Iwundu, SF",ORL,62,16.5,-3.79,0.11,-3.68,-0.36
 487,"Dragan Bender, PF",PHX,82,25.2,-2.94,-0.74,-3.68,-0.76
-488,"Zach Collins, C",POR,66,15.8,-2.85,-0.83,-3.68,-0.36
+488,"Zach Collins, PF",POR,66,15.8,-2.85,-0.83,-3.68,-0.36
 489,"Joe Young, PG",IND,53,10.5,-1.92,-1.77,-3.69,-0.20
 490,"Quincy Pondexter, SF",CHI,23,8.5,-3.23,-0.47,-3.70,-0.07
 491,"Norman Powell, SF",TOR,70,15.2,-2.58,-1.12,-3.70,-0.39
