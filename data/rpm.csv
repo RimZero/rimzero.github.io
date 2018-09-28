@@ -9,7 +9,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 8,"Robert Covington, SF",PHI,80,31.6,1.21,4.24,5.45,14.31
 9,"Kyle Lowry, PG",TOR,78,32.2,4.15,1.03,5.18,13.59
 10,"Russell Westbrook, PG",OKC,80,36.4,3.96,1.20,5.16,15.73
-11,"Joel Embiid, C",PHI,63,30.3,1.51,3.59,5.10,10.13
+11,"Joel Embiid, PF",PHI,63,30.3,1.51,3.59,5.10,10.13
 12,"LeBron James, SF",CLE,82,36.9,5.64,-0.68,4.96,15.86
 13,"Otto Porter Jr., SF",WSH,77,31.6,2.91,2.05,4.96,12.51
 14,"Damian Lillard, PG",POR,73,36.6,5.28,-0.38,4.90,13.67
@@ -78,7 +78,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 77,"Andre Iguodala, SG",GS,64,25.4,-0.88,2.29,1.41,4.81
 78,"Khris Middleton, SF",MIL,82,36.4,2.57,-1.17,1.40,8.61
 79,"Steven Adams, C",OKC,76,32.7,0.57,0.82,1.39,7.16
-80,"Jaylen Brown, SG",BOS,70,30.7,0.48,0.91,1.39,6.11
+80,"Jaylen Brown, F",BOS,70,30.7,0.48,0.91,1.39,6.11
 81,"James Johnson, PF",MIA,73,26.6,0.02,1.35,1.37,5.49
 82,"Thabo Sefolosha, SF",UTAH,38,21.2,-0.64,1.97,1.33,2.26
 83,"Kevon Looney, SF",GS,66,13.8,-0.97,2.29,1.32,2.63
@@ -107,7 +107,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 106,"Kawhi Leonard, SF",SA,9,23.3,-1.18,1.99,0.81,0.53
 107,"Jose Calderon, PG",CLE,57,16.0,0.28,0.52,0.80,2.27
 108,"Langston Galloway, SG",DET,58,14.9,0.16,0.64,0.80,2.13
-109,"Tim Hardaway Jr., SF",NY,57,33.1,1.28,-0.49,0.79,4.81
+109,"Tim Hardaway Jr., G",NY,57,33.1,1.28,-0.49,0.79,4.81
 110,"Will Barton, SG",DEN,81,33.1,1.77,-1.03,0.74,6.55
 111,"Aaron Gordon, PF",ORL,58,32.9,0.22,0.50,0.72,4.81
 112,"Anthony Tolliver, PF",DET,79,22.2,1.23,-0.53,0.70,4.24
@@ -124,7 +124,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 123,"DeAndre Jordan, C",LAC,77,31.5,-0.75,1.32,0.57,5.79
 124,"Kentavious Caldwell-Pope, SG",LAL,74,33.2,0.88,-0.32,0.56,5.90
 125,"JJ Redick, SG",PHI,70,30.2,2.47,-1.92,0.55,5.15
-126,"Aron Baynes, C",BOS,81,18.3,-3.26,3.81,0.55,3.38
+126,"Aron Baynes, SF",BOS,81,18.3,-3.26,3.81,0.55,3.38
 127,"Jonas Jerebko, PF",UTAH,74,15.3,0.40,0.13,0.53,2.62
 128,"Derrick Favors, PF",UTAH,77,28.0,-0.46,0.99,0.53,4.96
 129,"Brandan Wright, F",HOU/MEM,28,13.6,-1.28,1.77,0.49,0.85
