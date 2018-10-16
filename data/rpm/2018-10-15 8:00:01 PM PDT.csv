@@ -218,7 +218,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 217,"Mangok Mathiang, F",CHA,4,5.0,-1.92,1.16,-0.76,0.03
 218,"Jerami Grant, SF",OKC,81,20.3,-0.38,-0.38,-0.76,2.44
 219,"Gerald Green, SG",HOU,41,22.7,0.01,-0.78,-0.77,1.40
-220,"Wesley Johnson, F",LAC,74,20.1,-2.30,1.53,-0.77,2.31
+220,"Wesley Johnson, SF",LAC,74,20.1,-2.30,1.53,-0.77,2.31
 221,"Joakim Noah, C",NY,7,5.7,-2.28,1.49,-0.79,0.06
 222,"Al Jefferson, C",IND,36,13.4,-1.78,0.96,-0.82,0.70
 223,"Cory Joseph, PG",IND,82,27.0,-0.16,-0.66,-0.82,3.25
@@ -314,7 +314,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 313,"Dante Exum, PG",UTAH,14,16.8,-0.91,-0.66,-1.57,0.24
 314,"Reggie Hearn, G",DET,3,2.3,-1.63,0.05,-1.58,0.01
 315,"Lauri Markkanen, PF",CHI,68,29.7,-0.69,-0.89,-1.58,2.00
-316,"Xavier Silas, SG",BOS,2,3.5,-1.77,0.18,-1.59,0.01
+316,"Xavier Silas, G",BOS,2,3.5,-1.77,0.18,-1.59,0.01
 317,"Brandon Ingram, SF",LAL,59,33.5,-1.31,-0.28,-1.59,1.97
 318,"Jarrett Allen, C",BKN,72,20.0,-2.46,0.87,-1.59,1.42
 319,"Dwyane Wade, SG",CLE/MIA,67,22.9,-1.83,0.23,-1.60,1.51
@@ -384,7 +384,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 383,"Jonathan Isaac, PF",ORL,27,19.8,-3.86,1.78,-2.08,0.36
 384,"Justin Anderson, SG",PHI,38,13.7,-1.60,-0.49,-2.09,0.35
 385,"Ben Moore, PF",IND,2,4.5,-1.72,-0.38,-2.10,0.01
-386,"Kadeem Allen, SG",BOS,18,5.9,-2.20,0.10,-2.10,0.07
+386,"Kadeem Allen, G",BOS,18,5.9,-2.20,0.10,-2.10,0.07
 387,"Robin Lopez, C",CHI,64,26.4,-2.84,0.71,-2.13,1.08
 388,"Jae Crowder, PF",CLE/UTAH,80,26.1,-0.94,-1.19,-2.13,1.33
 389,"Quinn Cook, PG",GS,33,22.4,-0.10,-2.03,-2.13,0.48
@@ -409,7 +409,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 408,"Xavier Munford, G",MIL,6,3.5,-1.79,-0.54,-2.33,0.01
 409,"Charles Cooke, G",NO,13,2.9,-2.21,-0.12,-2.33,0.02
 410,"Marquis Teague, G",MEM,3,24.7,-1.84,-0.51,-2.35,0.04
-411,"Chris McCullough, PF",WSH,19,4.7,-1.97,-0.41,-2.38,0.04
+411,"Chris McCullough, F",WSH,19,4.7,-1.97,-0.41,-2.38,0.04
 412,"TJ Warren, SF",PHX,65,33.0,-0.29,-2.10,-2.39,1.04
 413,"D'Angelo Russell, PG",BKN,48,25.7,0.23,-2.65,-2.42,0.57
 414,"Brandon Paul, G",SA,64,9.0,-3.01,0.58,-2.43,0.26
@@ -443,7 +443,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 442,"London Perrantes, G",CLE,14,4.7,-2.10,-0.77,-2.87,0.01
 443,"Jabari Parker, PF",MIL,31,24.0,-1.18,-1.70,-2.88,0.12
 444,"Deyonta Davis, C",MEM,62,15.2,-1.38,-1.50,-2.88,0.15
-445,"Jodie Meeks, G",WSH,77,14.5,-0.57,-2.32,-2.89,0.17
+445,"Jodie Meeks, SG",WSH,77,14.5,-0.57,-2.32,-2.89,0.17
 446,"David Nwaba, SG",CHI,70,23.5,-1.56,-1.33,-2.89,0.25
 447,"Nik Stauskas, SG",BKN/PHI,41,12.8,-2.03,-0.87,-2.90,0.07
 448,"Antonio Blakeney, SG",CHI,19,16.5,-1.79,-1.13,-2.92,0.04
@@ -514,7 +514,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 513,"Jameer Nelson, G",NO/DET,50,20.3,-2.67,-2.60,-5.27,-1.37
 514,"Abdel Nader, SF",BOS,48,10.9,-4.01,-1.37,-5.38,-0.77
 515,"Paul Zipser, F",CHI,54,15.2,-4.43,-0.99,-5.42,-1.19
-516,"Jamal Crawford, G",MIN,80,20.7,-0.06,-5.37,-5.43,-2.41
+516,"Jamal Crawford, SG",MIN,80,20.7,-0.06,-5.37,-5.43,-2.41
 517,"Patrick McCaw, G",GS,57,16.9,-2.96,-2.58,-5.54,-1.51
 518,"Malik Monk, SG",CHA,63,13.5,-1.53,-4.06,-5.59,-1.36
 519,"Semi Ojeleye, PF",BOS,73,15.8,-4.67,-1.25,-5.92,-2.03
