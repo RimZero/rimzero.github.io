@@ -14,7 +14,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 13,"Otto Porter Jr., SF",WSH,77,31.6,2.91,2.05,4.96,12.51
 14,"Damian Lillard, PG",POR,73,36.6,5.28,-0.38,4.90,13.67
 15,"Tyus Jones, PG",MIN,82,17.9,2.38,2.40,4.78,7.27
-16,"Karl-Anthony Towns, SF",MIN,82,35.6,3.80,0.44,4.24,13.50
+16,"Karl-Anthony Towns, C",MIN,82,35.6,3.80,0.44,4.24,13.50
 17,"Giannis Antetokounmpo, PF",MIL,75,36.7,2.63,1.60,4.23,12.90
 18,"Draymond Green, PF",GS,70,32.7,0.70,3.34,4.04,10.98
 19,"Al Horford, C",BOS,72,31.6,1.21,2.68,3.89,10.05
@@ -150,7 +150,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 149,"Eric Moreland, C",DET,67,12.0,-2.96,3.21,0.25,1.68
 150,"Jeff Green, SF",CLE,78,23.4,0.12,0.12,0.24,4.00
 151,"Taj Gibson, PF",MIN,82,33.3,-0.36,0.57,0.21,5.76
-152,"Shaquille Harrison, G",PHX,23,16.7,-0.57,0.75,0.18,0.86
+152,"Shaquille Harrison, PG",PHX,23,16.7,-0.57,0.75,0.18,0.86
 153,"Andrew Bogut, C",LAL,24,9.0,-2.18,2.31,0.13,0.47
 154,"Willie Reed, C",DET/LAC,42,10.2,-0.65,0.78,0.13,0.93
 155,"D.J. Augustin, PG",ORL,75,23.5,0.68,-0.67,0.01,3.55
@@ -223,7 +223,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 222,"Al Jefferson, C",IND,36,13.4,-1.78,0.96,-0.82,0.70
 223,"Cory Joseph, PG",IND,82,27.0,-0.16,-0.66,-0.82,3.25
 224,"J.J. Barea, PG",DAL,69,23.2,1.45,-2.28,-0.83,2.32
-225,"Nerlens Noel, SF",DAL,30,15.7,-3.19,2.36,-0.83,0.69
+225,"Nerlens Noel, PF",DAL,30,15.7,-3.19,2.36,-0.83,0.69
 226,"Rondae Hollis-Jefferson, SF",BKN,68,28.3,-0.93,0.10,-0.83,2.88
 227,"Jarrett Jack, G",NY,62,25.0,-0.44,-0.40,-0.84,2.25
 228,"Shelvin Mack, PG",ORL,69,19.8,0.08,-0.93,-0.85,1.96
@@ -320,7 +320,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 319,"Dwyane Wade, SG",CLE/MIA,67,22.9,-1.83,0.23,-1.60,1.51
 320,"Michael Kidd-Gilchrist, SF",CHA,74,25.0,-1.89,0.29,-1.60,1.83
 321,"Isaiah Whitehead, G",BKN,16,11.3,-2.24,0.63,-1.61,0.18
-322,"Andrew Wiggins, PG",MIN,82,36.3,0.22,-1.84,-1.62,2.85
+322,"Andrew Wiggins, SF",MIN,82,36.3,0.22,-1.84,-1.62,2.85
 323,"Ike Anigbogu, C",IND,11,2.7,-1.72,0.10,-1.62,0.03
 324,"Darrell Arthur, F",DEN,19,7.4,-1.98,0.35,-1.63,0.14
 325,"T.J. McConnell, PG",PHI,76,22.4,-1.59,-0.04,-1.63,1.69
