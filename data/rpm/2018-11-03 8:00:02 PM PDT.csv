@@ -248,7 +248,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 247,"Jacob Wiley, F",BKN,5,6.6,-1.72,0.71,-1.01,0.05
 248,"Tyler Cavanaugh, PF",ATL,39,13.3,-0.59,-0.44,-1.03,0.69
 249,"Trey Burke, PG",NY,36,21.8,2.08,-3.13,-1.05,1.05
-250,"Damion Lee, G",ATL,15,26.9,-1.78,0.73,-1.05,0.56
+250,"Damion Lee, SG",ATL,15,26.9,-1.78,0.73,-1.05,0.56
 251,"Wade Baldwin IV, PG",POR,7,11.4,-1.26,0.19,-1.07,0.11
 252,"Glenn Robinson III, SG",IND,23,14.7,-1.59,0.51,-1.08,0.44
 253,"Jason Terry, G",MIL,51,16.0,-1.36,0.26,-1.10,1.04
@@ -342,7 +342,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 341,"Alfonzo McKinnie, SF",TOR,14,3.8,-1.70,-0.04,-1.74,0.05
 342,"Alex Poythress, SF",IND,25,4.2,-1.81,0.07,-1.74,0.09
 343,"Noah Vonleh, PF",CHI/POR,54,16.2,-3.18,1.44,-1.74,0.78
-344,"Devin Robinson, F",WSH,1,13.0,-1.53,-0.21,-1.74,0.01
+344,"Devin Robinson, SF",WSH,1,13.0,-1.53,-0.21,-1.74,0.01
 345,"Greg Monroe, C",BOS/MIL/PHX,51,20.4,-1.13,-0.63,-1.76,0.91
 346,"Daniel Hamilton, G",OKC,6,4.7,-1.70,-0.06,-1.76,0.02
 347,"Derrick Jones Jr., SF",MIA/PHX,20,12.3,-1.06,-0.70,-1.76,0.03
@@ -419,7 +419,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 418,"Wayne Selden, SG",MEM,35,19.7,-0.89,-1.56,-2.45,0.30
 419,"Solomon Hill, SF",NO,12,15.6,-2.63,0.16,-2.47,0.09
 420,"Tyrone Wallace, SG",LAC,30,28.4,-2.41,-0.07,-2.48,0.37
-421,"Henry Ellenson, F",DET,38,8.7,-2.85,0.37,-2.48,0.14
+421,"Henry Ellenson, PF",DET,38,8.7,-2.85,0.37,-2.48,0.14
 422,"Milton Doyle, G",BKN,10,12.5,-2.28,-0.22,-2.50,0.05
 423,"Cheick Diallo, PF",NO,52,11.2,-1.64,-0.88,-2.52,0.23
 424,"Wesley Matthews, SG",DAL,63,33.8,-0.51,-2.03,-2.54,0.79
