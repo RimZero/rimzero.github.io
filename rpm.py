@@ -29,7 +29,7 @@ if __name__ == '__main__':
     while True:
         print(page)
         soup = BeautifulSoup(
-            get(api(page=page, year=2018)).content, "html.parser")
+            get(api(page=page, year=2019)).content, "html.parser")
         trs = soup.find('div', {'id': 'my-players-table'}).find('div',
                                                                 {'class': 'mod-content'}).find('table').find_all('tr')
         updated_at = parse_datetime(re.findall(
