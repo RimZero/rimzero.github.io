@@ -217,7 +217,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 216,"Ike Anigbogu, C",IND,3,2.0,-1.66,0.79,-0.87,0.01
 217,"Norman Powell, SF",TOR,11,14.9,-0.71,-0.19,-0.90,0.24
 218,"Jake Layman, SF",POR,20,16.3,-1.70,0.80,-0.90,0.40
-219,"Ray Spalding, PF",DAL,1,1.0,-1.62,0.72,-0.90,0.00
+219,"Ray Spalding, F",DAL,1,1.0,-1.62,0.72,-0.90,0.00
 220,"Greg Monroe, C",TOR,11,7.3,-1.75,0.84,-0.91,0.12
 221,"Drew Eubanks, PF",SA,3,4.3,-1.51,0.60,-0.91,0.01
 222,"Khem Birch, C",ORL,8,5.5,-1.72,0.80,-0.92,0.06
@@ -254,8 +254,8 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 253,"Isaiah Hartenstein, PF",HOU,21,8.2,-1.53,0.34,-1.19,0.21
 254,"Langston Galloway, SG",DET,22,24.8,0.51,-1.71,-1.20,0.63
 255,"Alize Johnson, PF",IND,4,3.0,-1.79,0.59,-1.20,0.01
-256,"Jalen Jones, SF",CLE,3,4.0,-1.40,0.19,-1.21,0.01
-257,"Sam Dekker, SF",CLE,9,18.8,-1.11,-0.10,-1.21,0.21
+256,"Jalen Jones, F",CLE,3,4.0,-1.40,0.19,-1.21,0.01
+257,"Sam Dekker, F",CLE,9,18.8,-1.11,-0.10,-1.21,0.21
 258,"Duncan Robinson, SF",MIA,4,7.3,-1.68,0.46,-1.22,0.04
 259,"Shabazz Napier, PG",BKN,22,15.5,-0.18,-1.05,-1.23,0.37
 260,"DeVaughn Akoon-Purcell, SG",DEN,6,3.5,-0.96,-0.27,-1.23,0.02
@@ -275,7 +275,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 274,"Markieff Morris, PF",WSH,24,26.2,-0.48,-0.87,-1.35,0.74
 275,"Elfrid Payton, PG",NO,6,25.3,-0.75,-0.61,-1.36,0.19
 276,"Dewayne Dedmon, C",ATL,19,21.8,-2.76,1.39,-1.37,0.51
-277,"Jaron Blossomgame, SF",CLE,2,10.0,-1.47,0.10,-1.37,0.00
+277,"Jaron Blossomgame, F",CLE,2,10.0,-1.47,0.10,-1.37,0.00
 278,"Shaun Livingston, PG",GS,18,16.6,-1.66,0.28,-1.38,0.30
 279,"Brad Wanamaker, PG",BOS,7,6.1,-0.97,-0.42,-1.39,0.05
 280,"Dwayne Bacon, SG",CHA,15,12.5,-0.92,-0.47,-1.39,0.21
@@ -319,7 +319,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 318,"Gorgui Dieng, C",MIN,25,13.4,-2.54,0.87,-1.67,0.31
 319,"Lance Stephenson, SG",LAL,25,14.3,-0.81,-0.87,-1.68,0.34
 320,"Aaron Holiday, PG",IND,15,12.5,-0.54,-1.14,-1.68,0.16
-321,"Matthew Dellavedova, PG",MIL,12,8.1,-1.46,-0.24,-1.70,0.08
+321,"Matthew Dellavedova, G",MIL,12,8.1,-1.46,-0.24,-1.70,0.08
 322,"Zach LaVine, PG",CHI,25,35.8,0.53,-2.23,-1.70,0.78
 323,"Keita Bates-Diop, SF",MIN,2,9.0,-1.71,0.01,-1.70,0.02
 324,"Bryn Forbes, G",SA,26,26.8,0.00,-1.71,-1.71,0.58
@@ -425,7 +425,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 424,"Nik Stauskas, SG",POR,25,17.2,-0.69,-2.60,-3.29,-0.04
 425,"Allen Crabbe, SG",BKN,26,25.7,-2.33,-0.98,-3.31,-0.07
 426,"Dante Exum, PG",UTAH,25,16.3,-2.29,-1.04,-3.33,-0.05
-427,"Alec Burks, SG",CLE/UTAH,22,18.6,-1.16,-2.18,-3.34,-0.05
+427,"Alec Burks, G",CLE/UTAH,22,18.6,-1.16,-2.18,-3.34,-0.05
 428,"Cameron Payne, PG",CHI,24,18.5,-1.79,-1.57,-3.36,-0.07
 429,"Rondae Hollis-Jefferson, SF",BKN,23,23.5,-2.75,-0.75,-3.50,-0.12
 430,"Derrick White, PG",SA,17,19.5,-1.97,-1.53,-3.50,-0.08
