@@ -297,7 +297,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 296,"Gary Clark, PF",HOU,22,16.9,-1.67,0.17,-1.50,0.36
 297,"Rodions Kurucs, SF",BKN,11,12.5,-1.21,-0.29,-1.50,0.08
 298,"Raul Neto, PG",UTAH,10,10.3,-0.17,-1.34,-1.51,0.12
-299,"Jaron Blossomgame, SF",CLE,3,13.3,-1.52,0.00,-1.52,0.04
+299,"Jaron Blossomgame, F",CLE,3,13.3,-1.52,0.00,-1.52,0.04
 300,"Malik Monk, SG",CHA,25,19.6,0.24,-1.77,-1.53,0.51
 301,"Chandler Parsons, SF",MEM,3,15.3,-2.11,0.57,-1.54,0.05
 302,"Treveon Graham, SG",BKN,2,13.5,-1.77,0.19,-1.58,0.02
@@ -322,7 +322,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 321,"Clint Capela, C",HOU,25,33.9,-0.56,-1.13,-1.69,0.73
 322,"Jared Terrell, SG",MIN,1,21.0,-1.16,-0.53,-1.69,0.02
 323,"Lance Stephenson, SG",LAL,26,14.3,-0.93,-0.77,-1.70,0.35
-324,"Matthew Dellavedova, PG",MIL,12,8.1,-1.46,-0.24,-1.70,0.08
+324,"Matthew Dellavedova, G",MIL,12,8.1,-1.46,-0.24,-1.70,0.08
 325,"Trey Lyles, PF",DEN,26,20.5,-1.93,0.23,-1.70,0.48
 326,"Alex Abrines, SG",OKC,21,20.1,-2.07,0.32,-1.75,0.38
 327,"DJ Stephens, SG",MEM,1,7.0,-1.33,-0.43,-1.76,0.01
