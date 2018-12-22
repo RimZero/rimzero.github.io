@@ -185,7 +185,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 184,"Gerald Green, SG",HOU,27,17.9,-0.26,-0.33,-0.59,0.71
 185,"J.J. Barea, PG",DAL,27,19.7,0.84,-1.43,-0.59,0.83
 186,"Willy Hernangomez, C",CHA,23,12.7,-0.33,-0.26,-0.59,0.45
-187,"Henry Ellenson, PF",DET,2,12.5,-1.52,0.93,-0.59,0.03
+187,"Henry Ellenson, F",DET,2,12.5,-1.52,0.93,-0.59,0.03
 188,"Cheick Diallo, PF",NO,25,9.8,-1.78,1.18,-0.60,0.39
 189,"Luc Mbah a Moute, PF",LAC,4,15.3,-1.85,1.24,-0.61,0.11
 190,"Kyle Anderson, SF",MEM,31,29.4,-2.87,2.26,-0.61,1.36
@@ -273,7 +273,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 272,"Lou Williams, SG",LAC,27,25.1,1.47,-2.84,-1.37,0.75
 273,"Courtney Lee, SG",NY,9,14.0,-0.90,-0.47,-1.37,0.13
 274,"Patrick Beverley, PG",LAC,31,24.7,-0.60,-0.77,-1.37,0.84
-275,"Devin Robinson, SF",WSH,2,9.0,-1.78,0.41,-1.37,0.02
+275,"Devin Robinson, F",WSH,2,9.0,-1.78,0.41,-1.37,0.02
 276,"Josh Okogie, SG",MIN,24,19.3,-1.46,0.09,-1.37,0.51
 277,"Nick Young, SG",DEN,3,8.0,-1.52,0.14,-1.38,0.03
 278,"Rawle Alkins, SG",CHI,1,3.0,-0.96,-0.42,-1.38,0.00
@@ -286,7 +286,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 285,"Rodney McGruder, SF",MIA,30,30.8,-0.56,-0.85,-1.41,0.98
 286,"Greg Monroe, C",TOR,17,9.1,-2.13,0.70,-1.43,0.16
 287,"Kyle Korver, SG",CLE/UTAH,27,16.5,-0.57,-0.87,-1.44,0.47
-288,"Chasson Randle, PG",WSH,2,12.0,-0.54,-0.91,-1.45,0.03
+288,"Chasson Randle, G",WSH,2,12.0,-0.54,-0.91,-1.45,0.03
 289,"Shake Milton, SG",PHI,7,5.7,-1.17,-0.28,-1.45,0.04
 290,"PJ Dozier, PG",BOS,2,4.0,-1.41,-0.05,-1.46,0.01
 291,"T.J. Leaf, PF",IND,16,7.3,-2.18,0.72,-1.46,0.13
@@ -303,7 +303,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 302,"Amir Johnson, C",PHI,30,9.7,-1.51,-0.04,-1.55,0.31
 303,"Lance Stephenson, SG",LAL,31,15.1,-0.49,-1.06,-1.55,0.50
 304,"Demetrius Jackson, PG",PHI,2,4.5,-0.71,-0.85,-1.56,0.01
-305,"Jerome Robinson, SG",LAC,8,5.0,-1.10,-0.46,-1.56,0.04
+305,"Jerome Robinson, G",LAC,8,5.0,-1.10,-0.46,-1.56,0.04
 306,"Ante Zizic, C",CLE,22,10.2,-2.38,0.82,-1.56,0.21
 307,"JR Smith, SG",CLE,11,20.2,-2.06,0.49,-1.57,0.23
 308,"T.J. McConnell, PG",PHI,27,18.9,-0.32,-1.25,-1.57,0.50
@@ -339,7 +339,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 338,"DJ Stephens, SG",MEM,1,7.0,-1.32,-0.47,-1.79,0.01
 339,"Jaylen Adams, PG",ATL,8,3.4,-0.92,-0.87,-1.79,0.03
 340,"Dillon Brooks, SG",MEM,11,18.9,-1.22,-0.57,-1.79,0.16
-341,"Khyri Thomas, SG",DET,5,5.4,-0.83,-0.97,-1.80,0.02
+341,"Khyri Thomas, F",DET,5,5.4,-0.83,-0.97,-1.80,0.02
 342,"Landry Shamet, PG",PHI,33,20.8,1.28,-3.08,-1.80,0.57
 343,"Bismack Biyombo, C",CHA,10,7.7,-2.28,0.47,-1.81,0.06
 344,"De'Anthony Melton, PG",PHX,15,18.5,-1.32,-0.50,-1.82,0.23
@@ -361,7 +361,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 360,"Jevon Carter, PG",MEM,4,15.8,-1.13,-0.89,-2.02,0.04
 361,"Daniel Hamilton, SG",ATL,6,7.3,-1.72,-0.30,-2.02,0.03
 362,"Malik Monk, SG",CHA,28,19.3,-0.06,-1.96,-2.02,0.40
-363,"Luke Kennard, SG",DET,13,19.3,-1.62,-0.41,-2.03,0.15
+363,"Luke Kennard, G",DET,13,19.3,-1.62,-0.41,-2.03,0.15
 364,"Vince Carter, SF",ATL,28,17.5,-1.16,-0.92,-2.08,0.35
 365,"Raymond Felton, PG",OKC,13,11.0,-1.94,-0.14,-2.08,0.10
 366,"Taurean Prince, SF",ATL,21,28.7,-1.17,-0.91,-2.08,0.45
@@ -385,10 +385,10 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 384,"Ryan Anderson, PF",PHX,15,18.5,-3.12,0.78,-2.34,0.14
 385,"Jerian Grant, PG",ORL,31,19.4,-2.07,-0.28,-2.35,0.29
 386,"Royce O'Neale, SF",UTAH,33,16.8,-2.52,0.17,-2.35,0.27
-387,"Troy Brown Jr., SF",WSH,14,6.8,-1.77,-0.58,-2.35,0.05
+387,"Troy Brown Jr., F",WSH,14,6.8,-1.77,-0.58,-2.35,0.05
 388,"Patrick Patterson, PF",OKC,30,15.3,-2.95,0.57,-2.38,0.23
-389,"Sindarius Thornwell, SG",LAC,16,6.4,-2.02,-0.36,-2.38,0.05
-390,"Bruce Brown, SG",DET,23,17.6,-2.81,0.43,-2.38,0.18
+389,"Sindarius Thornwell, G",LAC,16,6.4,-2.02,-0.36,-2.38,0.05
+390,"Bruce Brown, G",DET,23,17.6,-2.81,0.43,-2.38,0.18
 391,"Devonte' Graham, PG",CHA,12,8.9,-1.10,-1.29,-2.39,0.05
 392,"Jordan Bell, PF",GS,31,12.5,-2.16,-0.24,-2.40,0.18
 393,"Malachi Richardson, SG",TOR,17,5.1,-2.10,-0.31,-2.41,0.04
@@ -414,7 +414,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 413,"OG Anunoby, SF",TOR,28,20.4,-1.74,-0.96,-2.70,0.16
 414,"Isaiah Canaan, G",PHX,19,26.5,-1.40,-1.31,-2.71,0.12
 415,"Jordan Clarkson, PG",CLE,32,26.2,0.20,-2.91,-2.71,0.22
-416,"Tyrone Wallace, SG",LAC,21,8.3,-1.70,-1.03,-2.73,0.04
+416,"Tyrone Wallace, G",LAC,21,8.3,-1.70,-1.03,-2.73,0.04
 417,"Tyler Dorsey, SG",ATL,16,10.8,-1.69,-1.11,-2.80,0.04
 418,"Omari Spellman, PF",ATL,22,18.2,-2.39,-0.43,-2.82,0.09
 419,"Ben McLemore, SG",SAC,10,7.1,-1.55,-1.28,-2.83,0.01
