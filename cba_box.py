@@ -33,7 +33,7 @@ if __name__ == '__main__':
             row.findAll('td')[3].find(
                 'a').attrs['href'].replace('/show/', '/content/')
         detail_res = get(url)
-        detail_soup = BeautifulSoup(detail_res.content, 'lxml')
+        detail_soup = BeautifulSoup(detail_res.content)
         for div in detail_soup.findAll('div', {'class': "cutE"}):
             team = div.find('h2').text
             trs = div.findAll('tr')
