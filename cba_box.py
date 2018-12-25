@@ -19,7 +19,7 @@ HEADERS = {
 if __name__ == '__main__':
     res = get("http://cbadata.sports.sohu.com/sch/all/",
               headers=HEADERS, timeout=50)
-    soup = BeautifulSoup(res.content, 'lxml')
+    soup = BeautifulSoup(res.content)
     table = soup.find('div', {'class': "cutE"}).findAll('tr')
     headers = table[0].text.split()
     data = []
