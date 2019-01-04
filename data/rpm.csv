@@ -146,7 +146,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 145,"Derrick Jones Jr., SF",MIA,26,17.7,-0.92,0.84,-0.08,0.87
 146,"Pat Connaughton, SG",MIL,25,18.4,-0.50,0.38,-0.12,0.90
 147,"Malik Beasley, SG",DEN,35,20.7,1.16,-1.31,-0.15,1.33
-148,"Eric Moreland, PF",PHX,1,5.0,-1.71,1.54,-0.17,0.01
+148,"Eric Moreland, C",PHX,1,5.0,-1.71,1.54,-0.17,0.01
 149,"Ersan Ilyasova, PF",MIL,24,19.9,-1.06,0.87,-0.19,0.94
 150,"Kyle O'Quinn, C",IND,17,6.6,-1.48,1.29,-0.19,0.22
 151,"Tyler Lydon, PF",DEN,11,3.7,-1.26,1.06,-0.20,0.08
@@ -189,7 +189,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 188,"Bojan Bogdanovic, SF",IND,37,31.6,0.69,-1.21,-0.52,1.88
 189,"J.J. Barea, PG",DAL,34,19.9,1.16,-1.69,-0.53,1.14
 190,"John Wall, PG",WSH,32,34.5,1.12,-1.65,-0.53,1.83
-191,"Justin Holiday, SF",CHI,38,34.9,-0.56,0.02,-0.54,2.17
+191,"Justin Holiday, G",CHI,38,34.9,-0.56,0.02,-0.54,2.17
 192,"Rodney Hood, SG",CLE,33,28.1,0.91,-1.45,-0.54,1.49
 193,"Chris Boucher, PF",TOR,9,5.1,-1.39,0.85,-0.54,0.08
 194,"Kyle Korver, SG",CLE/UTAH,32,17.0,0.08,-0.63,-0.55,0.93
@@ -413,7 +413,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 412,"Allen Crabbe, SG",BKN,28,26.1,-1.89,-0.70,-2.59,0.25
 413,"Shaquille Harrison, PG",CHI,29,17.6,-2.41,-0.18,-2.59,0.18
 414,"Jordan Bell, PF",GS,36,11.6,-2.22,-0.37,-2.59,0.15
-415,"MarShon Brooks, SG",MEM,29,13.3,-1.46,-1.19,-2.65,0.11
+415,"MarShon Brooks, G",MEM,29,13.3,-1.46,-1.19,-2.65,0.11
 416,"Patrick Patterson, PF",OKC,37,14.7,-2.86,0.20,-2.66,0.17
 417,"Elie Okobo, PG",PHX,22,18.7,-2.14,-0.53,-2.67,0.12
 418,"Markieff Morris, PF",WSH,34,26.0,-1.10,-1.58,-2.68,0.25
@@ -442,7 +442,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 441,"Wade Baldwin IV, PG",POR,13,5.5,-1.76,-1.40,-3.16,0.00
 442,"Jose Calderon, PG",DET,30,14.1,-2.81,-0.39,-3.20,-0.02
 443,"Jordan Clarkson, PG",CLE,37,26.6,0.39,-3.60,-3.21,-0.05
-444,"Wayne Selden, SG",MEM,32,14.2,-1.64,-1.58,-3.22,-0.03
+444,"Wayne Selden, G",MEM,32,14.2,-1.64,-1.58,-3.22,-0.03
 445,"DeAndre' Bembry, SF",ATL,37,23.5,-2.77,-0.49,-3.26,-0.08
 446,"Terrance Ferguson, SG",OKC,30,20.6,-2.46,-0.93,-3.39,-0.10
 447,"Dwyane Wade, SG",MIA,27,25.5,-0.74,-2.68,-3.42,-0.13
