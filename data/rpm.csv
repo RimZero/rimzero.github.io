@@ -265,7 +265,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 264,"Alize Johnson, PF",IND,4,3.0,-1.80,0.62,-1.18,0.02
 265,"Dzanan Musa, SG",BKN,7,3.7,-1.83,0.61,-1.22,0.03
 266,"Troy Caupain, PG",ORL,2,4.5,-0.88,-0.35,-1.23,0.01
-267,"Chandler Parsons, SF",MEM,3,15.3,-1.89,0.65,-1.24,0.06
+267,"Chandler Parsons, F",MEM,3,15.3,-1.89,0.65,-1.24,0.06
 268,"Guerschon Yabusele, PF",BOS,21,6.0,-1.58,0.34,-1.24,0.15
 269,"Kevin Huerter, SG",ATL,37,25.5,-1.14,-0.11,-1.25,1.16
 270,"Dion Waiters, SG",MIA,1,11.0,-1.07,-0.20,-1.27,0.01
@@ -359,7 +359,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 358,"Chimezie Metu, PF",SA,19,5.5,-2.13,0.22,-1.91,0.07
 359,"Damyean Dotson, SG",NY,30,25.1,-0.86,-1.08,-1.94,0.55
 360,"Trey Lyles, PF",DEN,37,19.2,-2.07,0.13,-1.94,0.51
-361,"Patrick McCaw, SG",CLE,3,17.7,-1.52,-0.42,-1.94,0.01
+361,"Patrick McCaw, G",CLE,3,17.7,-1.52,-0.42,-1.94,0.01
 362,"Raymond Felton, PG",OKC,15,11.1,-1.85,-0.10,-1.95,0.13
 363,"James Nunnally, SF",MIN,13,4.9,-1.19,-0.76,-1.95,0.05
 364,"Alex Abrines, SG",OKC,29,19.8,-2.13,0.18,-1.95,0.44
