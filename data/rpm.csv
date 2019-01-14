@@ -306,7 +306,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 305,"Ish Smith, PG",DET,22,24.4,-1.26,-0.32,-1.58,0.53
 306,"Trey Burke, PG",NY,29,19.9,0.13,-1.72,-1.59,0.54
 307,"Gary Clark, PF",HOU,28,15.2,-1.58,-0.02,-1.60,0.37
-308,"Jaylen Morris, SG",MIL,4,7.3,-1.12,-0.48,-1.60,0.02
+308,"Jaylen Morris, G",MIL,4,7.3,-1.12,-0.48,-1.60,0.02
 309,"Dragan Bender, PF",PHX,12,8.3,-2.27,0.67,-1.60,0.10
 310,"Shai Gilgeous-Alexander, PG",LAC,42,25.9,-1.03,-0.58,-1.61,1.04
 311,"Daryl Macon, SG",DAL,1,1.0,-0.99,-0.63,-1.62,0.00
@@ -456,7 +456,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 455,"Alec Burks, SG",CLE/UTAH,40,23.4,-0.72,-2.92,-3.64,-0.30
 456,"Evan Turner, SG",POR,42,24.5,-2.83,-0.85,-3.68,-0.34
 457,"Grayson Allen, SG",UTAH,18,9.9,-1.83,-1.94,-3.77,-0.07
-458,"Cameron Payne, PG",CHI/CLE,34,17.7,-1.49,-2.32,-3.81,-0.25
+458,"Cameron Payne, G",CHI/CLE,34,17.7,-1.49,-2.32,-3.81,-0.25
 459,"Trae Young, PG",ATL,42,29.5,-0.24,-3.76,-4.00,-0.72
 460,"Ian Clark, SG",NO,30,13.5,-2.60,-1.50,-4.10,-0.27
 461,"Nik Stauskas, SG",POR,40,16.0,-1.50,-2.74,-4.24,-0.41
