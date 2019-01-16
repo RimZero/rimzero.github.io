@@ -280,7 +280,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 279,"Bismack Biyombo, C",CHA,18,13.1,-2.02,0.65,-1.37,0.19
 280,"Nicolas Batum, SF",CHA,43,30.7,-0.57,-0.81,-1.38,1.39
 281,"Zach LaVine, PG",CHI,37,34.1,0.47,-1.85,-1.38,1.35
-282,"Quincy Acy, SF",PHX,3,8.7,-1.74,0.35,-1.39,0.02
+282,"Quincy Acy, F",PHX,3,8.7,-1.74,0.35,-1.39,0.02
 283,"Dario Saric, PF",MIN/PHI,42,25.3,-0.55,-0.84,-1.39,1.11
 284,"Khem Birch, C",ORL,19,8.6,-1.83,0.43,-1.40,0.14
 285,"Troy Caupain, PG",ORL,2,4.5,-1.10,-0.30,-1.40,0.01
@@ -349,7 +349,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 348,"Keita Bates-Diop, SF",MIN,2,9.0,-1.99,0.08,-1.91,0.01
 349,"Ben McLemore, SG",SAC,17,8.4,-1.07,-0.86,-1.93,0.11
 350,"Delon Wright, PG",TOR,40,18.4,-1.03,-0.90,-1.93,0.52
-351,"Jalen Jones, SF",CLE,16,13.4,-1.50,-0.44,-1.94,0.15
+351,"Jalen Jones, F",CLE,16,13.4,-1.50,-0.44,-1.94,0.15
 352,"Patrick McCaw, SG",CLE,3,17.7,-1.52,-0.42,-1.94,0.01
 353,"Eric Gordon, SG",HOU,32,33.2,0.82,-2.77,-1.95,0.75
 354,"Alex Caruso, SG",LAL,2,2.5,-1.48,-0.48,-1.96,0.00
