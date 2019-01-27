@@ -93,8 +93,7 @@ driver = webdriver.Chrome(
 driver.implicitly_wait(100)
 url = 'file:///Users/hang/rimzero.github.io/rpm_radar/index.html'
 keys = ['PG', 'SG', 'SF', 'PF', 'C']
-teams = ['GSW', 'HOU', 'TOR', 'MIN', 'BOS', 'OKC', 'PHI', 'WAS', 'NOP', 'CLE', 'SAS', 'DEN', 'DET', 'IND', 'MIA',
-         'UTA', 'MIL', 'POR', 'DAL', 'CHA', 'LAC', 'NYK', 'BKN', 'MEM', 'ATL', 'LAL', 'CHI', 'ORL', 'PHX', 'SAC']
+teams = ['MIL', 'GSW', 'BOS', 'TOR', 'UTA', 'DEN', 'PHI', 'IND', 'OKC', 'HOU', 'POR', 'NOP', 'SAS', 'MIN', 'DAL', 'LAL', 'CHO', 'LAC', 'MEM', 'MIA', 'SAC', 'BRK', 'WAS', 'ORL', 'DET', 'PHO', 'ATL', 'NYK', 'CHI', 'CLE']
 
 driver.get(url)
 
