@@ -150,7 +150,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 149,"Tyreke Evans, SG",IND,44,20.6,-0.42,0.25,-0.17,1.68
 150,"Brad Wanamaker, PG",BOS,23,9.0,-0.83,0.66,-0.17,0.36
 151,"Eric Moreland, C",PHX,1,5.0,-1.71,1.54,-0.17,0.01
-152,"Wesley Matthews, SG",DAL,44,29.8,0.26,-0.44,-0.18,2.43
+152,"Wesley Matthews, G",DAL,44,29.8,0.26,-0.44,-0.18,2.43
 153,"Cheick Diallo, PF",NO,34,9.9,-1.76,1.58,-0.18,0.59
 154,"David Nwaba, SG",CLE,21,16.4,-1.12,0.92,-0.20,0.62
 155,"Andre Drummond, C",DET,46,33.1,-1.58,1.33,-0.25,2.60
@@ -245,7 +245,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 244,"Jarell Martin, PF",ORL,28,8.4,-2.61,1.54,-1.07,0.32
 245,"Moritz Wagner, C",LAL,18,6.4,-2.08,1.01,-1.07,0.14
 246,"Jonah Bolden, PF",PHI,25,12.6,-2.37,1.27,-1.10,0.42
-247,"Courtney Lee, SG",NY,12,13.3,-1.21,0.10,-1.11,0.21
+247,"Courtney Lee, G",NY,12,13.3,-1.21,0.10,-1.11,0.21
 248,"Gerald Green, SG",HOU,46,21.0,0.52,-1.64,-1.12,1.17
 249,"Julian Washburn, SF",MEM,2,2.5,-1.99,0.87,-1.12,0.00
 250,"Matthew Dellavedova, PG",CLE/MIL,35,15.2,-0.34,-0.81,-1.15,0.65
@@ -307,7 +307,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 306,"Elfrid Payton, PG",NO,19,26.9,-1.07,-0.48,-1.55,0.54
 307,"Johnathan Williams, PF",LAL,7,12.7,-1.64,0.08,-1.56,0.09
 308,"Rawle Alkins, SG",CHI,2,2.0,-1.39,-0.17,-1.56,0.01
-309,"Trey Burke, PG",NY,33,20.9,0.11,-1.70,-1.59,0.61
+309,"Trey Burke, G",NY,33,20.9,0.11,-1.70,-1.59,0.61
 310,"JR Smith, SG",CLE,11,20.2,-2.37,0.76,-1.61,0.22
 311,"Daryl Macon, SG",DAL,2,2.0,-1.11,-0.50,-1.61,0.00
 312,"DeMarre Carroll, SF",BKN,40,25.0,-0.82,-0.80,-1.62,0.90
@@ -403,7 +403,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 402,"Dario Saric, PF",MIN/PHI,50,24.7,-0.86,-1.65,-2.51,0.47
 403,"Bruce Brown, SG",DET,42,20.0,-3.35,0.84,-2.51,0.31
 404,"Caleb Swanigan, PF",POR,18,8.1,-3.23,0.71,-2.52,0.04
-405,"Dennis Smith Jr., PG",DAL,32,28.4,-1.91,-0.62,-2.53,0.34
+405,"Dennis Smith Jr., G",DAL,32,28.4,-1.91,-0.62,-2.53,0.34
 406,"Malachi Richardson, SG",TOR,22,4.7,-2.38,-0.18,-2.56,0.04
 407,"Miles Bridges, SF",CHA,48,19.1,-1.68,-0.90,-2.58,0.31
 408,"Brandon Ingram, SF",LAL,40,33.0,-2.14,-0.47,-2.61,0.42
