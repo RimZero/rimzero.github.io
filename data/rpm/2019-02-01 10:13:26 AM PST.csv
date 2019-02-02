@@ -302,7 +302,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 301,"Will Barton, SG",DEN,11,24.7,-1.03,-0.50,-1.53,0.28
 302,"James Ennis III, SF",HOU,36,23.1,-0.74,-0.81,-1.55,0.79
 303,"Elfrid Payton, PG",NO,19,26.9,-1.07,-0.49,-1.56,0.53
-304,"PJ Dozier, PG",BOS,4,2.5,-1.78,0.22,-1.56,0.01
+304,"PJ Dozier, F",BOS,4,2.5,-1.78,0.22,-1.56,0.01
 305,"Johnathan Williams, PF",LAL,7,12.7,-1.64,0.07,-1.57,0.09
 306,"Lance Stephenson, SG",LAL,51,15.8,-0.52,-1.06,-1.58,0.78
 307,"Rawle Alkins, SG",CHI,2,2.0,-1.42,-0.16,-1.58,0.01
@@ -400,7 +400,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 399,"Shai Gilgeous-Alexander, PG",LAC,52,26.0,-1.48,-0.98,-2.46,0.58
 400,"Malik Monk, SG",CHA,47,18.6,0.16,-2.63,-2.47,0.38
 401,"Austin Rivers, PG",HOU/WSH,47,28.3,-0.36,-2.15,-2.51,0.49
-402,"Dennis Smith Jr., PG",DAL,32,28.4,-1.91,-0.62,-2.53,0.34
+402,"Dennis Smith Jr., G",DAL,32,28.4,-1.91,-0.62,-2.53,0.34
 403,"Daniel Hamilton, SG",ATL,18,11.3,-2.27,-0.27,-2.54,0.08
 404,"Brandon Ingram, SF",LAL,41,33.2,-1.97,-0.57,-2.54,0.50
 405,"Markelle Fultz, PG",PHI,19,22.5,-2.72,0.18,-2.54,0.16
