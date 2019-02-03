@@ -138,7 +138,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 137,"Tyreke Evans, SG",IND,44,20.6,-0.39,0.49,0.10,1.83
 138,"Bam Adebayo, C",MIA,50,22.2,-1.53,1.60,0.07,2.15
 139,"Lonzo Ball, PG",LAL,47,30.3,-0.75,0.82,0.07,3.04
-140,"George Hill, PG",CLE/MIL,38,23.0,-0.21,0.26,0.05,1.68
+140,"George Hill, G",CLE/MIL,38,23.0,-0.21,0.26,0.05,1.68
 141,"Michael Kidd-Gilchrist, SF",CHA,44,19.8,-1.09,1.12,0.03,1.70
 142,"Julius Randle, C",NO,47,29.6,1.19,-1.20,-0.01,2.79
 143,"Thabo Sefolosha, SF",UTAH,26,11.1,-1.55,1.53,-0.02,0.59
@@ -216,7 +216,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 215,"Andrew Wiggins, SF",MIN,47,34.7,0.37,-1.27,-0.90,2.33
 216,"Marco Belinelli, SG",SA,51,22.4,1.95,-2.86,-0.91,1.59
 217,"Evan Fournier, SG",ORL,51,31.3,0.52,-1.43,-0.91,2.15
-218,"Jason Smith, PF",MIL/WSH,18,9.4,-2.59,1.67,-0.92,0.25
+218,"Jason Smith, C",MIL/WSH,18,9.4,-2.59,1.67,-0.92,0.25
 219,"Tim Hardaway Jr., G",NY,46,32.6,1.28,-2.21,-0.93,2.05
 220,"Matthew Dellavedova, PG",CLE/MIL,35,15.2,-0.18,-0.76,-0.94,0.75
 221,"Emanuel Terry, F",PHX,2,10.0,-1.80,0.84,-0.96,0.03
@@ -317,7 +317,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 316,"Willy Hernangomez, C",CHA,43,13.9,-0.54,-1.16,-1.70,0.55
 317,"Davon Reed, SG",IND,6,2.5,-1.53,-0.18,-1.71,0.01
 318,"Reggie Bullock, SG",DET,41,30.7,0.29,-2.02,-1.73,1.06
-319,"Donte DiVincenzo, SG",MIL,23,15.6,-1.52,-0.21,-1.73,0.33
+319,"Donte DiVincenzo, G",MIL,23,15.6,-1.52,-0.21,-1.73,0.33
 320,"Tyler Johnson, SG",MIA,42,25.5,-0.54,-1.20,-1.74,0.88
 321,"Trey Burke, PG",NY,33,20.9,-0.12,-1.62,-1.74,0.60
 322,"Eric Gordon, SG",HOU,40,32.7,0.85,-2.60,-1.75,1.08
@@ -387,7 +387,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 386,"Dario Saric, PF",MIN/PHI,50,24.7,-0.70,-1.57,-2.27,0.67
 387,"Rodney McGruder, SF",MIA,47,25.7,-1.33,-0.95,-2.28,0.65
 388,"JaVale McGee, C",LAL,45,22.0,-3.50,1.20,-2.30,0.54
-389,"Troy Brown Jr., SF",WSH,28,7.3,-1.56,-0.74,-2.30,0.07
+389,"Troy Brown Jr., F",WSH,28,7.3,-1.56,-0.74,-2.30,0.07
 390,"Vince Carter, SF",ATL,47,16.1,-1.78,-0.53,-2.31,0.41
 391,"Cristiano Felicio, PF",CHI,31,9.5,-2.04,-0.30,-2.34,0.15
 392,"C.J. Williams, SG",MIN,8,8.1,-1.85,-0.50,-2.35,0.03
