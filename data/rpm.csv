@@ -245,7 +245,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 244,"Dante Exum, PG",UTAH,39,16.3,-0.84,-0.31,-1.15,0.82
 245,"Ivan Rabb, PF",MEM,25,9.6,-1.63,0.48,-1.15,0.25
 246,"John Wall, PG",WSH,32,34.5,0.29,-1.45,-1.16,1.39
-247,"Harrison Barnes, SF",DAL,49,32.3,0.14,-1.30,-1.16,1.96
+247,"Harrison Barnes, F",DAL,49,32.3,0.14,-1.30,-1.16,1.96
 248,"Derrick Rose, PG",MIN,39,28.7,1.86,-3.04,-1.18,1.41
 249,"Terrence Ross, SG",ORL,54,26.5,0.09,-1.27,-1.18,1.69
 250,"Trevor Ariza, SF",PHX/WSH,50,35.4,-0.30,-0.90,-1.20,1.97
@@ -273,7 +273,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 272,"Vincent Edwards, SF",HOU,2,8.0,-1.97,0.57,-1.40,0.02
 273,"Jeremy Lin, PG",ATL,48,19.7,0.30,-1.71,-1.41,1.09
 274,"Yuta Watanabe, G",MEM,9,7.9,-2.29,0.85,-1.44,0.06
-275,"Justin Jackson, SF",SAC,52,20.8,-0.40,-1.05,-1.45,1.21
+275,"Justin Jackson, G",SAC,52,20.8,-0.40,-1.05,-1.45,1.21
 276,"Yogi Ferrell, PG",SAC,44,15.0,-0.21,-1.25,-1.46,0.66
 277,"Demetrius Jackson, G",PHI,6,6.5,-0.74,-0.72,-1.46,0.01
 278,"Troy Caupain, PG",ORL,2,4.5,-1.33,-0.13,-1.46,0.01
