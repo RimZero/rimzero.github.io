@@ -129,7 +129,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 128,"Reggie Jackson, PG",DET,53,29.1,1.43,-1.07,0.36,3.09
 129,"Danuel House Jr., SF",HOU,25,24.8,0.57,-0.23,0.34,1.30
 130,"Salah Mejri, C",DAL,16,6.8,-1.72,2.05,0.33,0.23
-131,"Omri Casspi, SF",MEM,36,14.4,-0.91,1.20,0.29,1.15
+131,"Omri Casspi, F",MEM,36,14.4,-0.91,1.20,0.29,1.15
 132,"Patty Mills, PG",SA,56,23.6,2.25,-1.96,0.29,2.77
 133,"Bogdan Bogdanovic, SG",SAC,42,27.9,1.24,-0.95,0.29,2.50
 134,"Jeremy Lamb, SG",CHA,51,28.5,0.52,-0.26,0.26,2.95
@@ -305,7 +305,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 304,"PJ Dozier, PG",BOS,4,2.5,-1.80,0.19,-1.61,0.01
 305,"Rawle Alkins, SG",CHI,2,2.0,-1.46,-0.15,-1.61,0.01
 306,"Johnathan Motley, PF",LAC,13,6.8,-1.73,0.11,-1.62,0.09
-307,"Milos Teodosic, PG",LAC,15,10.0,-1.03,-0.61,-1.64,0.15
+307,"Milos Teodosic, G",LAC,15,10.0,-1.03,-0.61,-1.64,0.15
 308,"James Ennis III, SF",HOU,40,23.7,-0.69,-0.95,-1.64,0.80
 309,"Kenrich Williams, SG",NO,19,13.6,-1.69,0.05,-1.64,0.18
 310,"Iman Shumpert, SG",SAC,42,26.2,-0.61,-1.04,-1.65,1.04
