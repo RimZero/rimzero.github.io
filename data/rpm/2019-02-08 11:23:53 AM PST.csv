@@ -249,7 +249,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 248,"Derrick Rose, PG",MIN,39,28.7,1.79,-2.99,-1.20,1.39
 249,"Caris LeVert, SG",BKN,15,28.7,-0.40,-0.81,-1.21,0.46
 250,"T.J. Leaf, PF",IND,34,8.3,-2.08,0.87,-1.21,0.34
-251,"Michael Beasley, SF",LAL,26,10.7,-1.82,0.59,-1.23,0.30
+251,"Michael Beasley, F",LAL,26,10.7,-1.82,0.59,-1.23,0.30
 252,"Sam Dekker, SF",CLE/WSH,35,17.1,-1.18,-0.05,-1.23,0.70
 253,"Dante Exum, PG",UTAH,39,16.3,-0.92,-0.31,-1.23,0.79
 254,"Tyler Lydon, PF",DEN,21,4.1,-2.10,0.85,-1.25,0.11
@@ -460,7 +460,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 459,"Evan Turner, SG",POR,53,24.0,-2.27,-1.37,-3.64,-0.39
 460,"Avery Bradley, SG",LAC,49,29.9,-2.87,-0.78,-3.65,-0.47
 461,"Jabari Parker, PF",CHI/WSH,40,26.6,-1.83,-1.83,-3.66,-0.36
-462,"Wade Baldwin IV, PG",POR,16,5.9,-2.58,-1.08,-3.66,-0.03
+462,"Wade Baldwin IV, G",POR,16,5.9,-2.58,-1.08,-3.66,-0.03
 463,"Cameron Payne, G",CHI/CLE,40,17.8,-1.36,-2.36,-3.72,-0.27
 464,"Ian Clark, SG",NO,39,13.5,-2.28,-1.46,-3.74,-0.21
 465,"Frank Jackson, PG",NO,41,15.1,-1.10,-2.69,-3.79,-0.25
@@ -474,7 +474,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 473,"Marvin Bagley III, PF",SAC,41,24.0,-2.12,-2.09,-4.21,-0.69
 474,"Mo Bamba, C",ORL,47,16.3,-3.85,-0.63,-4.48,-0.66
 475,"Jonathon Simmons, SF",ORL,41,20.6,-3.87,-0.63,-4.50,-0.74
-476,"Nik Stauskas, SG",POR,44,15.3,-1.86,-2.78,-4.64,-0.62
+476,"Nik Stauskas, G",POR,44,15.3,-1.86,-2.78,-4.64,-0.62
 477,"Jevon Carter, PG",MEM,22,15.3,-3.62,-1.09,-4.71,-0.32
 478,"Frank Ntilikina, PG",NY,41,21.3,-3.21,-1.55,-4.76,-0.93
 479,"Allonzo Trier, SG",NY,47,22.1,-2.15,-2.90,-5.05,-1.22
