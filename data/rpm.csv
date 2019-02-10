@@ -192,7 +192,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 191,"Semi Ojeleye, PF",BOS,39,10.5,-1.77,1.13,-0.64,0.64
 192,"Spencer Dinwiddie, PG",BKN,49,28.6,2.58,-3.23,-0.65,2.11
 193,"Moritz Wagner, C",LAL,20,6.9,-1.86,1.21,-0.65,0.19
-194,"Rodney Hood, SG",CLE/POR,46,27.4,0.28,-0.94,-0.66,1.91
+194,"Rodney Hood, G",CLE/POR,46,27.4,0.28,-0.94,-0.66,1.91
 195,"Alex Len, C",ATL,51,19.1,-2.15,1.46,-0.69,1.61
 196,"Henry Ellenson, F",DET,2,12.5,-1.77,1.05,-0.72,0.03
 197,"Bismack Biyombo, C",CHA,30,15.3,-2.06,1.33,-0.73,0.67
@@ -239,7 +239,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 238,"Bruno Caboclo, SF",MEM,9,21.2,-1.71,0.63,-1.08,0.11
 239,"Marco Belinelli, SG",SA,56,22.6,1.77,-2.86,-1.09,1.58
 240,"Courtney Lee, SG",DAL/NY,13,12.6,-1.21,0.10,-1.11,0.21
-241,"James Ennis III, SF",HOU/PHI,41,23.5,-0.48,-0.63,-1.11,1.16
+241,"James Ennis III, F",HOU/PHI,41,23.5,-0.48,-0.63,-1.11,1.16
 242,"Jarell Martin, PF",ORL,29,8.2,-2.65,1.54,-1.11,0.31
 243,"Jonah Bolden, PF",PHI,28,12.5,-2.21,1.10,-1.11,0.46
 244,"Deandre Ayton, C",PHX,51,30.9,-1.51,0.40,-1.11,1.97
@@ -277,7 +277,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 276,"Ron Baker, G",NY/WSH,15,10.1,-1.56,0.09,-1.47,0.12
 277,"Dennis Schroder, PG",OKC,54,28.3,0.36,-1.83,-1.47,1.58
 278,"Garrett Temple, SG",LAC/MEM,50,31.0,-1.89,0.39,-1.50,1.53
-279,"Reggie Bullock, SG",DET,44,30.8,0.47,-1.97,-1.50,1.27
+279,"Reggie Bullock, G",DET,44,30.8,0.47,-1.97,-1.50,1.27
 280,"Jalen Jones, F",CLE,16,13.4,-1.23,-0.27,-1.50,0.17
 281,"Rodions Kurucs, SF",BKN,40,21.0,-1.21,-0.29,-1.50,0.08
 282,"Jared Dudley, SF",BKN,43,22.0,-1.45,-0.06,-1.51,0.92
@@ -332,7 +332,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 331,"Damion Lee, SG",GS,17,11.9,-1.58,-0.26,-1.84,0.16
 332,"Tristan Thompson, C",CLE,35,29.8,-1.02,-0.84,-1.86,0.83
 333,"Aaron Holiday, PG",IND,37,11.8,-0.89,-0.97,-1.86,0.32
-334,"Skal Labissiere, PF",SAC,13,8.7,-2.04,0.18,-1.86,0.09
+334,"Skal Labissiere, F",SAC,13,8.7,-2.04,0.18,-1.86,0.09
 335,"George King, SF",PHX,1,6.0,-1.90,0.03,-1.87,0.00
 336,"Dario Saric, PF",MIN/PHI,54,24.7,-0.43,-1.45,-1.88,1.01
 337,"Wendell Carter Jr., C",CHI,44,25.2,-3.77,1.89,-1.88,0.88
@@ -473,7 +473,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 472,"Cedi Osman, SF",CLE,51,31.5,-1.02,-3.13,-4.15,-1.06
 473,"Marvin Bagley III, PF",SAC,41,24.0,-2.12,-2.09,-4.21,-0.69
 474,"Mo Bamba, C",ORL,47,16.3,-3.85,-0.63,-4.48,-0.66
-475,"Jonathon Simmons, SF",ORL,41,20.6,-3.87,-0.63,-4.50,-0.74
+475,"Jonathon Simmons, G",ORL,41,20.6,-3.87,-0.63,-4.50,-0.74
 476,"Nik Stauskas, G",POR,44,15.3,-1.86,-2.78,-4.64,-0.62
 477,"Jevon Carter, PG",MEM,23,15.3,-3.62,-1.09,-4.71,-0.32
 478,"Frank Ntilikina, PG",NY,41,21.3,-3.21,-1.55,-4.76,-0.93
