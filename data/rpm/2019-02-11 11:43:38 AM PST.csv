@@ -345,7 +345,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 344,"Trevon Duval, PG",MIL,3,2.0,-1.19,-0.74,-1.93,0.00
 345,"Jordan Loyd, PG",TOR,7,5.0,-1.60,-0.34,-1.94,0.03
 346,"Alex Caruso, SG",LAL,5,4.0,-1.82,-0.16,-1.98,0.01
-347,"Bobby Portis, PF",CHI/WSH,25,24.8,-0.46,-1.52,-1.98,0.41
+347,"Bobby Portis, F",CHI/WSH,25,24.8,-0.46,-1.52,-1.98,0.41
 348,"Jaron Blossomgame, SF",CLE,27,16.3,-2.10,0.11,-1.99,0.32
 349,"Yuta Watanabe, G",MEM,10,9.8,-2.42,0.42,-2.00,0.07
 350,"Eric Gordon, SG",HOU,44,32.3,0.93,-2.95,-2.02,0.95
@@ -435,12 +435,12 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 434,"Michael Carter-Williams, G",HOU,16,9.1,-2.03,-1.01,-3.04,0.01
 435,"Devonte' Graham, PG",CHA,30,12.7,-1.52,-1.54,-3.06,0.02
 436,"Will Barton, SG",DEN,17,26.3,-1.36,-1.71,-3.07,0.01
-437,"Jabari Parker, PF",CHI/WSH,42,26.7,-1.62,-1.52,-3.14,-0.01
+437,"Jabari Parker, F",CHI/WSH,42,26.7,-1.62,-1.52,-3.14,-0.01
 438,"Jordan Clarkson, PG",CLE,56,26.7,0.66,-3.82,-3.16,-0.03
 439,"Chimezie Metu, PF",SA,26,5.2,-3.35,0.18,-3.17,0.00
 440,"CJ Miles, SF",TOR/MEM,42,14.4,-2.19,-1.01,-3.20,-0.03
 441,"DeAndre' Bembry, SF",ATL,57,24.4,-2.47,-0.73,-3.20,-0.07
-442,"Wesley Johnson, SF",NO/WSH,29,15.0,-2.36,-0.85,-3.21,-0.02
+442,"Wesley Johnson, F",NO/WSH,29,15.0,-2.36,-0.85,-3.21,-0.02
 443,"Solomon Hill, SF",NO,35,20.3,-2.45,-0.76,-3.21,-0.04
 444,"Josh Jackson, SF",PHX,58,24.3,-2.30,-0.92,-3.22,-0.08
 445,"Shelvin Mack, PG",MEM/CHA,54,22.5,-1.04,-2.19,-3.23,-0.08
