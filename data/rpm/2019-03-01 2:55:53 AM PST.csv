@@ -297,7 +297,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 296,"Johnathan Williams, PF",LAL,7,12.7,-1.76,0.11,-1.65,0.08
 297,"Jaylen Morris, SG",MIL,4,7.3,-1.05,-0.60,-1.65,0.02
 298,"Julian Washburn, SF",MEM,7,15.7,-2.52,0.86,-1.66,0.10
-299,"PJ Dozier, PG",BOS,4,2.5,-1.97,0.30,-1.67,0.01
+299,"PJ Dozier, F",BOS,4,2.5,-1.97,0.30,-1.67,0.01
 300,"Isaac Bonga, PG",LAL,8,3.9,-2.29,0.61,-1.68,0.03
 301,"Bryn Forbes, SG",SA,64,28.2,0.24,-1.93,-1.69,1.58
 302,"Alex Abrines, G",OKC,31,19.0,-2.60,0.91,-1.69,0.56
@@ -412,7 +412,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 411,"Daniel Hamilton, G",ATL,19,10.7,-2.46,-0.19,-2.65,0.06
 412,"Gary Trent Jr., SG",POR,9,4.2,-2.50,-0.18,-2.68,0.01
 413,"Greg Monroe, C",TOR,38,11.1,-3.92,1.21,-2.71,0.11
-414,"Isaiah Canaan, PG",MIL/MIN/PHX,30,21.0,-1.40,-1.31,-2.71,0.12
+414,"Isaiah Canaan, G",MIL/MIN/PHX,30,21.0,-1.40,-1.31,-2.71,0.12
 415,"Jordan Bell, PF",GS,52,11.5,-2.51,-0.25,-2.76,0.13
 416,"Patrick McCaw, SG",CLE/TOR,17,12.6,-2.59,-0.18,-2.77,0.05
 417,"Cristiano Felicio, PF",CHI,41,10.0,-2.45,-0.33,-2.78,0.09
