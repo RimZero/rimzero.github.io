@@ -158,7 +158,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 157,"Harrison Barnes, SF",DAL/SAC,64,33.0,-0.35,0.22,-0.13,3.86
 158,"Devin Booker, SG",PHX,56,35.1,2.61,-2.75,-0.14,3.47
 159,"Wilson Chandler, SF",LAC/PHI,40,25.0,-0.48,0.32,-0.16,1.79
-160,"Eric Moreland, PF",PHX/TOR,3,7.0,-1.71,1.54,-0.17,0.01
+160,"Eric Moreland, C",PHX/TOR,3,7.0,-1.71,1.54,-0.17,0.01
 161,"Kyle Anderson, SF",MEM,43,29.8,-2.69,2.51,-0.18,2.33
 162,"Wesley Matthews, SG",DAL/IND/NY,60,30.6,0.41,-0.61,-0.20,3.23
 163,"Pat Connaughton, SG",MIL,49,18.6,0.06,-0.27,-0.21,1.56
@@ -249,7 +249,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 248,"Seth Curry, SG",POR,63,17.3,-0.66,-0.53,-1.19,1.18
 249,"Trevor Ariza, SF",PHX/WSH,66,34.9,0.41,-1.61,-1.20,2.59
 250,"Tony Snell, SG",MIL,70,17.4,0.48,-1.68,-1.20,1.44
-251,"Christian Wood, PF",MIL,13,4.8,-2.11,0.90,-1.21,0.06
+251,"Christian Wood, C",MIL,13,4.8,-2.11,0.90,-1.21,0.06
 252,"Kyle Korver, SG",CLE/UTAH,63,19.2,-0.50,-0.72,-1.22,1.43
 253,"Josh Okogie, SG",MIN,62,22.9,-1.46,0.24,-1.22,1.69
 254,"Michael Beasley, F",LAL,26,10.7,-1.82,0.59,-1.23,0.30
@@ -319,7 +319,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 318,"Marco Belinelli, SG",SA,68,23.1,1.31,-3.14,-1.83,1.25
 319,"Courtney Lee, SG",DAL/NY,24,11.7,-1.76,-0.09,-1.85,0.22
 320,"Kyle O'Quinn, C",IND,40,8.5,-2.27,0.42,-1.85,0.27
-321,"Norman Powell, SF",TOR,48,18.7,-0.53,-1.33,-1.86,0.66
+321,"Norman Powell, G",TOR,48,18.7,-0.53,-1.33,-1.86,0.66
 322,"Willy Hernangomez, C",CHA,48,13.6,-0.70,-1.16,-1.86,0.52
 323,"Marcus Derrickson, F",GS,9,6.0,-1.99,0.12,-1.87,0.04
 324,"Rawle Alkins, SG",CHI,3,2.0,-1.79,-0.08,-1.87,0.01
@@ -352,7 +352,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 351,"Trevon Duval, PG",MIL,3,2.0,-1.40,-0.64,-2.04,0.00
 352,"Yuta Watanabe, G",MEM,10,9.8,-2.51,0.46,-2.05,0.07
 353,"Bonzie Colson, PF",MIL,1,3.0,-2.14,0.07,-2.07,0.00
-354,"Khyri Thomas, SG",DET,23,8.2,-1.75,-0.34,-2.09,0.12
+354,"Khyri Thomas, G",DET,23,8.2,-1.75,-0.34,-2.09,0.12
 355,"Keita Bates-Diop, SF",MIN,18,15.4,-2.00,-0.10,-2.10,0.13
 356,"T.J. McConnell, PG",PHI,64,19.8,-0.42,-1.69,-2.11,0.78
 357,"Trey Burke, PG",DAL/NY,45,19.2,-0.10,-2.01,-2.11,0.54
