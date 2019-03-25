@@ -157,7 +157,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 156,"Evan Fournier, SG",ORL,72,31.5,0.71,-0.80,-0.09,4.25
 157,"Pau Gasol, C",MIL/SA,30,12.0,-2.41,2.29,-0.12,0.66
 158,"Corey Brewer, SG",PHI/SAC,21,16.2,-1.66,1.50,-0.16,0.63
-159,"Eric Moreland, PF",PHX/TOR,4,9.0,-1.71,1.54,-0.17,0.01
+159,"Eric Moreland, C",PHX/TOR,4,9.0,-1.71,1.54,-0.17,0.01
 160,"Joe Harris, SF",BKN,69,29.7,1.42,-1.60,-0.18,3.78
 161,"Wesley Matthews, SG",DAL/IND/NY,63,30.5,0.37,-0.58,-0.21,3.52
 162,"Jonathan Isaac, PF",ORL,67,26.7,-1.74,1.53,-0.21,3.30
@@ -171,7 +171,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 170,"Royce O'Neale, SF",UTAH,73,19.7,-1.76,1.50,-0.26,2.62
 171,"Jeff Green, SF",WSH,72,27.8,0.51,-0.78,-0.27,3.48
 172,"Pat Connaughton, SG",MIL,52,19.4,0.15,-0.43,-0.28,1.79
-173,"Jaylen Brown, SG",BOS,68,26.0,-1.01,0.72,-0.29,3.13
+173,"Jaylen Brown, F",BOS,68,26.0,-1.01,0.72,-0.29,3.13
 174,"Zach Collins, PF",POR,67,17.5,-1.50,1.20,-0.30,1.97
 175,"John Henson, F",MIL,14,13.4,-1.58,1.27,-0.31,0.36
 176,"Mitchell Robinson, C",NY,57,19.1,-1.17,0.86,-0.31,1.86
@@ -353,7 +353,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 352,"Yuta Watanabe, G",MEM,11,9.6,-2.56,0.49,-2.07,0.07
 353,"Jordan Loyd, PG",TOR,9,4.1,-1.91,-0.17,-2.08,0.03
 354,"Jaron Blossomgame, SF",CLE,27,16.3,-2.35,0.27,-2.08,0.29
-355,"Trevon Duval, PG",MIL,3,2.0,-1.44,-0.64,-2.08,0.00
+355,"Trevon Duval, G",MIL,3,2.0,-1.44,-0.64,-2.08,0.00
 356,"Jordan McRae, SG",WSH,21,9.7,-2.01,-0.09,-2.10,0.11
 357,"Alex Poythress, SF",ATL,21,14.5,-1.49,-0.63,-2.12,0.14
 358,"Tyler Ulis, G",CHI,1,1.0,-1.07,-1.07,-2.14,0.00
