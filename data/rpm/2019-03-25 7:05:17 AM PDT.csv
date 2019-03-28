@@ -296,7 +296,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 295,"Alex Abrines, G",OKC,31,19.0,-2.60,0.91,-1.69,0.56
 296,"Guerschon Yabusele, PF",BOS,37,5.8,-2.03,0.33,-1.70,0.19
 297,"Quincy Pondexter, SF",SA,49,5.4,-1.85,0.14,-1.71,0.24
-298,"Scott Machado, PG",LAL,2,1.5,-1.60,-0.11,-1.71,0.00
+298,"Scott Machado, G",LAL,2,1.5,-1.60,-0.11,-1.71,0.00
 299,"Haywood Highsmith, F",PHI,2,4.5,-1.99,0.27,-1.72,0.00
 300,"Bryn Forbes, SG",SA,75,27.8,0.16,-1.90,-1.74,1.78
 301,"DJ Stephens, G",MEM,1,7.0,-1.33,-0.43,-1.76,0.01
@@ -354,7 +354,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 353,"Isaac Bonga, PG",LAL,14,3.3,-2.65,0.60,-2.05,0.03
 354,"Chris Chiozza, PG",HOU,2,3.0,-1.66,-0.41,-2.07,0.00
 355,"JaVale McGee, C",LAL,67,21.9,-2.62,0.54,-2.08,1.00
-356,"Trevon Duval, PG",MIL,3,2.0,-1.47,-0.61,-2.08,0.00
+356,"Trevon Duval, G",MIL,3,2.0,-1.47,-0.61,-2.08,0.00
 357,"Terrance Ferguson, SG",OKC,66,25.9,-1.03,-1.06,-2.09,1.10
 358,"Jaron Blossomgame, SF",CLE,27,16.3,-2.38,0.28,-2.10,0.29
 359,"Damyean Dotson, SG",NY,65,26.8,-0.01,-2.10,-2.11,1.11
@@ -449,7 +449,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 448,"Glenn Robinson III, SG",DET,42,12.7,-3.45,0.32,-3.13,0.00
 449,"Bruce Brown, SG",DET,66,19.5,-3.79,0.59,-3.20,-0.06
 450,"Dante Cunningham, SF",SA,60,14.9,-2.32,-0.90,-3.22,-0.05
-451,"Jawun Evans, PG",PHX,7,9.1,-2.39,-0.85,-3.24,0.00
+451,"Jawun Evans, G",PHX,7,9.1,-2.39,-0.85,-3.24,0.00
 452,"Chimezie Metu, PF",SA,29,5.0,-3.49,0.25,-3.24,-0.01
 453,"Channing Frye, PF",CLE,33,9.5,-2.49,-0.76,-3.25,-0.02
 454,"Lance Thomas, SF",NY,41,16.5,-4.03,0.78,-3.25,-0.05
