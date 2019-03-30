@@ -106,7 +106,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 105,"Tobias Harris, SF",LAC/PHI,76,34.9,1.29,-0.37,0.92,6.85
 106,"Cory Joseph, PG",IND,75,25.3,-0.61,1.48,0.87,4.72
 107,"LaMarcus Aldridge, C",SA,75,33.3,0.65,0.18,0.83,6.17
-108,"Luke Kornet, PF",NY,39,14.9,-1.45,2.26,0.81,1.47
+108,"Luke Kornet, F",NY,39,14.9,-1.45,2.26,0.81,1.47
 109,"Jamal Murray, PG",DEN,68,32.8,1.98,-1.18,0.80,5.45
 110,"Noah Vonleh, PF",NY,68,25.3,-0.87,1.66,0.79,4.30
 111,"Tyus Jones, PG",MIN,60,21.9,0.02,0.74,0.76,3.29
@@ -209,7 +209,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 208,"Malik Beasley, SG",DEN,73,23.5,1.46,-2.24,-0.78,2.50
 209,"Deandre Ayton, C",PHX,70,30.8,-1.40,0.62,-0.78,3.11
 210,"Kenneth Faried, PF",HOU/BKN,33,19.9,-0.48,-0.31,-0.79,1.00
-211,"Deyonta Davis, C",ATL,2,3.5,-1.95,1.15,-0.80,0.01
+211,"Deyonta Davis, F",ATL,2,3.5,-1.95,1.15,-0.80,0.01
 212,"Spencer Dinwiddie, PG",BKN,62,28.4,2.21,-3.02,-0.81,2.50
 213,"Wilson Chandler, SF",LAC/PHI,45,23.6,-1.13,0.24,-0.89,1.52
 214,"Quincy Acy, F",PHX,10,12.3,-1.97,1.08,-0.89,0.14
@@ -349,7 +349,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 348,"Elfrid Payton, PG",NO,37,29.5,-1.09,-0.98,-2.07,0.78
 349,"Terrance Ferguson, SG",OKC,67,26.0,-0.88,-1.19,-2.07,1.17
 350,"Justin Anderson, SG",ATL,41,7.5,-2.46,0.38,-2.08,0.21
-351,"Trevon Duval, PG",MIL,3,2.0,-1.47,-0.61,-2.08,0.00
+351,"Trevon Duval, G",MIL,3,2.0,-1.47,-0.61,-2.08,0.00
 352,"Zhaire Smith, SG",PHI,1,6.0,-1.81,-0.27,-2.08,0.00
 353,"Duncan Robinson, SF",MIA,12,8.8,-2.24,0.15,-2.09,0.07
 354,"Chris Chiozza, PG",HOU,3,3.0,-1.74,-0.36,-2.10,0.00
@@ -450,7 +450,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 449,"Bruce Brown, SG",DET,67,19.5,-3.76,0.63,-3.13,0.00
 450,"Glenn Robinson III, SG",DET,42,12.7,-3.47,0.29,-3.18,-0.02
 451,"Chimezie Metu, PF",SA,29,5.0,-3.49,0.26,-3.23,-0.01
-452,"Jawun Evans, PG",PHX,7,9.1,-2.39,-0.85,-3.24,0.00
+452,"Jawun Evans, G",PHX,7,9.1,-2.39,-0.85,-3.24,0.00
 453,"Channing Frye, PF",CLE,33,9.5,-2.51,-0.76,-3.27,-0.03
 454,"Cristiano Felicio, PF",CHI,54,11.5,-2.18,-1.09,-3.27,-0.06
 455,"Avery Bradley, SG",LAC/MEM,63,30.2,-1.93,-1.36,-3.29,-0.20
