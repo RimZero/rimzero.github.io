@@ -38,7 +38,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 37,"Kawhi Leonard, SF",TOR,55,34.3,2.79,-0.08,2.71,7.02
 38,"Robert Covington, SF",MIN/PHI,35,34.4,-0.84,3.50,2.66,4.31
 39,"Kemba Walker, PG",CHA,76,34.8,3.95,-1.30,2.65,9.73
-40,"Daniel Theis, PF",BOS,61,14.0,0.72,1.88,2.60,3.01
+40,"Daniel Theis, F",BOS,61,14.0,0.72,1.88,2.60,3.01
 41,"Nemanja Bjelica, PF",SAC,72,23.4,0.93,1.61,2.54,6.35
 42,"Rudy Gay, SF",SA,64,27.0,0.46,2.07,2.53,6.14
 43,"Patrick Beverley, PG",LAC,77,27.5,1.38,1.15,2.53,7.50
@@ -162,7 +162,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 161,"Pau Gasol, C",MIL/SA,30,12.0,-2.44,2.30,-0.14,0.65
 162,"Mikal Bridges, SF",PHX,77,28.8,-0.16,0.00,-0.16,4.08
 163,"Terrence Ross, SG",ORL,76,26.6,0.50,-0.67,-0.17,3.73
-164,"Eric Moreland, PF",PHX/TOR,4,9.0,-1.71,1.54,-0.17,0.01
+164,"Eric Moreland, C",PHX/TOR,4,9.0,-1.71,1.54,-0.17,0.01
 165,"Lonzo Ball, PG",LAL,47,30.3,-1.49,1.32,-0.17,2.81
 166,"Frank Kaminsky, PF",CHA,41,14.9,-0.41,0.23,-0.18,1.16
 167,"Brad Wanamaker, PG",BOS,32,8.7,-1.01,0.82,-0.19,0.54
@@ -199,7 +199,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 198,"Zach LaVine, PG",CHI,63,34.5,1.40,-2.11,-0.71,3.27
 199,"Michael Kidd-Gilchrist, SF",CHA,60,18.5,-1.69,0.97,-0.72,1.68
 200,"Henry Ellenson, PF",DET/NY,14,12.6,-1.77,1.05,-0.72,0.03
-201,"Jaylen Brown, SG",BOS,72,26.0,-0.91,0.19,-0.72,2.87
+201,"Jaylen Brown, G",BOS,72,26.0,-0.91,0.19,-0.72,2.87
 202,"J.J. Barea, PG",DAL,38,19.8,-0.17,-0.58,-0.75,1.16
 203,"Vince Carter, SF",ATL,72,17.2,-0.76,0.00,-0.76,1.94
 204,"Garrett Temple, SG",LAC/MEM,71,27.6,-1.60,0.84,-0.76,2.84
