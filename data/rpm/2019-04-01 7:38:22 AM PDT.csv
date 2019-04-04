@@ -322,7 +322,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 321,"Bobby Portis, PF",CHI/WSH,46,25.9,-0.51,-1.39,-1.90,0.92
 322,"Devin Harris, PG",DAL,63,15.2,-0.47,-1.44,-1.91,0.72
 323,"JR Smith, SG",CLE,11,20.2,-2.85,0.94,-1.91,0.18
-324,"BJ Johnson, F",ATL,6,7.2,-2.11,0.20,-1.91,0.02
+324,"BJ Johnson, SF",ATL,6,7.2,-2.11,0.20,-1.91,0.02
 325,"Davon Reed, SG",IND,8,2.8,-1.93,0.01,-1.92,0.01
 326,"Zach Lofton, G",DET,1,4.0,-1.37,-0.55,-1.92,0.00
 327,"Dennis Schroder, PG",OKC,75,29.1,0.14,-2.07,-1.93,1.67
@@ -359,7 +359,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 358,"Sterling Brown, SG",MIL,54,17.0,-1.40,-0.76,-2.16,0.53
 359,"Jaylen Adams, PG",ATL,30,11.8,-1.32,-0.84,-2.16,0.19
 360,"Torrey Craig, SF",DEN,70,20.0,-1.25,-0.92,-2.17,0.81
-361,"Jordan Sibert, SG",ATL,1,4.0,-1.90,-0.27,-2.17,0.00
+361,"Jordan Sibert, G",ATL,1,4.0,-1.90,-0.27,-2.17,0.00
 362,"James Nunnally, G",HOU/MIN,15,6.8,-1.29,-0.89,-2.18,0.05
 363,"DeAndre' Bembry, SF",ATL,78,23.6,-2.07,-0.11,-2.18,1.13
 364,"Lance Stephenson, SG",LAL,67,16.5,-0.84,-1.36,-2.20,0.64
