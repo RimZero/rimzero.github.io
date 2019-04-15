@@ -70,7 +70,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 69,"Thabo Sefolosha, SF",UTAH,50,12.2,-0.75,2.40,1.65,1.95
 70,"DeAndre Jordan, C",DAL/NY,69,29.7,-1.52,3.17,1.65,6.23
 71,"Boban Marjanovic, C",LAC/PHI,58,11.7,-0.83,2.48,1.65,2.13
-72,"Nikola Mirotic, F",NO/MIL,46,27.1,0.64,1.01,1.65,3.98
+72,"Nikola Mirotic, PF",NO/MIL,46,27.1,0.64,1.01,1.65,3.98
 73,"Hassan Whiteside, C",MIA,72,23.3,-2.08,3.67,1.59,4.94
 74,"Malcolm Brogdon, PG",MIL,64,28.6,1.74,-0.15,1.59,5.60
 75,"Dewayne Dedmon, C",ATL,64,25.1,-0.47,2.02,1.55,4.87
@@ -300,14 +300,14 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 299,"Troy Caupain, PG",ORL,4,4.0,-1.48,-0.10,-1.58,0.02
 300,"Johnathan Motley, PF",LAC,22,7.1,-1.92,0.33,-1.59,0.15
 301,"Devin Robinson, SF",WSH,7,13.6,-1.76,0.17,-1.59,0.08
-302,"PJ Dozier, F",BOS,6,8.5,-1.92,0.33,-1.59,0.05
+302,"PJ Dozier, PG",BOS,6,8.5,-1.92,0.33,-1.59,0.05
 303,"Kenrich Williams, SG",NO,46,23.5,-1.80,0.19,-1.61,1.08
 304,"Trevor Ariza, SF",PHX/WSH,69,34.0,-0.38,-1.25,-1.63,2.18
 305,"Furkan Korkmaz, SG",PHI,48,14.1,-0.63,-1.00,-1.63,0.64
 306,"Milos Teodosic, G",LAC,15,10.0,-1.03,-0.61,-1.64,0.15
 307,"Spencer Dinwiddie, PG",BKN,68,28.1,1.52,-3.16,-1.64,1.77
 308,"Jordan McRae, SG",WSH,27,12.3,-1.70,0.05,-1.65,0.27
-309,"Jaylen Morris, G",MIL,4,7.3,-1.05,-0.60,-1.65,0.02
+309,"Jaylen Morris, SG",MIL,4,7.3,-1.05,-0.60,-1.65,0.02
 310,"Tahjere McCall, SG",BKN,1,8.0,-1.73,0.06,-1.67,0.01
 311,"Julian Washburn, SF",MEM,18,14.1,-2.32,0.64,-1.68,0.21
 312,"Andre Ingram, SG",LAL,4,3.8,-1.83,0.14,-1.69,0.01
@@ -315,7 +315,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 314,"Dusty Hannahs, G",MEM,2,13.0,-1.48,-0.23,-1.71,0.01
 315,"JR Smith, SG",CLE,11,20.2,-2.72,1.00,-1.72,0.21
 316,"Skal Labissiere, PF",POR/SAC,22,8.0,-1.63,-0.09,-1.72,0.15
-317,"Davon Reed, G",IND,10,4.7,-1.67,-0.06,-1.73,0.04
+317,"Davon Reed, SG",IND,10,4.7,-1.67,-0.06,-1.73,0.04
 318,"Dwayne Bacon, SG",CHA,43,17.7,-0.50,-1.23,-1.73,0.66
 319,"Jabari Parker, PF",CHI/WSH,64,26.9,-0.85,-0.89,-1.74,1.53
 320,"DJ Stephens, G",MEM,1,7.0,-1.33,-0.43,-1.76,0.01
