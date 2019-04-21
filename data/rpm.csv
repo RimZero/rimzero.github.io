@@ -176,7 +176,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 175,"Shabazz Napier, PG",BKN,56,17.6,0.43,-0.75,-0.32,1.75
 176,"Thomas Welsh, C",DEN,11,3.3,-1.64,1.31,-0.33,0.06
 177,"Caris LeVert, SG",BKN,40,26.6,0.11,-0.45,-0.34,1.84
-178,"Alan Williams, C",BKN,5,5.2,-1.66,1.29,-0.37,0.05
+178,"Alan Williams, PF",BKN,5,5.2,-1.66,1.29,-0.37,0.05
 179,"David Nwaba, SG",CLE,51,19.3,-0.95,0.56,-0.39,1.64
 180,"Jae Crowder, PF",UTAH,80,27.1,0.89,-1.30,-0.41,3.82
 181,"Evan Fournier, SG",ORL,81,31.5,0.86,-1.28,-0.42,4.32
@@ -415,7 +415,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 414,"Chasson Randle, PG",WSH,49,15.2,-0.97,-1.62,-2.59,0.24
 415,"Jaylen Adams, PG",ATL,34,12.6,-1.66,-0.94,-2.60,0.14
 416,"Troy Williams, SF",SAC,21,14.9,-2.48,-0.13,-2.61,0.11
-417,"Shake Milton, G",PHI,20,13.4,-1.82,-0.79,-2.61,0.09
+417,"Shake Milton, SG",PHI,20,13.4,-1.82,-0.79,-2.61,0.09
 418,"Willy Hernangomez, C",CHA,58,14.0,-0.59,-2.03,-2.62,0.27
 419,"Malachi Richardson, G",TOR,22,4.7,-2.42,-0.21,-2.63,0.03
 420,"Jeremy Lin, PG",ATL/TOR,74,19.4,-1.51,-1.14,-2.65,0.46
