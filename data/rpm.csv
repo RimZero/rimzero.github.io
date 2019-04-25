@@ -268,7 +268,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 267,"DeVaughn Akoon-Purcell, G",DEN,7,3.1,-1.07,-0.25,-1.32,0.02
 268,"Derrick Rose, PG",MIN,51,27.3,1.22,-2.55,-1.33,1.63
 269,"Donte Grantham, F",OKC,3,0.7,-2.09,0.75,-1.34,0.00
-270,"Vincent Edwards, SF",HOU,2,8.0,-2.00,0.65,-1.35,0.02
+270,"Vincent Edwards, F",HOU,2,8.0,-2.00,0.65,-1.35,0.02
 271,"Scott Machado, PG",LAL,4,4.8,-1.22,-0.14,-1.36,0.02
 272,"Andrew Wiggins, SF",MIN,73,34.8,0.21,-1.57,-1.36,2.87
 273,"Isaac Humphries, C",ATL,5,11.2,-2.21,0.85,-1.36,0.07
@@ -296,7 +296,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 295,"Cameron Reynolds, G",MIN,19,13.6,-1.34,-0.18,-1.52,0.25
 296,"Gorgui Dieng, C",MIN,76,13.6,-1.14,-0.40,-1.54,1.04
 297,"John Wall, PG",WSH,32,34.5,-0.60,-0.96,-1.56,1.10
-298,"Johnathan Motley, PF",LAC,22,7.1,-1.91,0.32,-1.59,0.15
+298,"Johnathan Motley, F",LAC,22,7.1,-1.91,0.32,-1.59,0.15
 299,"Troy Caupain, PG",ORL,4,4.0,-1.48,-0.11,-1.59,0.01
 300,"Donte DiVincenzo, SG",MIL,27,15.2,-1.66,0.07,-1.59,0.42
 301,"Devin Robinson, SF",WSH,7,13.6,-1.76,0.16,-1.60,0.08
@@ -356,7 +356,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 355,"Theo Pinson, SG",BKN,18,11.7,-2.44,0.37,-2.07,0.14
 356,"Tyler Dorsey, SG",ATL/MEM,48,14.5,-1.05,-1.02,-2.07,0.48
 357,"Dante Exum, PG",UTAH,42,15.8,-1.88,-0.20,-2.08,0.45
-358,"Trevon Duval, PG",MIL,3,2.0,-1.47,-0.61,-2.08,0.00
+358,"Trevon Duval, G",MIL,3,2.0,-1.47,-0.61,-2.08,0.00
 359,"Kent Bazemore, SG",ATL,67,24.5,-2.23,0.12,-2.11,1.11
 360,"Alex Poythress, SF",ATL,21,14.5,-1.49,-0.63,-2.12,0.14
 361,"Dwyane Wade, SG",MIA,72,26.2,-0.14,-2.00,-2.14,1.17
@@ -380,7 +380,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 379,"Carmelo Anthony, F",HOU,10,29.4,-2.51,0.24,-2.27,0.16
 380,"Tony Parker, PG",CHA,56,17.9,-1.20,-1.08,-2.28,0.54
 381,"Ryan Anderson, PF",MIA/PHX,25,12.9,-3.57,1.29,-2.28,0.17
-382,"Rodney McGruder, SF",MIA,66,23.5,-1.70,-0.59,-2.29,0.82
+382,"Rodney McGruder, G",MIA,66,23.5,-1.70,-0.59,-2.29,0.82
 383,"Troy Brown Jr., SF",WSH,52,14.0,-1.56,-0.74,-2.30,0.07
 384,"Shaun Livingston, PG",GS,64,15.1,-2.48,0.17,-2.31,0.49
 385,"Justin Holiday, SF",CHI/MEM,82,31.8,-1.45,-0.86,-2.31,1.33
@@ -401,7 +401,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 400,"Haywood Highsmith, F",PHI,5,8.0,-2.12,-0.32,-2.44,0.01
 401,"Damyean Dotson, SG",NY,73,27.5,-0.61,-1.84,-2.45,0.84
 402,"Dillon Brooks, SG",MEM,18,18.3,-2.22,-0.24,-2.46,0.13
-403,"Damion Lee, SG",GS,32,11.7,-1.74,-0.74,-2.48,0.16
+403,"Damion Lee, G",GS,32,11.7,-1.74,-0.74,-2.48,0.16
 404,"Daryl Macon, SG",DAL,8,11.3,-1.82,-0.66,-2.48,0.04
 405,"Sindarius Thornwell, SG",LAC,64,4.9,-2.93,0.41,-2.52,0.13
 406,"Markelle Fultz, PG",PHI,19,22.5,-2.74,0.20,-2.54,0.16
