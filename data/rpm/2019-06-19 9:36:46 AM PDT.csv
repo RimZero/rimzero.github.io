@@ -363,7 +363,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 362,"Dante Exum, PG",UTAH,42,15.8,-1.85,-0.28,-2.13,0.43
 363,"Tyler Ulis, G",CHI,1,1.0,-1.07,-1.07,-2.14,0.00
 364,"Dwyane Wade, SG",MIA,72,26.2,-0.16,-2.00,-2.16,1.15
-365,"Kent Bazemore, G",ATL,67,24.5,-2.31,0.15,-2.16,1.05
+365,"Kent Bazemore, PG",ATL,67,24.5,-2.31,0.15,-2.16,1.05
 366,"James Nunnally, G",HOU/MIN,15,6.8,-1.29,-0.89,-2.18,0.05
 367,"Justin Anderson, PG",ATL,48,9.6,-2.09,-0.09,-2.18,0.29
 368,"Georges Niang, SF",UTAH,59,8.7,-0.63,-1.55,-2.18,0.32
@@ -419,7 +419,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 418,"Dirk Nowitzki, PF",DAL,51,15.6,-2.16,-0.50,-2.66,0.24
 419,"Troy Williams, SF",SAC,21,14.9,-2.48,-0.18,-2.66,0.10
 420,"Caleb Swanigan, PF",POR/SAC,21,8.5,-3.44,0.78,-2.66,0.04
-421,"Evan Turner, G",POR,73,22.0,-1.66,-1.01,-2.67,0.44
+421,"Evan Turner, SG",POR,73,22.0,-1.66,-1.01,-2.67,0.44
 422,"Greg Monroe, C",BOS/PHI/TOR,43,11.2,-3.92,1.21,-2.71,0.11
 423,"Isaiah Canaan, G",MIL/MIN/PHX,30,21.0,-1.40,-1.31,-2.71,0.12
 424,"Taurean Prince, PG",ATL,55,28.2,-0.57,-2.14,-2.71,0.44
