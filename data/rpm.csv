@@ -5,9 +5,9 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 4,"Giannis Antetokounmpo, PF",MIL,72,32.8,3.16,3.53,6.69,15.22
 5,"Nikola Jokic, C",DEN,80,31.3,3.89,2.59,6.48,14.91
 6,"Joel Embiid, C",PHI,64,33.7,2.68,3.72,6.40,12.90
-7,"Anthony Davis, F",NO,56,33.0,2.54,3.20,5.74,10.81
+7,"Anthony Davis, PF",NO,56,33.0,2.54,3.20,5.74,10.81
 8,"Nikola Vucevic, C",ORL,80,31.4,1.90,3.59,5.49,13.67
-9,"LeBron James, F",LAL,55,35.2,3.61,1.83,5.44,11.04
+9,"LeBron James, SF",LAL,55,35.2,3.61,1.83,5.44,11.04
 10,"Damian Lillard, PG",POR,80,35.5,5.67,-0.59,5.08,14.52
 11,"Kevin Durant, SF",GS,78,34.6,4.36,0.60,4.96,14.10
 12,"Chris Paul, PG",HOU,58,32.0,2.49,2.27,4.76,9.17
@@ -350,7 +350,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 349,"Lance Stephenson, SG",LAL,68,16.5,-0.77,-1.25,-2.02,0.79
 350,"DeAndre' Bembry, PG",ATL,82,23.5,-1.74,-0.28,-2.02,1.41
 351,"Dennis Smith Jr., PG",DAL/NY,53,28.5,-1.89,-0.13,-2.02,1.06
-352,"Isaac Bonga, F",LAL,22,5.5,-2.96,0.92,-2.04,0.07
+352,"Isaac Bonga, PG",LAL,22,5.5,-2.96,0.92,-2.04,0.07
 353,"Jordan Sibert, PG",ATL,1,4.0,-1.76,-0.29,-2.05,0.00
 354,"J.P. Macura, SG",CHA,2,8.5,-2.03,-0.02,-2.05,0.01
 355,"Theo Pinson, SG",BKN,18,11.7,-2.47,0.40,-2.07,0.14
@@ -374,7 +374,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 373,"Duncan Robinson, SF",MIA,15,10.7,-2.28,0.07,-2.21,0.09
 374,"Robert Williams III, C",BOS,32,8.8,-2.62,0.40,-2.22,0.11
 375,"Wilson Chandler, SF",LAC/PHI,51,23.1,-1.38,-0.85,-2.23,0.67
-376,"Moritz Wagner, F",LAL,43,10.4,-3.15,0.92,-2.23,0.23
+376,"Moritz Wagner, C",LAL,43,10.4,-3.15,0.92,-2.23,0.23
 377,"Ivan Rabb, PF",MEM,49,14.7,-1.59,-0.64,-2.23,0.40
 378,"Treveon Graham, SG",BKN,35,20.4,-2.53,0.29,-2.24,0.43
 379,"Brandon Goodwin, PG",DEN,16,3.6,-1.71,-0.53,-2.24,0.03
