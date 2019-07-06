@@ -396,7 +396,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 395,"Chandler Parsons, SF",MEM,25,19.8,-2.93,0.50,-2.43,0.21
 396,"Damyean Dotson, SG",NY,73,27.5,-0.59,-1.85,-2.44,0.86
 397,"Damion Lee, SG",GS,32,11.7,-1.75,-0.70,-2.45,0.16
-398,"Bruce Brown, SG",DET,74,19.6,-3.42,0.97,-2.45,0.59
+398,"Bruce Brown, G",DET,74,19.6,-3.42,0.97,-2.45,0.59
 399,"Haywood Highsmith, F",PHI,5,8.0,-2.15,-0.32,-2.47,0.01
 400,"CJ Miles, SF",TOR/MEM,53,16.2,-1.94,-0.54,-2.48,0.36
 401,"Yuta Watanabe, SG",MEM,15,11.6,-2.90,0.41,-2.49,0.06
@@ -409,7 +409,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 408,"E'Twaun Moore, SG",NO,53,27.6,-0.26,-2.30,-2.56,0.55
 409,"Chasson Randle, PG",WSH,49,15.2,-0.93,-1.64,-2.57,0.25
 410,"Jaylen Adams, PG",ATL,34,12.6,-1.66,-0.94,-2.60,0.14
-411,"Khyri Thomas, SG",DET,26,7.5,-2.33,-0.27,-2.60,0.06
+411,"Khyri Thomas, G",DET,26,7.5,-2.33,-0.27,-2.60,0.06
 412,"Sindarius Thornwell, SG",LAC,64,4.9,-2.98,0.36,-2.62,0.10
 413,"Shake Milton, SG",PHI,20,13.4,-1.81,-0.81,-2.62,0.08
 414,"Allen Crabbe, SG",BKN,43,26.3,-2.28,-0.35,-2.63,0.35
@@ -432,7 +432,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 431,"Devin Harris, PG",DAL,68,15.8,-0.98,-1.80,-2.78,0.23
 432,"Bismack Biyombo, C",CHA,54,14.5,-3.12,0.33,-2.79,0.16
 433,"Shaun Livingston, PG",GS,64,15.1,-2.71,-0.09,-2.80,0.20
-434,"Sviatoslav Mykhailiuk, SG",DET/LAL,42,10.5,-2.36,-0.44,-2.80,0.09
+434,"Sviatoslav Mykhailiuk, G",DET/LAL,42,10.5,-2.36,-0.44,-2.80,0.09
 435,"Deng Adel, F",CLE,19,10.2,-2.82,0.02,-2.80,0.04
 436,"Tristan Thompson, C",CLE,43,27.9,-1.99,-0.82,-2.81,0.24
 437,"Rawle Alkins, G",CHI,10,12.0,-2.11,-0.71,-2.82,0.02
