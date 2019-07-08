@@ -9,7 +9,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 8,"Nikola Vucevic, C",ORL,80,31.4,1.90,3.59,5.49,13.67
 9,"LeBron James, SF",LAL,55,35.2,3.61,1.83,5.44,11.04
 10,"Damian Lillard, PG",POR,80,35.5,5.67,-0.59,5.08,14.52
-11,"Kevin Durant, F",GS,78,34.6,4.36,0.60,4.96,14.10
+11,"Kevin Durant, SF",GS,78,34.6,4.36,0.60,4.96,14.10
 12,"Chris Paul, PG",HOU,58,32.0,2.49,2.27,4.76,9.17
 13,"Danny Green, SG",TOR,80,27.7,2.66,2.07,4.73,11.23
 14,"Jimmy Butler, SG",MIN/PHI,65,33.6,2.55,2.16,4.71,10.97
@@ -33,7 +33,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 32,"Blake Griffin, PF",DET,75,35.0,2.55,0.46,3.01,9.82
 33,"Joe Ingles, SF",UTAH,82,31.3,1.60,1.31,2.91,10.04
 34,"Davis Bertans, SF",SA,76,21.5,2.46,0.43,2.89,6.31
-35,"Kemba Walker, G",CHA,82,34.9,4.21,-1.45,2.76,10.69
+35,"Kemba Walker, PG",CHA,82,34.9,4.21,-1.45,2.76,10.69
 36,"Patrick Beverley, PG",LAC,78,27.4,1.39,1.32,2.71,7.82
 37,"Robert Covington, SF",MIN/PHI,35,34.4,-0.81,3.52,2.71,4.34
 38,"Ed Davis, C",BKN,81,17.9,-1.44,4.13,2.69,5.34
@@ -212,7 +212,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 211,"Donatas Motiejunas, PF",SA,3,4.3,-2.30,1.48,-0.82,0.02
 212,"Justin Jackson, SF",DAL/SAC,81,19.9,0.13,-0.96,-0.83,2.43
 213,"Jeff Green, SF",WSH,77,27.2,0.35,-1.21,-0.86,2.97
-214,"Marcus Morris, F",BOS,75,27.9,0.31,-1.17,-0.86,3.04
+214,"Marcus Morris, PF",BOS,75,27.9,0.31,-1.17,-0.86,3.04
 215,"Dwight Howard, C",WSH,9,25.6,-2.29,1.42,-0.87,0.31
 216,"Evan Fournier, SG",ORL,81,31.5,0.58,-1.45,-0.87,3.60
 217,"Tyreke Evans, G",IND,69,20.3,-1.12,0.23,-0.89,1.95
@@ -314,7 +314,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 313,"Kadeem Allen, SG",NY,19,21.9,-0.29,-1.46,-1.75,0.35
 314,"DJ Stephens, G",MEM,1,7.0,-1.33,-0.43,-1.76,0.01
 315,"Tony Snell, SG",MIL,74,17.6,-0.16,-1.60,-1.76,1.14
-316,"Julian Washburn, F",MEM,18,14.1,-2.35,0.59,-1.76,0.20
+316,"Julian Washburn, SF",MEM,18,14.1,-2.35,0.59,-1.76,0.20
 317,"Brandon Ingram, SF",LAL,52,33.8,-1.23,-0.54,-1.77,1.55
 318,"Enes Kanter, C",NY/POR,67,24.5,-0.32,-1.46,-1.78,0.97
 319,"Davon Reed, G",IND,10,4.7,-1.70,-0.08,-1.78,0.04
@@ -369,7 +369,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 368,"Georges Niang, SF",UTAH,59,8.7,-0.63,-1.55,-2.18,0.32
 369,"Chris Chiozza, PG",HOU,7,4.7,-1.68,-0.50,-2.18,0.02
 370,"Melvin Frazier Jr., SG",ORL,10,4.4,-2.48,0.30,-2.18,0.03
-371,"Troy Daniels, G",PHX,51,14.9,-0.97,-1.23,-2.20,0.45
+371,"Troy Daniels, SF",PHX,51,14.9,-0.97,-1.23,-2.20,0.45
 372,"Ben McLemore, G",SAC,19,8.3,-1.43,-0.78,-2.21,0.10
 373,"Duncan Robinson, SF",MIA,15,10.7,-2.28,0.07,-2.21,0.09
 374,"Robert Williams III, C",BOS,32,8.8,-2.62,0.40,-2.22,0.11
