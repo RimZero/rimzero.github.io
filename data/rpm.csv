@@ -144,7 +144,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 143,"Seth Curry, SG",POR,74,18.9,0.28,-0.18,0.10,2.70
 144,"Pat Connaughton, SG",MIL,61,20.7,0.24,-0.14,0.10,2.66
 145,"Richaun Holmes, SF",PHX,70,16.9,-1.48,1.58,0.10,2.37
-146,"Jared Dudley, SF",BKN,59,20.7,-0.65,0.74,0.09,2.35
+146,"Jared Dudley, F",BKN,59,20.7,-0.65,0.74,0.09,2.35
 147,"Meyers Leonard, PF",POR,61,14.4,1.04,-0.95,0.09,1.66
 148,"Ryan Arcidiacono, PG",CHI,81,24.2,0.69,-0.61,0.08,3.87
 149,"Mitchell Robinson, C",NY,66,20.6,-0.97,1.05,0.08,2.68
@@ -329,7 +329,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 328,"Courtney Lee, SG",DAL/NY,34,12.6,-2.20,0.30,-1.90,0.33
 329,"Skal Labissiere, PF",POR/SAC,22,8.0,-1.79,-0.11,-1.90,0.13
 330,"BJ Johnson, SF",ATL/SAC,7,7.0,-2.11,0.20,-1.91,0.02
-331,"Guerschon Yabusele, PF",BOS,41,6.1,-1.97,0.06,-1.91,0.20
+331,"Guerschon Yabusele, F",BOS,41,6.1,-1.97,0.06,-1.91,0.20
 332,"Alize Johnson, PF",IND,14,4.6,-2.20,0.29,-1.91,0.06
 333,"Jordan Loyd, PG",TOR,12,4.6,-1.55,-0.37,-1.92,0.05
 334,"Zach Lofton, G",DET,1,4.0,-1.37,-0.55,-1.92,0.00
