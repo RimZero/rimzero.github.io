@@ -202,7 +202,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 201,"J.J. Barea, PG",DAL,38,19.8,-0.23,-0.40,-0.63,1.22
 202,"Christian Wood, PF",NO/MIL,21,12.0,-1.23,0.58,-0.65,0.35
 203,"Henry Ellenson, PF",DET/NY,19,13.6,-1.77,1.05,-0.72,0.03
-204,"Cheick Diallo, PF",NO,64,14.0,-1.65,0.93,-0.72,1.39
+204,"Cheick Diallo, F",NO,64,14.0,-1.65,0.93,-0.72,1.39
 205,"Juan Hernangomez, PF",DEN,70,19.4,-0.93,0.20,-0.73,1.95
 206,"Jeff Teague, PG",MIN,42,30.1,0.05,-0.79,-0.74,1.94
 207,"Ian Mahinmi, C",WSH,34,14.6,-3.09,2.33,-0.76,0.70
@@ -314,7 +314,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 313,"Kadeem Allen, SG",NY,19,21.9,-0.29,-1.46,-1.75,0.35
 314,"DJ Stephens, G",MEM,1,7.0,-1.33,-0.43,-1.76,0.01
 315,"Tony Snell, SG",MIL,74,17.6,-0.16,-1.60,-1.76,1.14
-316,"Julian Washburn, SF",MEM,18,14.1,-2.35,0.59,-1.76,0.20
+316,"Julian Washburn, F",MEM,18,14.1,-2.35,0.59,-1.76,0.20
 317,"Brandon Ingram, SF",LAL,52,33.8,-1.23,-0.54,-1.77,1.55
 318,"Enes Kanter, C",NY/POR,67,24.5,-0.32,-1.46,-1.78,0.97
 319,"Davon Reed, G",IND,10,4.7,-1.70,-0.08,-1.78,0.04
@@ -385,7 +385,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 384,"Tony Parker, PG",CHA,56,17.9,-1.18,-1.13,-2.31,0.53
 385,"Sam Dekker, SF",CLE/WSH,47,16.8,-1.50,-0.81,-2.31,0.39
 386,"JaVale McGee, C",LAL,75,22.3,-2.49,0.16,-2.33,0.87
-387,"Stanley Johnson, SF",NO/DET,66,18.3,-4.06,1.72,-2.34,0.60
+387,"Stanley Johnson, F",NO/DET,66,18.3,-4.06,1.72,-2.34,0.60
 388,"Ryan Anderson, F",MIA/PHX,25,12.9,-3.59,1.24,-2.35,0.15
 389,"Justin Holiday, SF",CHI/MEM,82,31.8,-1.48,-0.89,-2.37,1.23
 390,"Sterling Brown, SG",MIL,58,17.8,-1.61,-0.77,-2.38,0.49
@@ -480,7 +480,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 479,"Josh Jackson, SF",PHX,79,25.2,-2.35,-1.32,-3.67,-0.68
 480,"Cameron Payne, G",CHI/CLE,40,17.8,-1.36,-2.36,-3.72,-0.27
 481,"Brandon Knight, PG",CLE/HOU,39,18.9,-2.42,-1.32,-3.74,-0.29
-482,"Ian Clark, SG",NO,60,16.2,-1.78,-1.97,-3.75,-0.39
+482,"Ian Clark, G",NO,60,16.2,-1.78,-1.97,-3.75,-0.39
 483,"Devonte' Graham, PG",CHA,46,14.7,-2.07,-1.68,-3.75,-0.27
 484,"Solomon Hill, SF",NO,44,20.0,-2.69,-1.12,-3.81,-0.38
 485,"Omari Spellman, PF",ATL,46,17.5,-2.17,-1.64,-3.81,-0.37
