@@ -169,7 +169,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 168,"Jonas Jerebko, PF",GS,73,16.7,0.45,-0.67,-0.22,2.23
 169,"Jaren Jackson Jr., PF",MEM,58,26.1,-2.40,2.18,-0.22,2.72
 170,"Salah Mejri, C",DAL,36,11.1,-1.79,1.54,-0.25,0.72
-171,"Trey Burke, PG",DAL/NY,58,19.4,1.03,-1.32,-0.29,2.00
+171,"Trey Burke, G",DAL/NY,58,19.4,1.03,-1.32,-0.29,2.00
 172,"John Henson, PF",MIL,14,13.4,-1.58,1.27,-0.31,0.36
 173,"Jae Crowder, PF",UTAH,80,27.1,0.83,-1.15,-0.32,3.95
 174,"Lonzo Ball, PG",LAL,47,30.3,-1.61,1.29,-0.32,2.67
@@ -206,7 +206,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 205,"Juan Hernangomez, PF",DEN,70,19.4,-0.93,0.20,-0.73,1.95
 206,"Jeff Teague, PG",MIN,42,30.1,0.05,-0.79,-0.74,1.94
 207,"Ian Mahinmi, C",WSH,34,14.6,-3.09,2.33,-0.76,0.70
-208,"Amile Jefferson, PF",ORL,12,5.7,-1.39,0.63,-0.76,0.10
+208,"Amile Jefferson, F",ORL,12,5.7,-1.39,0.63,-0.76,0.10
 209,"Kentavious Caldwell-Pope, SG",LAL,82,24.8,1.40,-2.17,-0.77,3.08
 210,"Justin Patton, C",PHI,3,7.0,-2.01,1.22,-0.79,0.03
 211,"Donatas Motiejunas, PF",SA,3,4.3,-2.30,1.48,-0.82,0.02
@@ -485,7 +485,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 484,"Solomon Hill, SF",NO,44,20.0,-2.69,-1.12,-3.81,-0.38
 485,"Omari Spellman, PF",ATL,46,17.5,-2.17,-1.64,-3.81,-0.37
 486,"Lance Thomas, F",NY,46,17.0,-4.62,0.80,-3.82,-0.34
-487,"Dragan Bender, SF",PHX,46,18.0,-3.21,-0.68,-3.89,-0.39
+487,"Dragan Bender, F",PHX,46,18.0,-3.21,-0.68,-3.89,-0.39
 488,"Cedi Osman, SF",CLE,76,32.2,-0.43,-3.59,-4.02,-1.39
 489,"Quinn Cook, PG",GS,74,14.3,-0.54,-3.49,-4.03,-0.59
 490,"Hamidou Diallo, SG",OKC,51,10.3,-2.64,-1.40,-4.04,-0.32
