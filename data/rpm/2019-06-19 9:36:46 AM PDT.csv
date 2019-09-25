@@ -220,7 +220,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 219,"T.J. Warren, SF",PHX,43,31.6,-0.19,-0.71,-0.90,1.94
 220,"Michael Kidd-Gilchrist, SF",CHA,64,18.4,-2.01,1.08,-0.93,1.63
 221,"Deyonta Davis, PG",ATL,9,13.1,-2.06,1.13,-0.93,0.18
-222,"Terry Rozier, G",BOS,79,22.7,-0.91,-0.04,-0.95,2.46
+222,"Terry Rozier, PG",BOS,79,22.7,-0.91,-0.04,-0.95,2.46
 223,"Isaiah Hartenstein, PF",HOU,28,7.9,-1.81,0.85,-0.96,0.30
 224,"Bryn Forbes, SG",SA,82,28.0,0.78,-1.75,-0.97,3.09
 225,"Zhou Qi, C",HOU,1,1.0,-1.87,0.90,-0.97,0.00
@@ -264,7 +264,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 263,"Kyle O'Quinn, C",IND,45,8.2,-2.09,0.74,-1.35,0.41
 264,"Andrew Wiggins, SF",MIN,73,34.8,0.20,-1.55,-1.35,2.89
 265,"Dorian Finney-Smith, SF",DAL,81,24.5,-0.92,-0.44,-1.36,2.22
-266,"Isaac Humphries, C",ATL,5,11.2,-2.20,0.83,-1.37,0.07
+266,"Isaac Humphries, PF",ATL,5,11.2,-2.20,0.83,-1.37,0.07
 267,"Dzanan Musa, SG",BKN,9,4.3,-2.15,0.78,-1.37,0.04
 268,"Scott Machado, PG",LAL,4,4.8,-1.23,-0.15,-1.38,0.02
 269,"Jemerrio Jones, SF",LAL,6,23.8,-2.10,0.72,-1.38,0.16
@@ -361,7 +361,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 360,"Jahlil Okafor, C",NO,59,15.8,-2.20,0.09,-2.11,0.61
 361,"Alex Poythress, SF",ATL,21,14.5,-1.49,-0.63,-2.12,0.14
 362,"Dante Exum, PG",UTAH,42,15.8,-1.85,-0.28,-2.13,0.43
-363,"Tyler Ulis, G",CHI,1,1.0,-1.07,-1.07,-2.14,0.00
+363,"Tyler Ulis, PG",CHI,1,1.0,-1.07,-1.07,-2.14,0.00
 364,"Dwyane Wade, G",MIA,72,26.2,-0.16,-2.00,-2.16,1.15
 365,"Kent Bazemore, PG",ATL,67,24.5,-2.31,0.15,-2.16,1.05
 366,"James Nunnally, G",HOU/MIN,15,6.8,-1.29,-0.89,-2.18,0.05
