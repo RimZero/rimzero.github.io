@@ -105,7 +105,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 104,"Khem Birch, C",ORL,50,12.9,-0.58,1.48,0.90,1.61
 105,"Boban Marjanovic, C",LAC/PHI,58,11.7,-0.76,1.64,0.88,1.78
 106,"Aaron Gordon, PF",ORL,78,33.8,0.09,0.78,0.87,6.52
-107,"Cory Joseph, G",IND,82,25.2,-0.68,1.53,0.85,5.10
+107,"Cory Joseph, PG",IND,82,25.2,-0.68,1.53,0.85,5.10
 108,"Tyus Jones, PG",MIN,68,22.9,0.13,0.70,0.83,3.91
 109,"Goran Dragic, PG",MIA,36,27.5,0.47,0.33,0.80,2.42
 110,"Luol Deng, F",MIN,22,17.8,-0.66,1.45,0.79,1.01
@@ -161,7 +161,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 160,"Shabazz Napier, PG",BKN,56,17.6,0.64,-0.74,-0.10,1.89
 161,"Nicolas Batum, SG",CHA,75,31.4,-0.15,0.04,-0.11,4.52
 162,"Joe Harris, SG",BKN,76,30.2,1.50,-1.65,-0.15,4.35
-163,"Eric Moreland, C",PHX/TOR,5,8.6,-1.71,1.54,-0.17,0.01
+163,"Eric Moreland, PF",PHX/TOR,5,8.6,-1.71,1.54,-0.17,0.01
 164,"Kenneth Faried, F",HOU/BKN,37,19.7,-0.68,0.50,-0.18,1.40
 165,"Taj Gibson, PF",MIN,70,24.1,-0.43,0.24,-0.19,3.17
 166,"Harrison Barnes, SF",DAL/SAC,77,32.9,-0.16,-0.05,-0.21,4.82
@@ -242,7 +242,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 241,"Miles Plumlee, C",ATL,18,9.6,-1.70,0.59,-1.11,0.24
 242,"Jaylen Brown, SG",BOS,74,25.9,-1.22,0.10,-1.12,2.46
 243,"JaKarr Sampson, SF",CHI,4,31.8,-1.59,0.46,-1.13,0.14
-244,"Tyler Lydon, F",DEN,25,3.8,-1.97,0.83,-1.14,0.12
+244,"Tyler Lydon, PF",DEN,25,3.8,-1.97,0.83,-1.14,0.12
 245,"Kelly Oubre Jr., SF",PHX/WSH,69,28.0,-0.13,-1.02,-1.15,2.39
 246,"Yante Maten, PF",MIA,2,6.5,-2.09,0.93,-1.16,0.02
 247,"Jarred Vanderbilt, PF",DEN,17,4.1,-2.16,0.99,-1.17,0.08
@@ -510,6 +510,6 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 509,"Collin Sexton, PG",CLE,82,31.8,-0.75,-4.62,-5.37,-3.69
 510,"Grayson Allen, SG",UTAH,38,10.9,-2.74,-2.72,-5.46,-0.64
 511,"Jamal Crawford, G",PHX,64,18.9,-1.77,-3.93,-5.70,-1.97
-512,"Marquese Chriss, F",CLE/HOU,43,11.6,-4.27,-1.48,-5.75,-0.81
+512,"Marquese Chriss, PF",CLE/HOU,43,11.6,-4.27,-1.48,-5.75,-0.81
 513,"Antonio Blakeney, G",CHI,57,14.5,-2.65,-3.16,-5.81,-1.40
 514,"Kevin Knox, SF",NY,75,28.8,-3.03,-4.44,-7.47,-5.94
