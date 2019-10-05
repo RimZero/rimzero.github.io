@@ -265,7 +265,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 264,"Andrew Wiggins, SF",MIN,73,34.8,0.20,-1.55,-1.35,2.89
 265,"Dorian Finney-Smith, SF",DAL,81,24.5,-0.92,-0.44,-1.36,2.22
 266,"Isaac Humphries, PF",ATL,5,11.2,-2.20,0.83,-1.37,0.07
-267,"Dzanan Musa, SG",BKN,9,4.3,-2.15,0.78,-1.37,0.04
+267,"Dzanan Musa, F",BKN,9,4.3,-2.15,0.78,-1.37,0.04
 268,"Scott Machado, G",LAL,4,4.8,-1.23,-0.15,-1.38,0.02
 269,"Jemerrio Jones, SF",LAL,6,23.8,-2.10,0.72,-1.38,0.16
 270,"Torrey Craig, SF",DEN,75,20.0,-0.43,-0.96,-1.39,1.60
@@ -353,7 +353,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 352,"Isaac Bonga, PG",LAL,22,5.5,-2.96,0.92,-2.04,0.07
 353,"Jordan Sibert, G",ATL,1,4.0,-1.76,-0.29,-2.05,0.00
 354,"J.P. Macura, SG",CHA,2,8.5,-2.03,-0.02,-2.05,0.01
-355,"Theo Pinson, SG",BKN,18,11.7,-2.47,0.40,-2.07,0.14
+355,"Theo Pinson, G",BKN,18,11.7,-2.47,0.40,-2.07,0.14
 356,"Anthony Tolliver, PF",MIN,65,16.6,-1.62,-0.46,-2.08,0.71
 357,"Jaron Blossomgame, SF",CLE,27,16.3,-2.42,0.34,-2.08,0.29
 358,"Trevon Duval, G",MIL,3,2.0,-1.47,-0.61,-2.08,0.00
@@ -379,7 +379,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 378,"Treveon Graham, SG",BKN,35,20.4,-2.53,0.29,-2.24,0.43
 379,"Brandon Goodwin, PG",DEN,16,3.6,-1.71,-0.53,-2.24,0.03
 380,"Carmelo Anthony, F",HOU,10,29.4,-2.51,0.24,-2.27,0.16
-381,"C.J. Williams, SG",MIN,15,8.5,-1.93,-0.34,-2.27,0.07
+381,"C.J. Williams, G",MIN,15,8.5,-1.93,-0.34,-2.27,0.07
 382,"Rodney McGruder, SG",MIA,66,23.5,-1.70,-0.59,-2.29,0.82
 383,"Troy Brown Jr., SF",WSH,52,14.0,-1.56,-0.74,-2.30,0.07
 384,"Tony Parker, G",CHA,56,17.9,-1.18,-1.13,-2.31,0.53
@@ -422,7 +422,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 421,"Evan Turner, SG",POR,73,22.0,-1.66,-1.01,-2.67,0.44
 422,"Greg Monroe, C",BOS/PHI/TOR,43,11.2,-3.92,1.21,-2.71,0.11
 423,"Isaiah Canaan, G",MIL/MIN/PHX,30,21.0,-1.40,-1.31,-2.71,0.12
-424,"Taurean Prince, SF",ATL,55,28.2,-0.57,-2.14,-2.71,0.44
+424,"Taurean Prince, F",ATL,55,28.2,-0.57,-2.14,-2.71,0.44
 425,"Emmanuel Mudiay, PG",NY,59,27.2,-0.28,-2.43,-2.71,0.42
 426,"Kosta Koufos, C",SAC,42,12.0,-3.33,0.59,-2.74,0.13
 427,"Bonzie Colson, F",MIL,8,12.3,-2.12,-0.62,-2.74,0.03
