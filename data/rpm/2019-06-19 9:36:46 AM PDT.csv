@@ -25,7 +25,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 24,"Pascal Siakam, PF",TOR,80,31.9,1.64,2.16,3.80,11.30
 25,"Eric Bledsoe, PG",MIL,78,29.1,2.47,1.30,3.77,10.43
 26,"Danilo Gallinari, SF",LAC,68,30.3,3.58,0.00,3.58,8.69
-27,"Kevon Looney, C",GS,80,18.5,1.30,2.18,3.48,6.27
+27,"Kevon Looney, PF",GS,80,18.5,1.30,2.18,3.48,6.27
 28,"Draymond Green, PF",GS,66,31.3,-0.34,3.74,3.40,8.66
 29,"Marc Gasol, C",TOR/MEM,79,30.8,0.39,2.98,3.37,9.71
 30,"Mike Conley, PG",MEM,70,33.5,3.72,-0.45,3.27,9.40
@@ -447,7 +447,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 446,"Alfonzo McKinnie, SF",GS,72,13.9,-1.64,-1.31,-2.95,0.11
 447,"Terrance Ferguson, SG",OKC,74,26.1,-1.08,-1.87,-2.95,0.22
 448,"Jeremy Lin, G",ATL/TOR,74,19.4,-1.77,-1.19,-2.96,0.16
-449,"Glenn Robinson III, SG",DET,47,13.0,-3.31,0.33,-2.98,0.05
+449,"Glenn Robinson III, SF",DET,47,13.0,-3.31,0.33,-2.98,0.05
 450,"Michael Carter-Williams, PG",HOU/ORL,28,13.3,-2.03,-1.01,-3.04,0.01
 451,"Anfernee Simons, SG",POR,20,7.1,-1.81,-1.25,-3.06,0.00
 452,"Shaquille Harrison, PG",CHI,73,19.6,-2.58,-0.51,-3.09,0.03
