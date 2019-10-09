@@ -141,7 +141,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 140,"Julius Randle, C",NO,73,30.6,1.52,-1.38,0.14,4.76
 141,"Langston Galloway, SG",DET,80,21.8,2.22,-2.10,0.12,3.44
 142,"Frank Kaminsky, PF",CHA,47,16.1,-0.07,0.19,0.12,1.56
-143,"Seth Curry, G",POR,74,18.9,0.28,-0.18,0.10,2.70
+143,"Seth Curry, SG",POR,74,18.9,0.28,-0.18,0.10,2.70
 144,"Pat Connaughton, SG",MIL,61,20.7,0.24,-0.14,0.10,2.66
 145,"Richaun Holmes, SF",PHX,70,16.9,-1.48,1.58,0.10,2.37
 146,"Jared Dudley, SF",BKN,59,20.7,-0.65,0.74,0.09,2.35
@@ -351,7 +351,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 350,"DeAndre' Bembry, SG",ATL,82,23.5,-1.74,-0.28,-2.02,1.41
 351,"Dennis Smith Jr., PG",DAL/NY,53,28.5,-1.89,-0.13,-2.02,1.06
 352,"Isaac Bonga, PG",LAL,22,5.5,-2.96,0.92,-2.04,0.07
-353,"Jordan Sibert, G",ATL,1,4.0,-1.76,-0.29,-2.05,0.00
+353,"Jordan Sibert, PG",ATL,1,4.0,-1.76,-0.29,-2.05,0.00
 354,"J.P. Macura, SG",CHA,2,8.5,-2.03,-0.02,-2.05,0.01
 355,"Theo Pinson, SG",BKN,18,11.7,-2.47,0.40,-2.07,0.14
 356,"Anthony Tolliver, PF",MIN,65,16.6,-1.62,-0.46,-2.08,0.71
