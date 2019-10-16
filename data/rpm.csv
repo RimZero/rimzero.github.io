@@ -42,7 +42,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 41,"Andre Iguodala, SG",GS,68,23.2,0.60,1.91,2.51,5.54
 42,"Russell Westbrook, PG",OKC,73,36.0,2.59,-0.08,2.51,9.76
 43,"Andre Drummond, C",DET,79,33.5,0.55,1.79,2.34,8.76
-44,"Dwight Powell, PF",DAL,77,21.6,2.31,0.00,2.31,5.70
+44,"Dwight Powell, C",DAL,77,21.6,2.31,0.00,2.31,5.70
 45,"Marcus Smart, PG",BOS,80,27.5,0.98,1.27,2.25,7.43
 46,"Rudy Gay, SF",SA,69,26.7,0.44,1.78,2.22,6.21
 47,"Victor Oladipo, SG",IND,36,31.9,0.96,1.26,2.22,3.74
@@ -433,7 +433,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 432,"Bismack Biyombo, C",CHA,54,14.5,-3.12,0.33,-2.79,0.16
 433,"Shaun Livingston, G",GS,64,15.1,-2.71,-0.09,-2.80,0.20
 434,"Sviatoslav Mykhailiuk, SG",DET/LAL,42,10.5,-2.36,-0.44,-2.80,0.09
-435,"Deng Adel, SF",CLE,19,10.2,-2.82,0.02,-2.80,0.04
+435,"Deng Adel, F",CLE,19,10.2,-2.82,0.02,-2.80,0.04
 436,"Tristan Thompson, C",CLE,43,27.9,-1.99,-0.82,-2.81,0.24
 437,"Rawle Alkins, G",CHI,10,12.0,-2.11,-0.71,-2.82,0.02
 438,"Markieff Morris, PF",OKC/WSH,58,21.9,-1.52,-1.35,-2.87,0.14
