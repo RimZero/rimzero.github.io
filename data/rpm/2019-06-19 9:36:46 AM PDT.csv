@@ -42,7 +42,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 41,"Andre Iguodala, SG",GS,68,23.2,0.60,1.91,2.51,5.54
 42,"Russell Westbrook, PG",OKC,73,36.0,2.59,-0.08,2.51,9.76
 43,"Andre Drummond, C",DET,79,33.5,0.55,1.79,2.34,8.76
-44,"Dwight Powell, C",DAL,77,21.6,2.31,0.00,2.31,5.70
+44,"Dwight Powell, PF",DAL,77,21.6,2.31,0.00,2.31,5.70
 45,"Marcus Smart, PG",BOS,80,27.5,0.98,1.27,2.25,7.43
 46,"Rudy Gay, SF",SA,69,26.7,0.44,1.78,2.22,6.21
 47,"Victor Oladipo, SG",IND,36,31.9,0.96,1.26,2.22,3.74
@@ -352,7 +352,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 351,"Dennis Smith Jr., PG",DAL/NY,53,28.5,-1.89,-0.13,-2.02,1.06
 352,"Isaac Bonga, PG",LAL,22,5.5,-2.96,0.92,-2.04,0.07
 353,"Jordan Sibert, PG",ATL,1,4.0,-1.76,-0.29,-2.05,0.00
-354,"J.P. Macura, SG",CHA,2,8.5,-2.03,-0.02,-2.05,0.01
+354,"J.P. Macura, G",CHA,2,8.5,-2.03,-0.02,-2.05,0.01
 355,"Theo Pinson, SG",BKN,18,11.7,-2.47,0.40,-2.07,0.14
 356,"Anthony Tolliver, PF",MIN,65,16.6,-1.62,-0.46,-2.08,0.71
 357,"Jaron Blossomgame, SF",CLE,27,16.3,-2.42,0.34,-2.08,0.29
@@ -408,9 +408,9 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 407,"Markelle Fultz, PG",PHI,19,22.5,-2.74,0.20,-2.54,0.16
 408,"E'Twaun Moore, SG",NO,53,27.6,-0.26,-2.30,-2.56,0.55
 409,"Chasson Randle, G",WSH,49,15.2,-0.93,-1.64,-2.57,0.25
-410,"Jaylen Adams, G",ATL,34,12.6,-1.66,-0.94,-2.60,0.14
+410,"Jaylen Adams, PG",ATL,34,12.6,-1.66,-0.94,-2.60,0.14
 411,"Khyri Thomas, SG",DET,26,7.5,-2.33,-0.27,-2.60,0.06
-412,"Sindarius Thornwell, SG",LAC,64,4.9,-2.98,0.36,-2.62,0.10
+412,"Sindarius Thornwell, G",LAC,64,4.9,-2.98,0.36,-2.62,0.10
 413,"Shake Milton, SG",PHI,20,13.4,-1.81,-0.81,-2.62,0.08
 414,"Allen Crabbe, SG",BKN,43,26.3,-2.28,-0.35,-2.63,0.35
 415,"Malachi Richardson, G",TOR,22,4.7,-2.42,-0.21,-2.63,0.03
@@ -505,7 +505,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 504,"Nik Stauskas, G",CLE/POR,68,14.9,-2.17,-2.92,-5.09,-1.21
 505,"Frank Ntilikina, PG",NY,43,21.0,-3.76,-1.39,-5.15,-1.19
 506,"Wayne Selden, G",CHI/MEM,75,19.2,-2.21,-2.98,-5.19,-1.83
-507,"Timothe Luwawu-Cabarrot, SG",CHI/OKC,50,13.4,-3.25,-2.01,-5.26,-0.90
+507,"Timothe Luwawu-Cabarrot, G",CHI/OKC,50,13.4,-3.25,-2.01,-5.26,-0.90
 508,"Jerryd Bayless, G",MIN,34,19.3,-2.52,-2.84,-5.36,-0.91
 509,"Collin Sexton, PG",CLE,82,31.8,-0.75,-4.62,-5.37,-3.69
 510,"Grayson Allen, SG",UTAH,38,10.9,-2.74,-2.72,-5.46,-0.64
