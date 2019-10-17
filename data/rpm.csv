@@ -267,7 +267,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 266,"Isaac Humphries, PF",ATL,5,11.2,-2.20,0.83,-1.37,0.07
 267,"Dzanan Musa, SG",BKN,9,4.3,-2.15,0.78,-1.37,0.04
 268,"Scott Machado, G",LAL,4,4.8,-1.23,-0.15,-1.38,0.02
-269,"Jemerrio Jones, SF",LAL,6,23.8,-2.10,0.72,-1.38,0.16
+269,"Jemerrio Jones, F",LAL,6,23.8,-2.10,0.72,-1.38,0.16
 270,"Torrey Craig, SF",DEN,75,20.0,-0.43,-0.96,-1.39,1.60
 271,"Marcin Gortat, C",LAC,47,16.0,-3.20,1.80,-1.40,0.81
 272,"James Johnson, PF",MIA,55,21.2,-2.19,0.79,-1.40,1.24
@@ -282,7 +282,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 281,"Dion Waiters, SG",MIA,44,25.9,-0.64,-0.81,-1.45,1.15
 282,"Demetrius Jackson, PG",PHI,6,6.5,-0.74,-0.72,-1.46,0.01
 283,"Ron Baker, G",NY/WSH,15,10.1,-1.56,0.09,-1.47,0.12
-284,"Jalen Jones, F",CLE,16,13.4,-1.23,-0.27,-1.50,0.17
+284,"Jalen Jones, SF",CLE,16,13.4,-1.23,-0.27,-1.50,0.17
 285,"Rodions Kurucs, SF",BKN,63,20.5,-1.21,-0.29,-1.50,0.08
 286,"Aaron Holiday, PG",IND,50,12.9,-1.11,-0.40,-1.51,0.66
 287,"Shai Gilgeous-Alexander, PG",LAC,82,26.5,-0.41,-1.10,-1.51,2.23
@@ -365,7 +365,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 364,"Dwyane Wade, G",MIA,72,26.2,-0.16,-2.00,-2.16,1.15
 365,"Kent Bazemore, PG",ATL,67,24.5,-2.31,0.15,-2.16,1.05
 366,"James Nunnally, G",HOU/MIN,15,6.8,-1.29,-0.89,-2.18,0.05
-367,"Justin Anderson, SF",ATL,48,9.6,-2.09,-0.09,-2.18,0.29
+367,"Justin Anderson, G",ATL,48,9.6,-2.09,-0.09,-2.18,0.29
 368,"Georges Niang, SF",UTAH,59,8.7,-0.63,-1.55,-2.18,0.32
 369,"Chris Chiozza, PG",HOU,7,4.7,-1.68,-0.50,-2.18,0.02
 370,"Melvin Frazier Jr., SG",ORL,10,4.4,-2.48,0.30,-2.18,0.03
