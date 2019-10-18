@@ -161,7 +161,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 160,"Shabazz Napier, PG",BKN,56,17.6,0.64,-0.74,-0.10,1.89
 161,"Nicolas Batum, SG",CHA,75,31.4,-0.15,0.04,-0.11,4.52
 162,"Joe Harris, SG",BKN,76,30.2,1.50,-1.65,-0.15,4.35
-163,"Eric Moreland, PF",PHX/TOR,5,8.6,-1.71,1.54,-0.17,0.01
+163,"Eric Moreland, C",PHX/TOR,5,8.6,-1.71,1.54,-0.17,0.01
 164,"Kenneth Faried, F",HOU/BKN,37,19.7,-0.68,0.50,-0.18,1.40
 165,"Taj Gibson, PF",MIN,70,24.1,-0.43,0.24,-0.19,3.17
 166,"Harrison Barnes, SF",DAL/SAC,77,32.9,-0.16,-0.05,-0.21,4.82
@@ -260,7 +260,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 259,"Dario Saric, PF",MIN/PHI,81,25.0,0.30,-1.58,-1.28,2.38
 260,"Jodie Meeks, G",TOR,8,13.0,-1.04,-0.25,-1.29,0.12
 261,"Tim Hardaway Jr., SG",DAL/NY,65,31.6,0.39,-1.69,-1.30,2.42
-262,"DeVaughn Akoon-Purcell, SG",DEN,7,3.1,-1.07,-0.25,-1.32,0.02
+262,"DeVaughn Akoon-Purcell, G",DEN,7,3.1,-1.07,-0.25,-1.32,0.02
 263,"Kyle O'Quinn, C",IND,45,8.2,-2.09,0.74,-1.35,0.41
 264,"Andrew Wiggins, SF",MIN,73,34.8,0.20,-1.55,-1.35,2.89
 265,"Dorian Finney-Smith, SF",DAL,81,24.5,-0.92,-0.44,-1.36,2.22
@@ -328,7 +328,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 327,"George King, F",PHX,1,6.0,-2.00,0.11,-1.89,0.00
 328,"Courtney Lee, SG",DAL/NY,34,12.6,-2.20,0.30,-1.90,0.33
 329,"Skal Labissiere, PF",POR/SAC,22,8.0,-1.79,-0.11,-1.90,0.13
-330,"BJ Johnson, SG",ATL/SAC,7,7.0,-2.11,0.20,-1.91,0.02
+330,"BJ Johnson, F",ATL/SAC,7,7.0,-2.11,0.20,-1.91,0.02
 331,"Guerschon Yabusele, F",BOS,41,6.1,-1.97,0.06,-1.91,0.20
 332,"Alize Johnson, PF",IND,14,4.6,-2.20,0.29,-1.91,0.06
 333,"Jordan Loyd, G",TOR,12,4.6,-1.55,-0.37,-1.92,0.05
@@ -449,7 +449,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 448,"Jeremy Lin, G",ATL/TOR,74,19.4,-1.77,-1.19,-2.96,0.16
 449,"Glenn Robinson III, SF",DET,47,13.0,-3.31,0.33,-2.98,0.05
 450,"Michael Carter-Williams, PG",HOU/ORL,28,13.3,-2.03,-1.01,-3.04,0.01
-451,"Anfernee Simons, SG",POR,20,7.1,-1.81,-1.25,-3.06,0.00
+451,"Anfernee Simons, G",POR,20,7.1,-1.81,-1.25,-3.06,0.00
 452,"Shaquille Harrison, PG",CHI,73,19.6,-2.58,-0.51,-3.09,0.03
 453,"Isaiah Thomas, PG",DEN,12,15.1,-2.46,-0.67,-3.13,0.00
 454,"Tyrone Wallace, SG",LAC,62,10.1,-3.45,0.30,-3.15,-0.01
