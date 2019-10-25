@@ -110,7 +110,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 109,"Goran Dragic, PG",MIA,36,27.5,0.47,0.33,0.80,2.42
 110,"Luol Deng, F",MIN,22,17.8,-0.66,1.45,0.79,1.01
 111,"Royce O'Neale, SF",UTAH,82,20.4,-1.49,2.28,0.79,4.29
-112,"Noah Vonleh, PF",NY,68,25.3,-0.89,1.60,0.71,4.21
+112,"Noah Vonleh, F",NY,68,25.3,-0.89,1.60,0.71,4.21
 113,"Jonas Valanciunas, C",TOR/MEM,49,22.3,-1.00,1.64,0.64,2.64
 114,"Maurice Harkless, SF",POR,60,23.6,-1.05,1.69,0.64,3.31
 115,"Aron Baynes, C",BOS,51,16.1,-2.01,2.63,0.62,2.02
@@ -152,7 +152,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 151,"Alex Caruso, SG",LAL,25,21.2,-0.71,0.77,0.06,1.02
 152,"Bogdan Bogdanovic, SG",SAC,70,27.8,0.90,-0.86,0.04,3.99
 153,"Lauri Markkanen, PF",CHI,52,32.3,0.27,-0.24,0.03,3.25
-154,"Kyle Kuzma, PF",LAL,70,33.1,0.78,-0.77,0.01,4.79
+154,"Kyle Kuzma, F",LAL,70,33.1,0.78,-0.77,0.01,4.79
 155,"Ryan Broekhoff, SG",DAL,42,10.8,-0.22,0.22,0.00,0.88
 156,"Pau Gasol, PF",MIL/SA,30,12.0,-2.35,2.32,-0.03,0.68
 157,"Lou Williams, SG",LAC,75,26.6,3.50,-3.54,-0.04,3.92
@@ -212,7 +212,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 211,"Donatas Motiejunas, F",SA,3,4.3,-2.30,1.48,-0.82,0.02
 212,"Justin Jackson, SF",DAL/SAC,81,19.9,0.13,-0.96,-0.83,2.43
 213,"Jeff Green, SF",WSH,77,27.2,0.35,-1.21,-0.86,2.97
-214,"Marcus Morris, PF",BOS,75,27.9,0.31,-1.17,-0.86,3.04
+214,"Marcus Morris Sr., PF",BOS,75,27.9,0.31,-1.17,-0.86,3.04
 215,"Dwight Howard, C",WSH,9,25.6,-2.29,1.42,-0.87,0.31
 216,"Evan Fournier, SG",ORL,81,31.5,0.58,-1.45,-0.87,3.60
 217,"Tyreke Evans, G",IND,69,20.3,-1.12,0.23,-0.89,1.95
@@ -512,4 +512,4 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 511,"Jamal Crawford, G",PHX,64,18.9,-1.77,-3.93,-5.70,-1.97
 512,"Marquese Chriss, PF",CLE/HOU,43,11.6,-4.27,-1.48,-5.75,-0.81
 513,"Antonio Blakeney, G",CHI,57,14.5,-2.65,-3.16,-5.81,-1.40
-514,"Kevin Knox, SF",NY,75,28.8,-3.03,-4.44,-7.47,-5.94
+514,"Kevin Knox II, SF",NY,75,28.8,-3.03,-4.44,-7.47,-5.94
