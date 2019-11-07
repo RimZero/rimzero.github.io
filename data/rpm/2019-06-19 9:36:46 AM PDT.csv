@@ -375,7 +375,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 374,"Robert Williams III, C",BOS,32,8.8,-2.62,0.40,-2.22,0.11
 375,"Wilson Chandler, SF",LAC/PHI,51,23.1,-1.38,-0.85,-2.23,0.67
 376,"Moritz Wagner, SF",LAL,43,10.4,-3.15,0.92,-2.23,0.23
-377,"Ivan Rabb, F",MEM,49,14.7,-1.59,-0.64,-2.23,0.40
+377,"Ivan Rabb, PF",MEM,49,14.7,-1.59,-0.64,-2.23,0.40
 378,"Treveon Graham, SF",BKN,35,20.4,-2.53,0.29,-2.24,0.43
 379,"Brandon Goodwin, PG",DEN,16,3.6,-1.71,-0.53,-2.24,0.03
 380,"Carmelo Anthony, F",HOU,10,29.4,-2.51,0.24,-2.27,0.16
@@ -398,7 +398,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 397,"Damion Lee, SG",GS,32,11.7,-1.75,-0.70,-2.45,0.16
 398,"Bruce Brown, SG",DET,74,19.6,-3.42,0.97,-2.45,0.59
 399,"Haywood Highsmith, G",PHI,5,8.0,-2.15,-0.32,-2.47,0.01
-400,"C.J. Miles, G",TOR/MEM,53,16.2,-1.94,-0.54,-2.48,0.36
+400,"C.J. Miles, SG",TOR/MEM,53,16.2,-1.94,-0.54,-2.48,0.36
 401,"Yuta Watanabe, SG",MEM,15,11.6,-2.90,0.41,-2.49,0.06
 402,"Dillon Brooks, SG",MEM,18,18.3,-2.22,-0.27,-2.49,0.13
 403,"Daryl Macon, SG",DAL,8,11.3,-1.84,-0.67,-2.51,0.03
