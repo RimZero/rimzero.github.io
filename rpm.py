@@ -9,7 +9,7 @@ import re
 from datetime import datetime
 
 
-def api(page=1, year=2018):
+def api(page=1, year=2019):
     return "http://www.espn.com/nba/statistics/rpm/_/year/#{year}/page/#{page}".replace(
         '#{page}', str(page)).replace('#{year}', str(year))
 
