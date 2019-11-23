@@ -12,7 +12,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 11,"Kevin Durant, SF",GS,78,34.6,4.36,0.60,4.96,14.10
 12,"Chris Paul, PG",HOU,58,32.0,2.49,2.27,4.76,9.17
 13,"Danny Green, SG",TOR,80,27.7,2.66,2.07,4.73,11.23
-14,"Jimmy Butler, SF",MIN/PHI,65,33.6,2.55,2.16,4.71,10.97
+14,"Jimmy Butler, F",MIN/PHI,65,33.6,2.55,2.16,4.71,10.97
 15,"Kyle Lowry, PG",TOR,65,34.0,2.83,1.82,4.65,10.97
 16,"Rudy Gobert, C",UTAH,81,31.8,0.29,4.35,4.64,13.10
 17,"Jrue Holiday, SG",NO,67,35.9,3.38,1.23,4.61,12.28
@@ -334,7 +334,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 333,"Jordan Loyd, G",TOR,12,4.6,-1.55,-0.37,-1.92,0.05
 334,"Zach Lofton, G",DET,1,4.0,-1.37,-0.55,-1.92,0.00
 335,"Matthew Dellavedova, PG",CLE/MIL,48,16.9,-1.40,-0.53,-1.93,0.60
-336,"Iman Shumpert, SG",HOU/SAC,62,23.9,-1.11,-0.84,-1.95,1.14
+336,"Iman Shumpert, G",HOU/SAC,62,23.9,-1.11,-0.84,-1.95,1.14
 337,"Trey Lyles, PF",DEN,64,17.5,-2.08,0.13,-1.95,0.82
 338,"Bobby Portis, PF",CHI/WSH,50,26.0,-0.40,-1.56,-1.96,0.96
 339,"Joe Chealey, G",CHA,1,8.0,-1.61,-0.36,-1.97,0.01
