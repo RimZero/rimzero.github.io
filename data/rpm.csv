@@ -45,7 +45,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 44,"Dwight Powell, PF",DAL,77,21.6,2.31,0.00,2.31,5.70
 45,"Marcus Smart, PG",BOS,80,27.5,0.98,1.27,2.25,7.43
 46,"Rudy Gay, SF",SA,69,26.7,0.44,1.78,2.22,6.21
-47,"Victor Oladipo, G",IND,36,31.9,0.96,1.26,2.22,3.74
+47,"Victor Oladipo, SG",IND,36,31.9,0.96,1.26,2.22,3.74
 48,"Kelly Olynyk, PF",MIA,79,22.9,0.74,1.34,2.08,5.91
 49,"Justise Winslow, SF",MIA,66,29.7,0.15,1.90,2.05,6.28
 50,"George Hill, PG",CLE/MIL,60,21.7,0.15,1.89,2.04,4.25
@@ -467,7 +467,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 466,"Jerome Robinson, SG",LAC,33,9.7,-1.72,-1.67,-3.39,-0.05
 467,"Alec Burks, SG",CLE/SAC/UTAH,64,21.5,-1.42,-2.00,-3.42,-0.26
 468,"Avery Bradley, PG",LAC/MEM,63,30.2,-2.18,-1.26,-3.44,-0.38
-469,"Edmond Sumner, G",IND,23,9.1,-3.00,-0.47,-3.47,-0.05
+469,"Edmond Sumner, PG",IND,23,9.1,-3.00,-0.47,-3.47,-0.05
 470,"Jacob Evans, SG",GS,30,6.8,-2.90,-0.62,-3.52,-0.05
 471,"Dairis Bertans, G",NO,12,13.9,-2.51,-1.03,-3.54,-0.04
 472,"Wes Iwundu, SF",ORL,68,18.1,-3.67,0.13,-3.54,-0.31
