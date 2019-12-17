@@ -1,6 +1,6 @@
 RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 1,"Paul George, SF",OKC,77,36.9,4.55,3.08,7.63,19.86
-2,"James Harden, PG",HOU,78,36.8,7.40,0.02,7.42,18.54
+2,"James Harden, SG",HOU,78,36.8,7.40,0.02,7.42,18.54
 3,"Stephen Curry, PG",GS,69,33.8,5.99,0.85,6.84,15.24
 4,"Giannis Antetokounmpo, PF",MIL,72,32.8,3.16,3.53,6.69,15.22
 5,"Nikola Jokic, C",DEN,80,31.3,3.89,2.59,6.48,14.91
@@ -452,7 +452,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 451,"Anfernee Simons, SG",POR,20,7.1,-1.81,-1.25,-3.06,0.00
 452,"Shaquille Harrison, PG",CHI,73,19.6,-2.58,-0.51,-3.09,0.03
 453,"Isaiah Thomas, PG",DEN,12,15.1,-2.46,-0.67,-3.13,0.00
-454,"Tyrone Wallace, SG",LAC,62,10.1,-3.45,0.30,-3.15,-0.01
+454,"Tyrone Wallace, G",LAC,62,10.1,-3.45,0.30,-3.15,-0.01
 455,"Brandon Sampson, G",CHI,14,15.3,-1.72,-1.45,-3.17,-0.01
 456,"Channing Frye, F",CLE,36,9.5,-2.35,-0.83,-3.18,-0.01
 457,"Dante Cunningham, F",SA,64,14.5,-2.49,-0.72,-3.21,-0.05
