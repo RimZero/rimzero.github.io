@@ -29,7 +29,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 28,"Eric Bledsoe, PG",MIL,29,26.0,2.77,0.09,2.86,1.93
 29,"Christian Wood, PF",DET,32,16.3,1.88,0.93,2.80,1.22
 30,"Enes Kanter, C",BOS,26,18.1,1.30,1.47,2.77,0.99
-31,"David Nwaba, SG",BKN,20,13.4,0.39,2.37,2.76,0.66
+31,"David Nwaba, G",BKN,20,13.4,0.39,2.37,2.76,0.66
 32,"Kris Dunn, PG",CHI,36,24.1,-1.60,4.34,2.74,2.01
 33,"Donovan Mitchell, SG",UTAH,35,35.0,1.26,1.46,2.72,2.82
 34,"Jaylen Brown, SG",BOS,29,33.7,1.58,1.00,2.58,2.03
@@ -186,8 +186,8 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 185,"Andrew Wiggins, SF",MIN,26,35.8,1.18,-0.94,0.25,0.66
 186,"Theo Pinson, SG",BKN,23,13.4,-0.63,0.85,0.23,0.21
 187,"Aron Baynes, C",PHX,26,24.1,1.14,-0.92,0.22,0.41
-188,"Justin Robinson, PG",WSH,9,5.4,-0.32,0.53,0.22,0.03
-189,"Henry Ellenson, PF",BKN,5,3.0,-0.37,0.58,0.21,0.01
+188,"Justin Robinson, G",WSH,9,5.4,-0.32,0.53,0.22,0.03
+189,"Henry Ellenson, F",BKN,5,3.0,-0.37,0.58,0.21,0.01
 190,"Tristan Thompson, C",CLE,34,31.3,-1.17,1.37,0.20,0.67
 191,"Moritz Wagner, SF",WSH,21,20.4,1.64,-1.44,0.20,0.30
 192,"Grant Williams, PF",BOS,31,15.2,-1.30,1.49,0.19,0.29
