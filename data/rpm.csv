@@ -257,7 +257,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 256,"Dejounte Murray, PG",SA,32,23.9,0.35,-0.78,-0.42,0.26
 257,"Mike Conley, PG",UTAH,22,29.4,-0.62,0.19,-0.44,0.21
 258,"Taurean Prince, PF",BKN,36,30.5,-0.10,-0.34,-0.45,0.36
-259,"Gary Payton II, PG",WSH,9,23.6,-0.61,0.17,-0.45,0.07
+259,"Gary Payton II, G",WSH,9,23.6,-0.61,0.17,-0.45,0.07
 260,"Shake Milton, SG",PHI,11,9.0,0.51,-0.97,-0.45,0.03
 261,"Michael Kidd-Gilchrist, SF",CHA,11,13.7,-1.52,1.06,-0.47,0.04
 262,"Theo Pinson, SG",BKN,24,13.3,-0.86,0.39,-0.47,0.10
@@ -375,7 +375,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 374,"Jaylen Hoard, SF",POR,8,4.8,-1.03,-0.72,-1.75,-0.01
 375,"RJ Barrett, SG",NY,37,31.4,-0.82,-0.97,-1.79,-0.68
 376,"Cody Zeller, PF",CHA,37,23.1,-0.24,-1.56,-1.80,-0.50
-377,"Bobby Portis, PF",NY,38,21.1,-0.38,-1.42,-1.81,-0.48
+377,"Bobby Portis, F",NY,38,21.1,-0.38,-1.42,-1.81,-0.48
 378,"Darius Bazley, SF",OKC,38,17.0,-3.41,1.59,-1.82,-0.39
 379,"Tyrone Wallace, G",ATL,14,11.4,-1.49,-0.33,-1.83,-0.10
 380,"Robert Williams III, C",BOS,19,14.2,-0.60,-1.24,-1.83,-0.17
@@ -391,7 +391,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 390,"James Ennis III, SF",PHI,38,17.8,1.53,-3.55,-2.03,-0.51
 391,"Eric Gordon, SG",HOU,13,28.7,0.99,-3.02,-2.03,-0.31
 392,"Marco Belinelli, SG",SA,32,15.6,-0.08,-1.95,-2.03,-0.39
-393,"Jarred Vanderbilt, PF",DEN,4,3.3,-1.26,-0.78,-2.04,-0.01
+393,"Jarred Vanderbilt, F",DEN,4,3.3,-1.26,-0.78,-2.04,-0.01
 394,"Glenn Robinson III, SF",GS,38,31.9,-0.70,-1.37,-2.06,-0.95
 395,"Derrick Walton Jr., PG",LAC,19,10.8,-1.41,-0.68,-2.09,-0.17
 396,"Tony Snell, SG",DET,35,26.1,-1.34,-0.76,-2.10,-0.69
