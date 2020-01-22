@@ -160,7 +160,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 159,"Daniel Theis, PF",BOS,38,21.9,-1.12,1.61,0.49,0.67
 160,"De'Aaron Fox, PG",SAC,25,31.4,2.59,-2.11,0.48,0.63
 161,"Furkan Korkmaz, SG",PHI,44,20.5,0.09,0.39,0.48,0.73
-162,"Trevor Ariza, SF",SAC,32,24.7,-1.75,2.22,0.47,0.64
+162,"Trevor Ariza, F",SAC,32,24.7,-1.75,2.22,0.47,0.64
 163,"T.J. Warren, SF",IND,44,32.2,-0.97,1.44,0.47,1.12
 164,"Ryan Broekhoff, SG",DAL,10,7.7,0.91,-0.45,0.45,0.07
 165,"Kelan Martin, SF",MIN,17,17.4,-1.05,1.50,0.45,0.25
@@ -170,7 +170,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 169,"Rodions Kurucs, SF",BKN,27,13.3,-0.44,0.87,0.43,0.28
 170,"Bruno Fernando, PF",ATL,39,12.1,-0.75,1.18,0.42,0.36
 171,"Brook Lopez, C",MIL,43,26.3,-0.63,1.05,0.42,0.89
-172,"Kent Bazemore, SG",POR,43,25.8,-1.19,1.59,0.40,0.83
+172,"Kent Bazemore, G",POR,43,25.8,-1.19,1.59,0.40,0.83
 173,"Michael Carter-Williams, PG",ORL,21,16.2,-0.34,0.73,0.39,0.24
 174,"Cheick Diallo, PF",PHX,27,9.0,0.16,0.22,0.39,0.18
 175,"Romeo Langford, SG",BOS,12,9.2,-0.84,1.22,0.38,0.08
@@ -359,7 +359,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 358,"Landry Shamet, SG",LAC,26,26.7,-0.09,-1.12,-1.21,-0.23
 359,"Johnathan Williams, PF",WSH,7,18.0,-0.90,-0.33,-1.23,-0.04
 360,"Kevin Huerter, SG",ATL,33,27.8,0.19,-1.43,-1.24,-0.31
-361,"Wenyen Gabriel, PF",SAC,11,5.5,-0.49,-0.76,-1.25,-0.02
+361,"Wenyen Gabriel, F",SAC,11,5.5,-0.49,-0.76,-1.25,-0.02
 362,"Chandler Parsons, SF",ATL,5,10.8,-0.46,-0.80,-1.26,-0.02
 363,"Louis King, SF",DET,4,3.0,-0.24,-1.02,-1.26,-0.00
 364,"Stanley Johnson, SF",TOR,14,5.2,-0.89,-0.37,-1.26,-0.02
@@ -391,7 +391,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 390,"Bradley Beal, SG",WSH,35,35.4,2.96,-4.46,-1.50,-0.66
 391,"Ignas Brazdeikis, SF",NY,9,5.9,-0.64,-0.87,-1.52,-0.03
 392,"Vincent Poirier, C",BOS,12,4.8,-0.64,-0.89,-1.53,-0.03
-393,"Caleb Swanigan, PF",SAC,7,3.3,-0.80,-0.74,-1.54,-0.01
+393,"Caleb Swanigan, F",SAC,7,3.3,-0.80,-0.74,-1.54,-0.01
 394,"Nicolas Claxton, PF",BKN,12,13.0,-0.34,-1.21,-1.55,-0.08
 395,"Cody Zeller, PF",CHA,42,23.0,-0.09,-1.46,-1.56,-0.51
 396,"Jarred Vanderbilt, PF",DEN,4,3.3,-0.80,-0.75,-1.56,-0.01
@@ -462,6 +462,6 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 461,"Anfernee Simons, SG",POR,45,23.2,-0.90,-2.82,-3.72,-1.96
 462,"Kevin Porter Jr., SG",CLE,34,21.8,-2.31,-1.60,-3.90,-1.57
 463,"Kevin Knox II, SF",NY,43,19.3,-1.86,-2.22,-4.08,-1.84
-464,"Anthony Tolliver, PF",POR,33,16.8,-1.77,-2.49,-4.25,-1.30
+464,"Anthony Tolliver, F",POR,33,16.8,-1.77,-2.49,-4.25,-1.30
 465,"Miles Bridges, SF",CHA,45,30.3,-2.85,-2.72,-5.57,-4.07
 466,"Jonah Bolden, PF",PHI,3,4.3,-2.70,-3.11,-5.81,-0.02
