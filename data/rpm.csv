@@ -278,7 +278,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 277,"Malik Beasley, SG",DEN,35,17.3,0.41,-0.99,-0.58,0.05
 278,"Hamidou Diallo, SG",OKC,27,19.9,-0.41,-0.16,-0.58,0.04
 279,"Abdel Nader, SF",OKC,32,16.3,-1.07,0.49,-0.58,0.04
-280,"Gary Payton II, PG",WSH,16,20.4,-0.52,-0.06,-0.58,0.03
+280,"Gary Payton II, G",WSH,16,20.4,-0.52,-0.06,-0.58,0.03
 281,"Alen Smailagic, PF",GS,9,10.2,0.29,-0.88,-0.59,0.01
 282,"Ian Mahinmi, C",WSH,24,22.8,-0.83,0.24,-0.60,0.03
 283,"Mo Bamba, C",ORL,42,15.3,-1.84,1.24,-0.60,0.04
@@ -307,7 +307,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 306,"Tim Frazier, PG",DET,27,13.1,-0.98,0.22,-0.76,-0.02
 307,"LaMarcus Aldridge, PF",SA,42,33.1,-0.64,-0.12,-0.76,-0.07
 308,"Johnathan Motley, PF",LAC,7,2.4,0.14,-0.91,-0.77,-0.00
-309,"Gary Clark, PF",HOU/ORL,23,12.2,-0.27,-0.50,-0.77,-0.02
+309,"Gary Clark, F",HOU/ORL,23,12.2,-0.27,-0.50,-0.77,-0.02
 310,"Chris Silva, PF",MIA,30,8.3,1.17,-1.94,-0.78,-0.02
 311,"Frank Kaminsky, C",PHX,32,22.4,-0.17,-0.61,-0.79,-0.05
 312,"DeMarre Carroll, SF",SA,15,9.0,-0.37,-0.43,-0.80,-0.01
@@ -375,7 +375,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 374,"Robin Lopez, C",MIL,42,14.3,-0.37,-0.95,-1.32,-0.27
 375,"Thabo Sefolosha, SF",HOU,28,9.7,-1.13,-0.19,-1.32,-0.12
 376,"Marco Belinelli, SG",SA,40,15.0,0.27,-1.59,-1.32,-0.26
-377,"Wenyen Gabriel, PF",SAC,11,5.5,-0.48,-0.85,-1.33,-0.03
+377,"Wenyen Gabriel, F",SAC,11,5.5,-0.48,-0.85,-1.33,-0.03
 378,"Cedi Osman, SF",CLE,46,29.3,-1.05,-0.29,-1.34,-0.57
 379,"Tyler Herro, SG",MIA,42,28.0,-0.61,-0.75,-1.36,-0.54
 380,"Iman Shumpert, G",BKN,13,18.5,-1.51,0.14,-1.37,-0.11
@@ -439,7 +439,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 438,"Coby White, PG",CHI,48,24.1,-0.60,-1.78,-2.38,-1.33
 439,"Caleb Swanigan, PF",POR/SAC,8,5.8,-0.87,-1.55,-2.42,-0.06
 440,"Cam Reddish, SG",ATL,42,26.4,-1.37,-1.11,-2.47,-1.41
-441,"Treveon Graham, SG",ATL/MIN,36,19.1,-3.10,0.60,-2.50,-0.86
+441,"Treveon Graham, F",ATL/MIN,36,19.1,-3.10,0.60,-2.50,-0.86
 442,"Deonte Burton, SG",OKC,28,8.2,-1.92,-0.63,-2.54,-0.27
 443,"Timothe Luwawu-Cabarrot, SG",BKN,21,16.5,-1.67,-0.87,-2.55,-0.46
 444,"Glenn Robinson III, SF",GS,44,31.8,-0.94,-1.69,-2.63,-1.86
