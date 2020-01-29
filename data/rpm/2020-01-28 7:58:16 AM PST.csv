@@ -101,7 +101,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 100,"Daniel Theis, C",BOS,41,22.3,-0.79,2.09,1.29,1.24
 101,"Justise Winslow, SF",MIA,11,32.0,-0.15,1.44,1.29,0.49
 102,"Kendrick Nunn, SG",MIA,44,30.6,-0.28,1.57,1.29,1.79
-103,"Spencer Dinwiddie, PG",BKN,45,31.2,2.10,-0.82,1.28,1.93
+103,"Spencer Dinwiddie, G",BKN,45,31.2,2.10,-0.82,1.28,1.93
 104,"Lou Williams, SG",LAC,44,30.0,2.68,-1.42,1.27,1.84
 105,"Hassan Whiteside, C",POR,43,30.7,0.88,0.38,1.26,1.69
 106,"Nikola Vucevic, C",ORL,37,31.6,0.68,0.56,1.24,1.49
@@ -257,7 +257,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 256,"Michael Kidd-Gilchrist, SF",CHA,12,13.3,-1.11,0.73,-0.38,0.03
 257,"Taurean Prince, PF",BKN,45,30.0,0.18,-0.56,-0.38,0.31
 258,"Paul Watson, SF",ATL,2,8.5,-0.30,-0.08,-0.38,0.00
-259,"Terrence Ross, SG",ORL,46,26.0,-1.46,1.08,-0.38,0.25
+259,"Terrence Ross, G",ORL,46,26.0,-1.46,1.08,-0.38,0.25
 260,"DeMar DeRozan, SF",SA,46,34.3,0.46,-0.85,-0.39,0.34
 261,"Marvin Williams, PF",CHA,37,19.8,0.08,-0.47,-0.39,0.15
 262,"Malcolm Miller, SG",TOR,21,5.5,-0.59,0.18,-0.40,0.02
@@ -345,7 +345,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 344,"Garrett Temple, SG",BKN,40,28.7,-1.80,0.75,-1.06,-0.28
 345,"Jae Crowder, SF",MEM,42,29.5,0.05,-1.11,-1.06,-0.31
 346,"Robert Williams III, C",BOS,19,14.2,-0.07,-1.00,-1.06,-0.07
-347,"Gary Payton II, PG",WSH,17,20.2,-0.69,-0.38,-1.08,-0.09
+347,"Gary Payton II, G",WSH,17,20.2,-0.69,-0.38,-1.08,-0.09
 348,"Jordan McLaughlin, PG",MIN,13,17.5,-0.13,-0.94,-1.08,-0.05
 349,"Kentavious Caldwell-Pope, SG",LAL,46,25.7,0.78,-1.88,-1.10,-0.31
 350,"Bradley Beal, SG",WSH,38,35.4,3.12,-4.23,-1.10,-0.38
