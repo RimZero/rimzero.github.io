@@ -242,7 +242,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 241,"Ante Zizic, C",CLE,16,9.9,0.61,-0.85,-0.25,0.06
 242,"Harrison Barnes, SF",SAC,51,34.6,-1.38,1.13,-0.25,0.68
 243,"Aron Baynes, C",PHX,33,22.9,0.42,-0.67,-0.26,0.30
-244,"Michael Kidd-Gilchrist, SF",CHA,12,13.3,-1.11,0.84,-0.27,0.06
+244,"Michael Kidd-Gilchrist, F",CHA,12,13.3,-1.11,0.84,-0.27,0.06
 245,"PJ Washington, PF",CHA,44,30.0,-1.41,1.13,-0.28,0.45
 246,"Danuel House Jr., SF",HOU,46,30.7,0.27,-0.56,-0.29,0.52
 247,"Elie Okobo, SF",PHX,42,13.2,-0.09,-0.21,-0.30,0.19
@@ -264,8 +264,8 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 263,"Avery Bradley, PG",LAL,36,22.9,-1.51,1.13,-0.39,0.24
 264,"Dewayne Dedmon, C",SAC,34,15.9,-1.40,1.00,-0.40,0.15
 265,"Malcolm Miller, SG",TOR,22,5.3,-0.58,0.17,-0.40,0.03
-266,"Dragan Bender, SF",MIL,7,13.0,-0.07,-0.33,-0.41,0.03
-267,"Marvin Williams, PF",CHA,41,19.7,-0.32,-0.10,-0.42,0.21
+266,"Dragan Bender, F",MIL,7,13.0,-0.07,-0.33,-0.41,0.03
+267,"Marvin Williams, F",CHA,41,19.7,-0.32,-0.10,-0.42,0.21
 268,"Thaddeus Young, PF",CHI,52,23.6,-0.81,0.38,-0.42,0.34
 269,"Draymond Green, PF",GS,39,29.0,-1.16,0.73,-0.43,0.31
 270,"T.J. McConnell, PG",IND,50,19.3,0.64,-1.08,-0.44,0.24
@@ -353,12 +353,12 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 352,"Thanasis Antetokounmpo, SF",MIL,15,4.1,0.48,-1.62,-1.14,-0.01
 353,"Nicolas Batum, SG",CHA,22,23.0,-0.52,-0.63,-1.14,-0.10
 354,"Antonius Cleveland, SG",DAL,5,4.0,-0.64,-0.51,-1.15,-0.00
-355,"Maurice Harkless, SF",LAC,50,22.8,-1.53,0.38,-1.16,-0.27
+355,"Maurice Harkless, F",LAC,50,22.8,-1.53,0.38,-1.16,-0.27
 356,"Evan Turner, SG",ATL,19,13.2,-1.53,0.33,-1.19,-0.07
 357,"Jordan Poole, SG",GS,45,21.0,-1.70,0.49,-1.21,-0.26
 358,"Nickeil Alexander-Walker, SG",NO,40,12.5,0.39,-1.61,-1.22,-0.14
 359,"Michael Frazier, SG",HOU,6,9.7,-0.95,-0.28,-1.24,-0.01
-360,"Johnathan Williams, PF",WSH,10,13.5,-0.96,-0.28,-1.24,-0.04
+360,"Johnathan Williams, F",WSH,10,13.5,-0.96,-0.28,-1.24,-0.04
 361,"Garrett Temple, SG",BKN,45,28.4,-2.09,0.84,-1.25,-0.38
 362,"Tyrone Wallace, G",ATL,14,11.4,-1.30,0.02,-1.27,-0.05
 363,"Chandler Hutchison, SF",CHI,26,18.0,-0.38,-0.91,-1.29,-0.15
