@@ -82,16 +82,16 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 81,"Hassan Whiteside, C",POR,48,30.7,0.84,0.88,1.71,2.42
 82,"Grant Williams, PF",BOS,49,15.7,-0.40,2.08,1.68,1.31
 83,"Joe Harris, SF",BKN,50,31.3,0.52,1.15,1.67,2.63
-84,"Dion Waiters, SG",MIA,3,14.0,1.60,0.03,1.63,0.07
+84,"Dion Waiters, G",MIA,3,14.0,1.60,0.03,1.63,0.07
 85,"Anthony Davis, PF",LAL,44,34.6,1.65,-0.02,1.62,2.44
 86,"Naz Reid, C",MIN,17,10.8,1.38,0.24,1.61,0.29
 87,"Wesley Matthews, SG",MIL,49,24.5,0.04,1.55,1.59,1.97
 88,"Kristaps Porzingis, PF",DAL,40,30.4,0.37,1.20,1.58,1.97
 89,"Jaylen Brown, SG",BOS,42,33.6,0.37,1.21,1.58,2.27
 90,"Fred VanVleet, SG",TOR,43,35.9,-0.19,1.77,1.58,2.45
-91,"Justise Winslow, SF",MIA,11,32.0,-0.05,1.62,1.57,0.58
+91,"Justise Winslow, F",MIA,11,32.0,-0.05,1.62,1.57,0.58
 92,"Kyrie Irving, PG",BKN,20,32.9,4.08,-2.52,1.56,1.10
-93,"Marcus Morris Sr., SF",NY,43,32.3,0.44,1.12,1.56,2.09
+93,"Marcus Morris Sr., F",NY,43,32.3,0.44,1.12,1.56,2.09
 94,"Al Horford, PF",PHI,48,30.9,-0.46,2.02,1.56,2.39
 95,"Trey Burke, PG",PHI,25,13.2,0.49,1.05,1.53,0.48
 96,"Daniel Theis, C",BOS,45,22.6,-1.06,2.59,1.53,1.59
@@ -450,7 +450,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 449,"Coby White, PG",CHI,53,24.1,-0.41,-1.97,-2.37,-1.39
 450,"Khem Birch, C",ORL,37,20.5,-2.49,0.09,-2.41,-0.81
 451,"Allonzo Trier, SG",NY,20,12.3,-0.26,-2.17,-2.43,-0.28
-452,"Isaiah Thomas, PG",WSH,40,23.1,1.56,-4.01,-2.45,-1.09
+452,"Isaiah Thomas, G",WSH,40,23.1,1.56,-4.01,-2.45,-1.09
 453,"Timothe Luwawu-Cabarrot, SG",BKN,26,15.3,-1.80,-0.67,-2.48,-0.45
 454,"Wilson Chandler, SF",BKN,23,20.7,-1.73,-0.76,-2.49,-0.53
 455,"Taj Gibson, C",NY,50,16.6,-2.15,-0.38,-2.53,-0.91
