@@ -90,7 +90,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 89,"Josh Richardson, SG",PHI,40,30.8,-0.57,2.15,1.58,1.85
 90,"Goran Dragic, PG",MIA,41,28.2,2.49,-0.93,1.56,1.71
 91,"Jaylen Brown, SG",BOS,43,33.7,0.33,1.23,1.55,2.14
-92,"Trey Burke, PG",PHI,25,13.2,0.58,0.96,1.55,0.47
+92,"Trey Burke, G",PHI,25,13.2,0.58,0.96,1.55,0.47
 93,"Naz Reid, C",MIN,17,10.8,1.29,0.24,1.52,0.29
 94,"Kyrie Irving, PG",BKN,20,32.9,4.04,-2.53,1.52,1.03
 95,"Denzel Valentine, SG",CHI,30,12.2,0.04,1.48,1.52,0.54
@@ -235,7 +235,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 234,"Brandon Goodwin, PG",ATL,24,13.9,-0.14,-0.04,-0.18,0.12
 235,"Clint Capela, C",HOU,39,32.8,-0.56,0.38,-0.18,0.46
 236,"Alex Len, C",ATL,40,18.6,-0.21,0.02,-0.18,0.27
-237,"Ryan Broekhoff, SG",DAL,17,10.6,0.94,-1.15,-0.21,0.06
+237,"Ryan Broekhoff, G",DAL,17,10.6,0.94,-1.15,-0.21,0.06
 238,"Austin Rivers, PG",HOU,49,23.7,1.95,-2.18,-0.23,0.38
 239,"Avery Bradley, PG",LAL,37,23.2,-1.27,1.03,-0.23,0.27
 240,"Dragan Bender, F",MIL,7,13.0,-0.01,-0.23,-0.23,0.03
@@ -373,7 +373,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 372,"Justin Patton, C",OKC,5,4.8,-0.11,-1.13,-1.24,-0.01
 373,"BJ Johnson, SF",ORL,8,5.8,-0.66,-0.62,-1.28,-0.02
 374,"Troy Brown Jr., SF",WSH,48,26.1,0.04,-1.34,-1.31,-0.53
-375,"Tyler Johnson, SG",PHX,31,16.6,-1.24,-0.08,-1.31,-0.22
+375,"Tyler Johnson, G",PHX,31,16.6,-1.24,-0.08,-1.31,-0.22
 376,"Caleb Martin, SF",CHA,6,9.2,-0.82,-0.51,-1.34,-0.02
 377,"Tyrone Wallace, G",ATL,14,11.4,-1.25,-0.09,-1.34,-0.07
 378,"Tyler Cook, F",CLE,11,3.2,-0.82,-0.52,-1.34,-0.01
