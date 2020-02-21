@@ -28,7 +28,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 27,"Isaac Bonga, SF",WSH,48,17.7,-0.13,3.26,3.13,2.26
 28,"Marc Gasol, C",TOR,35,27.8,-0.07,3.17,3.10,2.58
 29,"Alex Caruso, SG",LAL,50,18.2,-0.30,3.36,3.06,2.32
-30,"Chris Chiozza, PG",BKN/WSH,14,10.4,0.63,2.44,3.06,0.38
+30,"Chris Chiozza, F",BKN/WSH,14,10.4,0.63,2.44,3.06,0.38
 31,"Luka Doncic, SG",DAL,44,32.8,4.62,-1.58,3.04,3.71
 32,"Bojan Bogdanovic, SF",UTAH,53,33.3,2.78,0.19,2.97,4.42
 33,"Ivica Zubac, C",LAC,55,17.8,0.16,2.78,2.94,2.48
@@ -218,7 +218,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 217,"Matthew Dellavedova, PG",CLE,46,12.3,-1.22,1.20,-0.02,0.27
 218,"Jarrett Culver, SG",MIN,52,24.4,-0.98,0.94,-0.04,0.61
 219,"Moritz Wagner, SF",WSH,26,20.3,1.44,-1.48,-0.05,0.26
-220,"Marvin Williams, PF",MIL/CHA,42,19.7,0.17,-0.22,-0.05,0.37
+220,"Marvin Williams, F",MIL/CHA,42,19.7,0.17,-0.22,-0.05,0.37
 221,"Taurean Prince, PF",BKN,53,29.7,0.37,-0.44,-0.07,0.72
 222,"Myles Turner, C",IND,45,29.1,-1.58,1.51,-0.07,0.57
 223,"PJ Dozier, PG",DEN,15,14.7,0.22,-0.30,-0.07,0.10
@@ -293,7 +293,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 292,"T.J. McConnell, PG",IND,53,19.2,0.38,-0.94,-0.56,0.12
 293,"Anzejs Pasecniks, C",WSH,20,18.5,0.57,-1.13,-0.56,0.04
 294,"Eric Mika, C",SAC,1,19.0,-0.14,-0.43,-0.57,0.00
-295,"Jeremy Pargo, PG",GS,3,14.7,0.45,-1.03,-0.57,0.00
+295,"Jeremy Pargo, G",GS,3,14.7,0.45,-1.03,-0.57,0.00
 296,"PJ Washington, PF",CHA,47,30.1,-1.91,1.33,-0.58,0.14
 297,"Otto Porter Jr., SF",CHI,9,25.1,-0.06,-0.54,-0.60,0.02
 298,"DeMarre Carroll, F",SA,15,9.0,-0.31,-0.32,-0.63,0.01
@@ -367,7 +367,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 366,"Jonah Bolden, PF",PHI/PHX,5,8.0,-0.43,-0.76,-1.20,-0.01
 367,"KZ Okpala, SF",MIA,5,5.2,-0.73,-0.47,-1.20,-0.01
 368,"Kevin Hervey, PF",OKC,6,2.2,-0.51,-0.71,-1.21,-0.00
-369,"Glenn Robinson III, SF",GS/PHI,50,30.8,-0.03,-1.19,-1.22,-0.51
+369,"Glenn Robinson III, F",GS/PHI,50,30.8,-0.03,-1.19,-1.22,-0.51
 370,"Josh Magette, G",ORL,8,4.8,-0.45,-0.78,-1.23,-0.01
 371,"Nickeil Alexander-Walker, SG",NO,41,12.2,0.29,-1.52,-1.23,-0.18
 372,"Markieff Morris, PF",DET,44,22.5,-0.37,-0.87,-1.24,-0.33
@@ -420,7 +420,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 419,"Cristiano Felicio, PF",CHI,15,17.8,-0.03,-1.67,-1.70,-0.18
 420,"Dwayne Bacon, SG",CHA,39,17.6,-2.20,0.50,-1.71,-0.43
 421,"Juan Hernangomez, PF",DEN/MIN,37,13.8,-0.82,-0.91,-1.74,-0.35
-422,"Zach Norvell Jr., SG",GS/LAL,5,8.2,-0.18,-1.56,-1.74,-0.03
+422,"Zach Norvell Jr., G",GS/LAL,5,8.2,-0.18,-1.56,-1.74,-0.03
 423,"Troy Brown Jr., SF",WSH,50,25.8,-0.19,-1.60,-1.79,-0.97
 424,"Edmond Sumner, PG",IND,20,13.4,-0.24,-1.56,-1.80,-0.19
 425,"Terry Rozier, PG",CHA,53,34.2,-2.20,0.36,-1.85,-1.28
