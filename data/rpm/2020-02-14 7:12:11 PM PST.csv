@@ -198,7 +198,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 197,"Blake Griffin, PF",DET,18,28.4,0.41,-0.30,0.11,0.27
 198,"Juwan Morgan, SF",UTAH,13,4.1,-0.12,0.23,0.10,0.03
 199,"Andrew Wiggins, SG",GS/MIN,46,34.4,1.29,-1.19,0.10,0.90
-200,"Shabazz Napier, PG",MIN/WSH,40,23.4,0.10,-0.01,0.09,0.54
+200,"Shabazz Napier, G",MIN/WSH,40,23.4,0.10,-0.01,0.09,0.54
 201,"Jordan McRae, SG",DEN/WSH,31,21.9,1.49,-1.41,0.09,0.40
 202,"Johnathan Motley, PF",LAC,13,3.2,1.13,-1.05,0.08,0.02
 203,"Tyus Jones, PG",MEM,55,18.8,2.04,-1.97,0.07,0.59
@@ -279,7 +279,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 278,"Terrence Ross, SG",ORL,53,26.8,-1.81,1.33,-0.49,0.23
 279,"Victor Oladipo, SG",IND,7,25.0,-0.66,0.17,-0.49,0.03
 280,"Shake Milton, SG",PHI,23,14.9,-0.02,-0.47,-0.49,0.05
-281,"Michael Kidd-Gilchrist, SF",CHA,12,13.3,-1.18,0.68,-0.50,0.02
+281,"Michael Kidd-Gilchrist, F",CHA,12,13.3,-1.18,0.68,-0.50,0.02
 282,"Kentavious Caldwell-Pope, SG",LAL,53,25.3,1.14,-1.64,-0.50,0.21
 283,"Marco Belinelli, SG",SA,47,15.1,0.93,-1.44,-0.51,0.11
 284,"Brad Wanamaker, PG",BOS,53,18.8,-0.51,-0.01,-0.51,0.15
@@ -320,7 +320,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 319,"John Konchar, SG",MEM,6,5.7,-0.31,-0.50,-0.81,-0.00
 320,"Brandon Knight, PG",CLE/DET,18,14.8,0.12,-0.93,-0.81,-0.01
 321,"Kelly Olynyk, PF",MIA,49,19.3,0.27,-1.10,-0.82,-0.06
-322,"Maurice Harkless, SF",LAC/NY,51,22.9,-1.53,0.69,-0.84,-0.09
+322,"Maurice Harkless, F",LAC/NY,51,22.9,-1.53,0.69,-0.84,-0.09
 323,"Willy Hernangomez, C",CHA,24,10.6,-0.15,-0.69,-0.84,-0.02
 324,"Bruce Brown, SG",DET,55,28.0,-2.92,2.07,-0.85,-0.12
 325,"Daryl Macon, G",MIA,4,3.5,-0.69,-0.17,-0.86,-0.00
@@ -372,7 +372,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 371,"Nickeil Alexander-Walker, SG",NO,41,12.2,0.29,-1.52,-1.23,-0.18
 372,"Markieff Morris, PF",DET,44,22.5,-0.37,-0.87,-1.24,-0.33
 373,"Tyler Johnson, G",PHX,31,16.6,-1.22,-0.02,-1.24,-0.18
-374,"Johnathan Williams, PF",WSH,11,12.3,-1.00,-0.25,-1.25,-0.05
+374,"Johnathan Williams, F",WSH,11,12.3,-1.00,-0.25,-1.25,-0.05
 375,"Cedi Osman, SF",CLE,54,28.9,-0.83,-0.42,-1.25,-0.55
 376,"Emmanuel Mudiay, PG",UTAH,45,16.1,-0.12,-1.16,-1.28,-0.27
 377,"Juan Toscano-Anderson, SF",GS,4,18.0,-0.47,-0.81,-1.28,-0.02
@@ -460,7 +460,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 459,"Drew Eubanks, PF",SA,8,5.3,-0.65,-1.96,-2.61,-0.06
 460,"Isaiah Thomas, G",WSH,40,23.1,1.63,-4.27,-2.64,-1.26
 461,"Jacob Evans, SG",GS/MIN,28,14.8,-1.68,-0.99,-2.67,-0.56
-462,"Keita Bates-Diop, SF",DEN/MIN,39,17.1,-2.10,-0.60,-2.69,-0.91
+462,"Keita Bates-Diop, F",DEN/MIN,39,17.1,-2.10,-0.60,-2.69,-0.91
 463,"Sekou Doumbouya, SF",DET,30,20.2,-1.70,-1.00,-2.70,-0.75
 464,"Frank Jackson, PG",NO,44,13.2,0.79,-3.50,-2.71,-0.83
 465,"Rui Hachimura, PF",WSH,30,28.8,-0.41,-2.30,-2.71,-1.20
