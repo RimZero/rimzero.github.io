@@ -304,7 +304,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 303,"D'Angelo Russell, SG",GS/MIN,35,32.2,2.46,-3.12,-0.66,0.06
 304,"Jevon Carter, PG",PHX,40,14.5,-1.35,0.69,-0.66,0.03
 305,"Kadeem Allen, SG",NY,10,11.7,0.08,-0.75,-0.67,0.01
-306,"Paul Watson, SF",ATL/TOR,4,5.5,-0.54,-0.14,-0.68,0.00
+306,"Paul Watson, G",ATL/TOR,4,5.5,-0.54,-0.14,-0.68,0.00
 307,"Amir Coffey, SG",LAC,6,9.0,0.26,-0.94,-0.68,0.00
 308,"Caleb Martin, SF",CHA,8,12.4,-0.91,0.22,-0.69,0.00
 309,"Dean Wade, PF",CLE,10,5.4,-0.02,-0.68,-0.70,0.00
@@ -370,7 +370,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 369,"Glenn Robinson III, SF",GS/PHI,51,30.5,-0.03,-1.19,-1.22,-0.51
 370,"Josh Magette, G",ORL,8,4.8,-0.45,-0.78,-1.23,-0.01
 371,"Nickeil Alexander-Walker, SG",NO,41,12.2,0.29,-1.52,-1.23,-0.18
-372,"Markieff Morris, PF",DET,44,22.5,-0.37,-0.87,-1.24,-0.33
+372,"Markieff Morris, F",DET,44,22.5,-0.37,-0.87,-1.24,-0.33
 373,"Tyler Johnson, G",PHX,31,16.6,-1.22,-0.02,-1.24,-0.18
 374,"Johnathan Williams, F",WSH,11,12.3,-1.00,-0.25,-1.25,-0.05
 375,"Cedi Osman, SF",CLE,54,28.9,-0.83,-0.42,-1.25,-0.55
@@ -433,7 +433,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 432,"Harry Giles III, PF",SAC,29,12.9,-0.54,-1.36,-1.89,-0.28
 433,"Zylan Cheatham, SF",NO,3,10.3,-1.09,-0.81,-1.90,-0.02
 434,"Grayson Allen, SG",MEM,30,16.6,0.55,-2.47,-1.92,-0.42
-435,"Dante Exum, PG",CLE/UTAH,32,13.4,-1.82,-0.17,-1.99,-0.35
+435,"Dante Exum, G",CLE/UTAH,32,13.4,-1.82,-0.17,-1.99,-0.35
 436,"Dzanan Musa, SG",BKN,35,11.5,-0.78,-1.25,-2.03,-0.37
 437,"Jarrell Brantley, PF",UTAH,3,3.7,-1.27,-0.78,-2.05,-0.01
 438,"Robin Lopez, C",MIL,51,13.7,-0.91,-1.17,-2.08,-0.66
