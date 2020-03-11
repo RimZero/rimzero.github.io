@@ -83,7 +83,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 82,"Gordon Hayward, SF",BOS,44,33.3,0.94,-0.17,0.77,1.78
 83,"Derrick Rose, PG",DET,50,26.0,1.73,-0.96,0.77,1.53
 84,"Chris Chiozza, PG",BKN/WSH,20,11.6,0.76,-0.02,0.75,0.28
-85,"Dion Waiters, SG",MIA,3,14.0,1.14,-0.43,0.71,0.05
+85,"Dion Waiters, G",MIA,3,14.0,1.14,-0.43,0.71,0.05
 86,"Boban Marjanovic, C",DAL,35,8.5,0.61,0.10,0.70,0.34
 87,"Steven Adams, C",OKC,58,27.0,-0.07,0.74,0.68,1.75
 88,"Andrew Wiggins, SG",GS/MIN,53,34.5,0.59,0.08,0.67,2.11
@@ -322,7 +322,7 @@ RK,NAME,TEAM,GP,MPG,ORPM,DRPM,RPM,WINS
 321,"Nickeil Alexander-Walker, SG",NO,41,12.2,-0.08,-1.01,-1.09,-0.03
 322,"Monte Morris, PG",DEN,64,21.6,-0.51,-0.59,-1.09,-0.07
 323,"Isaiah Thomas, PG",WSH,40,23.1,1.63,-2.72,-1.10,-0.05
-324,"Chasson Randle, PG",GS,2,13.0,-0.70,-0.40,-1.10,-0.00
+324,"Chasson Randle, G",GS,2,13.0,-0.70,-0.40,-1.10,-0.00
 325,"Tyson Chandler, C",HOU,26,8.4,-1.08,-0.02,-1.10,-0.01
 326,"Theo Pinson, SG",BKN,33,11.1,-0.65,-0.46,-1.11,-0.02
 327,"Jerami Grant, PF",DEN,63,26.3,-0.28,-0.83,-1.11,-0.10
